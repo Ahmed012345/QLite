@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957414522318",
+    "project_id": "final-lite-quran",
+    "storage_bucket": "final-lite-quran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957414522318:android:48c542dca275e5fc813f9f",
+        "android_client_info": {
+          "package_name": "com.finallite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957414522318-nv8302su1utvf294pue268133kn7seld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg5_lvm09_xZ8bozfxU0gxQ-1yvuuXhbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957414522318-nv8302su1utvf294pue268133kn7seld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
