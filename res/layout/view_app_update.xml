@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_gravity="center_vertical"
+        android:background="@color/white"
+        android:layout_marginStart="@dimen/_15mdp"
+        android:layout_marginEnd="@dimen/_15mdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <ImageView
+            android:id="@+id/ivClose"
+            android:layout_width="@dimen/_50mdp"
+            android:layout_height="@dimen/_50mdp"
+            android:padding="@dimen/_12mdp"
+            android:src="@android:drawable/ic_menu_close_clear_cancel"
+            android:layout_alignParentEnd="true"
+            tools:ignore="ContentDescription"/>
+
+    <ImageView
+            android:id="@+id/ivApplication"
+            android:layout_width="@dimen/_100mdp"
+            android:layout_height="@dimen/_100mdp"
+            android:layout_marginTop="@dimen/_16mdp"
+            android:padding="@dimen/_8mdp"
+            android:src="@drawable/launsh"
+            android:layout_centerInParent="true"
+            android:layout_alignParentTop="true"
+            tools:ignore="ContentDescription"/>
+
+
+    <com.finallite.app.main.LightTextView
+            android:id="@+id/tvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_16mdp"
+            android:layout_marginRight="@dimen/_16mdp"
+            android:layout_marginTop="@dimen/_12mdp"
+            android:gravity="center"
+            android:text="@string/dialog_title"
+            android:textColor="@color/e1"
+            android:textSize="@dimen/_20font_mdp"
+            android:layout_below="@+id/ivApplication" />
+
+    <com.finallite.app.main.LightTextView
+            android:id="@+id/tvMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_20mdp"
+            android:layout_marginRight="@dimen/_20mdp"
+            android:layout_marginTop="@dimen/_32mdp"
+            android:textColor="@color/e2"
+            android:gravity="center"
+            android:text="@string/dialog_message"
+            android:textSize="@dimen/xlarge_text"
+            android:layout_below="@+id/tvTitle" />
+
+    <com.finallite.app.main.LightTextView
+            android:id="@+id/tvUpdateNow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_32mdp"
+            android:background="#7CC68D"
+            android:gravity="center"
+            android:padding="@dimen/_12mdp"
+            android:text="@string/dialog_positive_button_title"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/xxlarge_text"
+            android:layout_below="@+id/tvMessage" />
+</RelativeLayout>
