@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quran Tukufu</string>
+    <string name="lang">sw</string>
+    <string name="turnlang">Badilisha lugha</string>
+    <string name="sharefacebook">Shiriki kiunga cha programu kwenye (Facebook)</string>
+    <string name="sharetwitter">Shiriki kiunga cha programu kwenye (Twitter)</string>
+    <string name="sharegmail">Shiriki kiunga cha programu kwenye (Gmail)</string>
+    <string name="sharewhatapp">Shiriki kiunga cha programu kwenye (What\'s App)</string>
+    <string name="shareinstagram">Shiriki kiunga cha programu kwenye (Instagram)</string>
+    <string name="sharetumblr">Shiriki kiunga cha programu kwenye (Tumblr)</string>
+    <string name="shareviber">Shiriki kiunga cha programu kwenye (Viber)</string>
+    <string name="sharelinkedin">Shiriki kiunga cha programu kwenye (Linkedin)</string>
+    <string name="sharesnapchat">Shiriki kiunga cha programu kwenye (Snapchat)</string>
+    <string name="shareskype">Shiriki kiunga cha programu kwenye (Skype)</string>
+    <string name="sharetelegram">Shiriki kiunga cha programu kwenye (Telegram)</string>
+    <string name="sharereddit">Shiriki kiunga cha programu kwenye (Reddit)</string>
+    <string name="dialog_title">Toleo jipya linapatikana</string>
+    <string name="dialog_message">Toleo jipya la programu linapatikana, tafadhali bonyeza hapa chini kusasisha toleo jipya.</string>
+    <string name="dialog_positive_button_title">Sasisha</string>
+    <string name="slide_to_cancel">Buruta ili kughairi</string>
+    <string name="hold_button_to_record">Anza kurekodi</string>
+    <string name="hold_button_to_record2">Wakati wa kusajili, tafadhali endelea kugusa</string>
+    <string name="fetchs">Uunganisho wa mtandao</string>
+    <string name="wifion">WIFI</string>
+    <string name="records">Recordings</string>
+    <string name="settingss">Mipangilio</string>
+    <string name="store_records_public">Hifadhi rekodi kwenye folda ya umma</string>
+    <string name="record_in_stereo">Sauti ya Stereo</string>
+    <string name="keep_screen_on">Usizime skrini wakati wa kurekodi</string>
+    <string name="total_duration">Jumla ya muda uliorekodiwa: %s</string>
+    <string name="total_record_count">Jumla ya rekodi: %d</string>
+    <string name="available_space">Nafasi inayopatikana: %s</string>
+    <string name="delete_all">Futa rekodi zote</string>
+    <string name="warning">Onyo!</string>
+    <string name="delete_record">Nenda kwenye taka ya kusindika %s</string>
+    <string name="delete_all_records">Futa rekodi zote na hautaweza kuzipata tena?</string>
+    <string name="all_records_deleted">Rekodi zote zimefanikiwa kufutwa</string>
+    <string name="failed_to_delete_all_records">Imeshindwa kufuta rekodi zote</string>
+    <string name="please_select_record_to_share">Tafadhali chagua au rekodi faili ya sauti ya kushiriki</string>
+    <string name="record_name">jina jipya</string>
+    <string name="recording">Usajili: %s</string>
+    <string name="recording_is_on">Kurekodi kumewashwa</string>
+    <string name="recording_progress">Jisajili …</string>
+    <string name="recording_paused">Imesitishwa</string>
+    <string name="playback">Cheza: %s</string>
+    <string name="no_records">Rekodi ni tupu.</string>
+    <string name="no_bookmarks">Alamisho ni tupu.</string>
+    <string name="bookmarks">Alamisho</string>
+    <string name="share_record">Rekodi kushiriki: %s</string>
+    <string name="import_progress">Inaleta faili ya sauti …</string>
+    <string name="record_processing">Inachakata faili …</string>
+    <string name="app_settings">Mipangilio ya sauti:</string>
+    <string name="recording_settings">Mipangilio ya Kurekodi:</string>
+    <string name="other_settings">Wengine:</string>
+    <string name="today">Siku hii</string>
+    <string name="yesterday">jana</string>
+    <string name="btn_save">kuokoa</string>
+    <string name="btn_savee">Jina limebadilishwa kwa mafanikio</string>
+    <string name="btn_cancel">Kughairi</string>
+    <string name="btn_cancell">Marekebisho ya jina yameghairiwa</string>
+    <string name="btn_c">Imeghairiwa futa faili</string>
+    <string name="btn_cc">futa</string>
+    <string name="btn_ccc">Faili imefutwa kwa mafanikio</string>
+    <string name="btn_cccc">Ufutaji wa faili umeghairiwa</string>
+    <string name="btn_ccccc">Rekodi zote zimefanikiwa kufutwa</string>
+    <string name="btn_cancelll">kuishia</string>
+    <string name="btn_yes">Ndio</string>
+    <string name="btn_no">Hapana</string>
+    <string name="btn_play">mbio</string>
+    <string name="error_unknown">Hitilafu isiyojulikana</string>
+    <string name="error_cant_create_file">Imeshindwa kuunda faili</string>
+    <string name="error_invalid_output_file">Faili ya pato ni batili</string>
+    <string name="error_file_exists">Faili iliyo na jina hili tayari ipo!</string>
+    <string name="error_failed_to_rename">Imeshindwa kubadilisha jina la usajili!</string>
+    <string name="error_failed_to_init_recorder">Imeshindwa kuanza kurekodi</string>
+    <string name="error_failed_to_init_player">Imeshindwa kuanza</string>
+    <string name="error_player_data_source">Mchezaji hawezi kusoma faili</string>
+    <string name="error_unable_to_read_sound_file">Imeshindwa kucheza faili ya sauti</string>
+    <string name="error_permission_denied">Ombi la idhini limekataliwa</string>
+    <string name="recordtoast">Wakati uliorekodiwa ni:</string>
+    <string name="open_record_with">Fungua %s na</string>
+    <string name="delete">futa</string>
+    <string name="rename">badilisha jina</string>
+    <string name="open_with">kufunguliwa kwa kutumia</string>
+    <string name="download">Pakua</string>
+    <string name="share">Shiriki</string>
+    <string name="ask_to_rename">Onyesha kubadili jina dialog baada ya kuacha kurekodi</string>
+    <string name="record_deleted_successfully">Faili imefutwa kwa mafanikio</string>
+    <string name="need_write_permission">Programu inahitaji ruhusa ya kufikia hifadhi ya umma. Ikiwa hairuhusiwi, magogo huhifadhiwa kwenye saraka ya programu</string>
+    <string name="rec_name">Nomino:</string>
+    <string name="rec_format">muundo:</string>
+    <string name="rec_duration">muda:</string>
+    <string name="rec_size">saizi:</string>
+    <string name="rec_location">Mahali pa faili:</string>
+    <string name="naming">kumtaja:</string>
+    <string name="private_dir_warning">Magogo yatahifadhiwa kwenye saraka ya programu na haionekani kwa programu zingine</string>
+    <string name="public_dir_warning">Magogo yatahifadhiwa kwenye saraka iliyoshirikiwa kwenye kifaa chako ambayo inaonekana kwa programu zingine</string>
+    <string name="btn_ok">sawa</string>
+    <string name="btn_deny">Kukataa</string>
+    <string name="btn_allow">Ruhusu</string>
+    <string name="error_process_waveform">waveform inaweza kuwa inayotolewa</string>
+    <string name="records_was_removed">Baadhi ya faili logi havikupatikana katika kumbukumbu directory. Inaweza kuondolewa au kuhamishwa.</string>
+    <string name="dont_ask_again_rename">Usiulize kubadili jina tena</string>
+    <string name="error_lost_records">Baadhi ya rekodi zako zimefutwa au kuhamishwa</string>
+    <string name="delete_record_forever">Futa rekodi ya %s milele?</string>
+    <string name="restore_record">Ungependa kurejesha Usajili %s?</string>
+    <string name="empty">Tupu</string>
+    <string name="record_moved_into_trash">Rekodi imehamia kwa Recycle Bin</string>
+    <string name="record_restored_successfully">Rekodi imefanikiwa kurejeshwa</string>
+    <string name="rec_frequency">mzunguko:</string>
+    <string name="trash">Takataka</string>
+    <string name="trash_info">Rekodi zilizohamishiwa kwenye Tupio zitaondolewa kabisa ndani ya siku 60.</string>
+    <string name="error_no_available_space">Hakuna nafasi inayopatikana!</string>
+    <string name="rec_created">iliundwa:</string>
+    <string name="info">habari</string>
+    <string name="cancel_rec">Usajili umefutwa</string>
+    <string name="delete_all2">Futa zote</string>
+    <string name="lost_records">Rekodi zimepotea</string>
+    <string name="btn_details">maelezo</string>
+    <string name="error_failed_access_to_storage">Imeshindwa kufikia hifadhi ya faili</string>
+    <string name="downloading_cancel">Upakuaji umeghairiwa</string>
+    <string name="downloading_success">Imepakuliwa kwa saraka ya upakuaji %S</string>
+    <string name="downloading_failed">Imeshindwa kupakua: %s</string>
+    <string name="downloading">Pakua: %s</string>
+    <string name="by_date">Kwa tarehe (ya hivi karibuni)</string>
+    <string name="by_date_desc">Kwa tarehe (kongwe)</string>
+    <string name="by_name">Kwa jina (A-Z)</string>
+    <string name="by_name_desc">Kwa jina (Z-A)</string>
+    <string name="by_duration">Kwa muda (mrefu zaidi)</string>
+    <string name="by_duration_desc">Kwa muda (mfupi zaidi)</string>
+    <string name="delete_this_record">Ungependa kufuta rekodi hii?</string>
+    <string name="all_records_deleted_successfully">Rekodi zote zimefanikiwa kufutwa</string>
+
+    <string name="refresh">Onyesha upya</string>
+    <string name="find">Kupata</string>
+    <string name="share_via">Shiriki kupitia</string>
+    <string name="copy_link">Nakili Kiungo</string>
+    <string name="copied_to_clipboard">Kunakiliwa na clipboard</string>
+    <string name="about">Kuhusu programu</string>
+    <string name="back">Bofya tena ili kuondoka</string>
+    <string name="finalback">Bofya tena ili kurudi kwenye menyu kuu</string>
+    <string name="error_on_recording">Hitilafu ya Usajili!</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Hamisha hadi kwenye tupio %d rekodi iliyochaguliwa?</item>
+        <item quantity="other">Hamisha hadi kwenye tupio %d rekodi iliyochaguliwa?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Nakili %d rekodi iliyochaguliwa kwenye folda ya Upakuaji?</item>
+        <item quantity="other">Nakili %d rekodi iliyochaguliwa kwenye folda ya Upakuaji?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">Shiriki %d rekodi</item>
+        <item quantity="other">Shiriki %d rekodi</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d rekodi imepakuliwa kwa mafanikio</item>
+        <item quantity="other">%d rekodi imepakuliwa kwa mafanikio</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d rekodi imesogezwa kwa mafanikio</item>
+        <item quantity="other">%d rekodi imesogezwa kwa mafanikio</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">Imeshindwa kupakua %d rekodi</item>
+        <item quantity="other">Imeshindwa kupakua %d rekodi</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Imeshindwa kuhamisha %d  rekodi</item>
+        <item quantity="other">Imeshindwa kuhamisha %d  rekodi</item>
+    </plurals>
+    <string name="settings">Mipangilio</string>
+    <string name="recording_feature_disabled">Kipengele cha kurekodi kimezimwa</string>
+    <string name="selected">%d imechaguliwa</string>
+    <string name="processing_canceled">Uchakataji umeghairiwa</string>
+    <string name="record_calculation">Mahesabu ya Waveform&#8230;</string>
+    <string name="downloading_success_and_fail_count">%d Rekodi zimepakuliwa na %d imeshindwa kupakua</string>
+    <string name="moving_records_success_and_fail_count">%d Rekodi zimesogezwa kwa mafanikio na %d hazikuweza kusogezwa</string>
+    <string name="move_record_success">%s imehamishwa hadi kwenye saraka ya faragha ya programu</string>
+    <string name="move_record_failed">Imeshindwa kusonga: %s</string>
+    <string name="downloading_failed_file_already_exists">Imeshindwa kupakua. Faili yenye jina %s tayari ipo</string>
+    <string name="selected_records_moved_into_trash">Rekodi zilizochaguliwa zimehamishwa hadi kwenye tupio</string>
+    <string name="record_imported_successfully">Rekodi iliingizwa kwa mafanikio</string>
+    <string name="cant_import_files">Imeshindwa kuleta faili</string>
+    <string name="file_browser">Kivinjari cha faili</string>
+    <string name="private_dir">Saraka ya kibinafsi</string>
+    <string name="public_dir">Saraka ya umma</string>
+    <string name="found_in_the_app">Imepatikana kwenye programu</string>
+    <string name="not_found_in_the_app">Haipatikani kwenye programu</string>
+    <string name="in_trash">Katika takataka</string>
+    <string name="btn_get_started">Anzisha</string>
+    <string name="btn_apply">kuomba</string>
+    <string name="btn_reset">weka upya</string>
+    <string name="btn_next">Inayofuata</string>
+    <string name="view">mtazamo</string>
+    <string name="view_records">tazama rekodi</string>
+    <string name="move_records_needed">Hamisha rekodi zinazohitajika</string>
+    <string name="moving_record">Inahamisha rekodi: %s</string>
+    <string name="moving_record_cancel">Kusonga kumeghairiwa</string>
+    <string name="move_records_info">Baadhi ya rekodi zako bado zimehifadhiwa kwenye hifadhi ya umma. Hivi karibuni hifadhi ya umma haitapatikana kwa programu. Tunahitaji kuhamishia rekodi hizo kwenye saraka ya faragha ya programu.</string>
+    <string name="recording_format">Umbizo la kurekodi:</string>
+    <string name="bitrate">Bitrate:</string>
+    <string name="channels">Idadi ya chaneli:</string>
+    <string name="sample_rate">Kiwango cha sampuli:</string>
+    <string name="size_per_min">%s Mb/dak ukubwa unaotarajiwa</string>
+    <string name="records_location">Mahali pa rekodi: %s</string>
+    <string name="feature_not_available_in_android_10">Kipengele hiki hakipatikani tena kwenye Android 10 au matoleo mapya zaidi.</string>
+    <string name="move_records">Sogeza %d rekodi</string>
+    <string name="error_failed_to_restore">Imeshindwa kurejesha rekodi!</string>
+    <string name="error_failed_to_delete">Imeshindwa kufuta rekodi!</string>
+    <string name="move_public_storage_records_message">Kuhamisha rekodi za hifadhi ya umma inahitajika</string>
+    <string name="later">Baadae</string>
+    <string name="move">sogeza</string>
+    <string name="move_all">songa vyote</string>
+    <string name="start_recording">anza kurekodi</string>
+    <string name="btn_import">kuagiza</string>
+    <string name="restore">Rejesha</string>
+    <string name="dont_ask_again">Usiulize tena</string>
+    <string name="info_format"><b>M4a</b> umbizo limesimbwa kwa kodeki ya sauti ya AAC ina ubora mzuri na saizi ndogo. <b>(ilipendekeza)</b>
+		\n<b>Wav</b> ni umbizo la data ya sauti isiyobanwa. Inachukua nafasi nyingi zaidi kuliko fomati zingine. Inahitajika kwa kesi maalum.
+		\n<b>3gp</b> ni umbizo la chombo cha media titika iliyoundwa kwa ajili ya huduma za mawasiliano ya simu ya mkononi. Itumie ikiwa unahitaji kuhifadhi nafasi.
+		</string>
+    <string name="info_frequency"><b>kiwango cha sampuli</b> ni idadi ya sampuli za sauti zinazobebwa kwa sekunde.
+		\n<b>48kHz</b> ni sampuli ya kiwango kinachotumika kwa DVD.
+		\n<b>44,1kHz</b> ni kiwango cha sampuli za CD za Sauti. <b>(ilipendekeza)</b>
+		\n<b>22kHz</b> kiwango cha sampuli maarufu kwa kiwango cha chini biti kama vile 64 kbps.
+		\n <b>8kHz</b> kiwango cha sampuli kina kipimo data kidogo kuliko mifumo ya kisasa ya simu. Haifai kwa kazi yoyote kubwa ya kurekodi.
+		</string>
+    <string name="info_bitrate"><b>Bitrate</b> ni ukubwa wa data kwa sekunde ya sauti. Inathiri moja kwa moja ubora na saizi ya kurekodi.
+		\n<b>256 kbps</b> bitrate ya ubora mzuri.
+		\n<b>192 kbps</b> bitrate ya ubora wa kati.
+		\n<b>128 kbps</b> ubora wa kati wa masafa. Kasi ya kawaida ya biti kwa podikasti.<b>(ilipendekeza)</b>
+		\n<b>96 kbps</b> kwa ujumla hutumika kwa matamshi au utiririshaji wa ubora wa chini.
+		\n<b>48 kbps</b> kwa ujumla inakubalika kwa hotuba tu.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> njia mbili tofauti zimerekodiwa. Hii ina maana kwamba kila spika ya stereo ina ishara tofauti ya sauti. <b>(ilipendekeza)</b>
+		\n<b>Mono</b> chaneli moja ya ishara imerekodiwa. Inaweza kutolewa tena kupitia wasemaji kadhaa, lakini wasemaji wote bado wanazalisha nakala sawa ya mawimbi.
+		</string>
+    <string name="info_3gp"><b>3gp</b> ni umbizo la chombo cha media titika iliyoundwa kwa ajili ya huduma za mawasiliano ya simu ya mkononi. Itumie ikiwa unahitaji kuhifadhi nafasi.</string>
+    <string name="info_m4a"><b>M4a</b> umbizo limesimbwa kwa kodeki ya sauti ya AAC ina ubora mzuri na saizi ndogo. <b>(ilipendekeza)</b></string>
+    <string name="info_wav"><b>Wav</b> ni umbizo la data ya sauti isiyobanwa. Inachukua nafasi nyingi zaidi kuliko fomati zingine. Inahitajika kwa kesi maalum.</string>
+    <string name="info_stereo"><b>Stereo</b> njia mbili tofauti zimerekodiwa. Hii ina maana kwamba kila spika ya stereo ina ishara tofauti ya sauti. <b>(ilipendekeza)</b></string>
+    <string name="info_mono"><b>Mono</b> chaneli moja ya ishara imerekodiwa. Inaweza kutolewa tena kupitia wasemaji kadhaa, lakini wasemaji wote bado wanazalisha nakala sawa ya mawimbi.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> kwa ujumla inakubalika tu kwa hotuba.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> kwa ujumla hutumika kwa usemi au utiririshaji wa ubora wa chini.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> ubora wa biti ya masafa ya kati. Kasi ya kawaida ya biti kwa podikasti. <b>(ilipendekeza)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> bitrate ya ubora wa kati.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> bitrate ya ubora mzuri.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> kiwango cha sampuli kina kipimo data kidogo kuliko mifumo ya kisasa ya simu. Haifai kwa kazi yoyote kubwa ya kurekodi.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> ni bora kuliko 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> kiwango cha sampuli maarufu kwa kiwango cha chini biti kama vile 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> ni bora zaidi ya 22kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> ni kiwango cha sampuli za CD za Sauti. <b>(ilipendekeza)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> ni sampuli ya kiwango kinachotumika kwa DVD.</string>
+    <string name="cancel">ghairi</string>
+    <string name="hold_to_record_audio">Shikilia ili urekodi, acha ili kuhifadhi</string>
+    <string name="mal_title_about">Kuhusu</string>
+    <string name="mal_title_licenses">Leseni</string>
+    <string name="mal_close">Funga</string>
+    <string name="mal_send_email">Kutuma barua pepe</string>
+    <string name="mal_activity_exception">Hakuna programu za kushughulikia kitendo</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Version</string>
+    <string name="Licenses">Leseni</string>
+    <string name="Author">Mwandishi</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Misri</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Urahisi</string>
+    <string name="Rate_app">Kadiria programu hii</string>
+    <string name="Send">Tuma barua pepe</string>
+    <string name="Call">Nipigie</string>
+    <string name="Visit">Tembelea Misri</string>
+    <string name="save_as">Hifadhi kama&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Rekodi itanakiliwa kwenye saraka ya \'Vipakuliwa\'</string>
+    <string name="app_widget_description">Anza kurekodi wijeti</string>
+    <string name="error_failed_to_start_recording">Imeshindwa kuanza kurekodi</string>
+    <string name="details_file_is_not_available">Kwa bahati mbaya, programu haina tena ufikiaji wa hifadhi ya umma ya Android. Unaweza kupata faili ya rekodi kwenye simu yako mahiri katika eneo hili: %s</string>
+    <string name="title_file_is_not_available">Hakuna ufikiaji wa faili ya rekodi!</string>
+    <string name="button_record">Rekodi</string>
+    <string name="button_stop">Acha</string>
+    <string name="button_resume">Rejea</string>
+    <string name="button_finish">Maliza</string>
+
+</resources>

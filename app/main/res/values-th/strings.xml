@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">อัลกุรอาน</string>
+    <string name="lang">th</string>
+    <string name="turnlang">เปลี่ยนภาษา</string>
+    <string name="sharetwitter">แชร์ลิงก์แอป(Twitter)</string>
+    <string name="sharefacebook">แชร์ลิงก์แอป(Facebook)</string>
+    <string name="sharegmail">แชร์ลิงก์แอป(Gmail)</string>
+    <string name="sharewhatapp">แชร์ลิงก์แอป(What\'s App)</string>
+    <string name="shareinstagram">แชร์ลิงก์แอป(Instagram)</string>
+    <string name="sharetumblr">แชร์ลิงก์แอป(Tumblr)</string>
+    <string name="shareviber">แชร์ลิงก์แอป(Viber)</string>
+    <string name="sharelinkedin">แชร์ลิงก์แอป(Linkedin)</string>
+    <string name="sharesnapchat">แชร์ลิงก์แอป(Snapchat)</string>
+    <string name="shareskype">แชร์ลิงก์แอป(Skype)</string>
+    <string name="sharetelegram">แชร์ลิงก์แอป(Telegram)</string>
+    <string name="sharereddit">แชร์ลิงก์แอป(Reddit)</string>
+
+    <string name="dialog_positive_button_title">ปรับปรุง</string>
+    <string name="dialog_message">มีแอปพลิเคชั่นเวอร์ชันใหม่โปรดคลิกด้านล่างเพื่ออัพเดตเวอร์ชันล่าสุด</string>
+    <string name="dialog_title">มีเวอร์ชั่นใหม่</string>
+    <string name="all_records_deleted">ลบการบันทึกทั้งหมดเรียบร้อยแล้ว</string>
+    <string name="app_settings">การตั้งค่าเสียง:</string>
+    <string name="available_space">พื้นที่ว่าง: %s</string>
+    <string name="bookmarks">สัญญาณอ้างอิง</string>
+    <string name="btn_cancel">การยกเลิก</string>
+    <string name="btn_no">ไม่</string>
+    <string name="btn_play">การเรียกใช้</string>
+    <string name="btn_save">ประหยัด</string>
+    <string name="btn_yes">ใช่</string>
+    <string name="delete_all">ลบการบันทึกทั้งหมด</string>
+    <string name="delete_all_records">ลบการบันทึกทั้งหมดและจะไม่สามารถกู้คืนได้?</string>
+    <string name="delete_record">ลบรีจิสทรีนี้ %s?</string>
+    <string name="error_cant_create_file">ไม่สามารถสร้างไฟล์</string>
+    <string name="error_failed_to_init_player">การเริ่มต้นล้มเหลว</string>
+    <string name="error_failed_to_init_recorder">ล้มเหลวในการเริ่มต้นการบันทึก</string>
+    <string name="error_failed_to_rename">ไม่สามารถเปลี่ยนชื่อรีจิสตรีได้!</string>
+    <string name="error_file_exists">ชื่อไฟล์นี้อยู่แล้ว!</string>
+    <string name="error_invalid_output_file">ไฟล์ที่ส่งออกไม่ถูกต้อง</string>
+    <string name="error_permission_denied">คำขออนุญาตถูกปฏิเสธ</string>
+    <string name="error_player_data_source">ผู้ประกอบการไม่สามารถอ่านไฟล์</string>
+    <string name="error_unable_to_read_sound_file">ไม่สามารถอ่านไฟล์เสียง</string>
+    <string name="error_unknown">ข้อผิดพลาดที่ไม่รู้จัก</string>
+    <string name="failed_to_delete_all_records">ไม่สามารถลบการลงทะเบียนทั้งหมด</string>
+    <string name="fetchs">การเชื่อมต่ออินเทอร์เน็ต</string>
+    <string name="hold_button_to_record">เริ่มการบันทึก</string>
+    <string name="hold_button_to_record2">เมื่อบันทึกโปรดสัมผัสต่อไป</string>
+    <string name="import_progress">นำเข้า ไฟล์เสียง …</string>
+    <string name="keep_screen_on">อย่าปิดหน้าจอระหว่างการบันทึก</string>
+    <string name="no_bookmarks">บุ๊กมาร์กว่างเปล่า</string>
+    <string name="no_records">การบันทึกว่างเปล่า</string>
+    <string name="other_settings">อื่น ๆ :</string>
+    <string name="playback">เรียกใช้: %s</string>
+    <string name="please_select_record_to_share">โปรดเลือกหรือลงทะเบียนไฟล์เสียงที่จะแบ่งปัน</string>
+    <string name="record_in_stereo">เสียงสเตอริโอ</string>
+    <string name="record_name">ชื่อใหม่</string>
+    <string name="record_processing">การประมวลผลไฟล์ …</string>
+    <string name="recording">การลงทะเบียน: %s</string>
+    <string name="recording_is_on">บันทึกในโหมดดูภาพ</string>
+    <string name="recording_progress">การลงทะเบียน&#8230;</string>
+    <string name="recording_paused">หยุดชั่วคราว</string>
+    <string name="recording_settings">การตั้งค่ารีจิสทรี:</string>
+    <string name="records">รายการลงทะเบียน</string>
+    <string name="recordtoast">เวลาที่ลงทะเบียนคือ:</string>
+    <string name="settingss">การตั้งค่า</string>
+    <string name="share_record">แบ่งปัน การลงทะเบียน: %s</string>
+    <string name="slide_to_cancel">ลากเพื่อยกเลิก</string>
+    <string name="store_records_public">จัดเก็บการบันทึกใน โฟลเดอร์สาธารณะ</string>
+    <string name="today">ในวันนี้</string>
+    <string name="total_duration">ระยะเวลาที่บันทึกไว้ทั้งหมด: %s</string>
+    <string name="total_record_count">จำนวนเร็กคอร์ดทั้งหมด: %d</string>
+    <string name="warning">คำเตือน!</string>
+    <string name="yesterday">เมื่อวาน</string>
+    <string name="private_dir_warning">บันทึกจะถูกเก็บไว้ในไดเรกทอรีส่วนตัวของแอพซึ่งไม่สามารถมองเห็นได้สำหรับแอพอื่น ๆ</string>
+    <string name="public_dir_warning">บันทึกจะถูกเก็บไว้ในไดเรกทอรีทั่วไปบนอุปกรณ์ของคุณซึ่งสามารถมองเห็นได้สำหรับแอปอื่น ๆ</string>
+    <string name="error_on_recording">ข้อผิดพลาดในการบันทึก!</string>
+
+
+    <string name="wifion">Wi-Fi</string>
+    <string name="ask_to_rename">แสดงการเปลี่ยนชื่อโต้ตอบหลังจากหยุดการบันทึก</string>
+    <string name="btn_allow">อนุญาต</string>
+    <string name="btn_deny">ปฏิเสธ</string>
+    <string name="btn_ok">ตกลง</string>
+    <string name="delete">การลบ</string>
+    <string name="download">ดาวน์โหลด</string>
+    <string name="error_process_waveform">ไม่สามารถวาดรูปคลื่น</string>
+    <string name="info">ข้อมูล</string>
+    <string name="naming">การตั้งชื่อ:</string>
+    <string name="need_write_permission">แอปต้องได้รับอนุญาตในการเข้าถึงที่เก็บข้อมูลสาธารณะ หากไม่ได้รับอนุญาตบันทึกจะถูกจัดเก็บในไดเรกทอรีส่วนตัวของแอป</string>
+    <string name="open_record_with">เปิด %s ด้วย</string>
+    <string name="open_with">เปิดด้วย</string>
+    <string name="rec_duration">ระยะเวลา:</string>
+    <string name="rec_format">รูปแบบ:</string>
+    <string name="rec_location">ตำแหน่งไฟล์:</string>
+    <string name="rec_name">ชื่อ:</string>
+    <string name="rec_size">ขนาด:</string>
+    <string name="record_deleted_successfully">ลบบันทึกสำเร็จแล้ว</string>
+    <string name="rename">ตั้งชื่อใหม่</string>
+    <string name="share">หุ้น</string>
+    <string name="delete_all2">ลบทั้งหมด</string>
+    <string name="dont_ask_again_rename">อย่าถามเปลี่ยนชื่ออีกครั้ง</string>
+    <string name="error_lost_records">บันทึกบางส่วนของคุณถูกลบหรือย้าย</string>
+    <string name="lost_records">บันทึกที่หายไป</string>
+    <string name="records_was_removed">บางไฟล์บันทึกไม่พบในบันทึกไดเรกทอรี.อาจเป็นไปได้ว่าพวกเขาถูกลบหรือย้าย.</string>
+    <string name="cancel_rec">การลงทะเบียนถูกยกเลิก</string>
+    <string name="btn_details">รายละเอียด</string>
+    <string name="delete_record_forever">ลบบันทึกนี้ถาวรหรือไม่ %s?</string>
+    <string name="empty">ว่างเปล่า</string>
+    <string name="rec_frequency">ความถี่:</string>
+    <string name="error_no_available_space">ไม่มีพื้นที่ว่าง!</string>
+    <string name="record_moved_into_trash">ย้ายบันทึกไปที่ถังขยะแล้ว</string>
+    <string name="record_restored_successfully">กู้คืนบันทึกแล้ว ประสบความสำเร็จ</string>
+    <string name="restore_record">คืนค่าบันทึกนี้หรือไม่</string>
+    <string name="trash_info">บันทึกการย้ายไปที่ถังขยะจะถูกลบออกตลอดไปใน 60 วัน</string>
+    <string name="trash">ขยะ</string>
+    <string name="rec_created">ที่สร้างไว้:</string>
+    <string name="error_failed_access_to_storage" >การเข้าถึงที่เก็บข้อมูลไฟล์ล้มเหลว</string>
+    <string name="downloading_cancel" >การดาวน์โหลดถูกยกเลิก</string>
+    <string name="downloading_success" >%s ดาวน์โหลดไปยังไดเรกทอรีดาวน์โหลด</string>
+    <string name="downloading_failed" >ไม่สามารถดาวน์โหลดได้: %s</string>
+    <string name="downloading" >ดาวน์โหลด: %s</string>
+    <string name="by_date" >ตามวันที่ (ใหม่ที่สุด)</string>
+    <string name="by_date_desc" >ตามวันที่ (เก่าที่สุด)</string>
+    <string name="by_name" >ตามชื่อ (A-Z)</string>
+    <string name="by_name_desc" >ตามชื่อ (Z-A)</string>
+    <string name="by_duration" >ตามระยะเวลา (ยาวที่สุด)</string>
+    <string name="by_duration_desc" >ตามระยะเวลา (สั้นที่สุด)</string>
+    <string name="delete_this_record" >ลบบันทึกนี้หรือไม่</string>
+    <string name="all_records_deleted_successfully" >ลบข้อมูลทั้งหมดเรียบร้อยแล้ว</string>
+    <string name="refresh">รีเฟรช</string>
+    <string name="find">หา</string>
+    <string name="share_via">แบ่งปันผ่าน</string>
+    <string name="copy_link">คัดลอกลิงค์</string>
+    <string name="copied_to_clipboard">คัดลอกไปยังคลิปบอร์ดแล้ว</string>
+    <string name="about">เกี่ยวกับแอพ</string>
+    <string name="back">คลิกอีกครั้งเพื่อออก</string>
+    <string name="finalback">คลิกอีกครั้งเพื่อกลับไปยังเมนูหลัก</string>
+    <string name="btn_cancelll">ตอนจบ</string>
+    <string name="btn_ccccc">ลบบันทึกทั้งหมดเรียบร้อยแล้ว</string>
+    <string name="btn_cccc">ไฟล์ถูกลบออก</string>
+    <string name="btn_ccc">ไฟล์ถูกลบเรียบร้อยแล้ว</string>
+    <string name="btn_cc">ลบ</string>
+    <string name="btn_c">ไฟล์ถูกลบไปแล้ว</string>
+    <string name="btn_cancell">ยกเลิกการแก้ไขชื่อแล้ว</string>
+    <string name="btn_savee">แก้ไขชื่อเรียบร้อยแล้ว</string>
+    <plurals name="delete_selected_records">
+        <item quantity="other">ย้ายไปที่ถังขยะ %d บันทึกที่เลือก?</item>
+    </plurals>
+
+    <plurals name="download_selected_records">
+        <item quantity="other">คัดลอก %d บันทึกที่เลือกไปยังโฟลเดอร์ดาวน์โหลดหรือไม่</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="other">แชร์ %d ระเบียน</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="other">%d บันทึกการดาวน์โหลดเรียบร้อยแล้ว</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="other">%d ย้ายบันทึกเรียบร้อยแล้ว</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="other">ไม่สามารถดาวน์โหลด %d บันทึก</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="other">ย้ายไม่สำเร็จ %d บันทึก</item>
+    </plurals>
+    <string name="settings">การตั้งค่า</string>
+    <string name="recording_feature_disabled">ปิดใช้งานคุณสมบัติการบันทึก</string>
+    <string name="selected">%d ที่เลือกไว้</string>
+    <string name="processing_canceled">การประมวลผลถูกยกเลิก</string>
+    <string name="record_calculation">การคำนวณรูปคลื่น&#8230;</string>
+    <string name="downloading_success_and_fail_count">%d บันทึกการดาวน์โหลดสำเร็จและ %d ล้มเหลวในการดาวน์โหลด</string>
+    <string name="moving_records_success_and_fail_count">%d ระเบียนถูกย้ายสำเร็จและ %d ไม่สามารถย้ายได้</string>
+    <string name="move_record_success">%s ถูกย้ายไปยังไดเร็กทอรีส่วนตัวของแอป</string>
+    <string name="move_record_failed">ย้ายไม่สำเร็จ: %s</string>
+    <string name="downloading_failed_file_already_exists">ดาวน์โหลดไม่สำเร็จ. มีไฟล์ชื่อ %s อยู่แล้ว</string>
+    <string name="selected_records_moved_into_trash">ระเบียนที่เลือกย้ายไปที่ถังขยะ</string>
+    <string name="record_imported_successfully">นำเข้าบันทึกเรียบร้อยแล้ว</string>
+    <string name="cant_import_files">นำเข้าไฟล์ไม่ได้</string>
+    <string name="file_browser">ไฟล์เบราว์เซอร์</string>
+    <string name="private_dir">ไดเรกทอรีส่วนตัว</string>
+    <string name="public_dir">ไดเรกทอรีสาธารณะ</string>
+    <string name="found_in_the_app">พบได้ในแอพ</string>
+    <string name="not_found_in_the_app">ไม่พบในแอพ</string>
+    <string name="in_trash">ในถังขยะ</string>
+    <string name="btn_get_started">เริ่ม</string>
+    <string name="btn_apply">นำมาใช้</string>
+    <string name="btn_reset">รีเซ็ต</string>
+    <string name="btn_next">ต่อไป</string>
+    <string name="view">ดู</string>
+    <string name="view_records">ดูระเบียน</string>
+    <string name="move_records_needed">ย้ายระเบียนที่จำเป็น</string>
+    <string name="moving_record">ย้ายระเบียน: %s</string>
+    <string name="moving_record_cancel">การย้ายถูกยกเลิก</string>
+    <string name="move_records_info">บันทึกของคุณบางส่วนยังจัดเก็บไว้ในที่เก็บข้อมูลสาธารณะ ในไม่ช้าพื้นที่เก็บข้อมูลสาธารณะจะไม่สามารถใช้ได้สำหรับแอป เราจำเป็นต้องย้ายบันทึกนั้นไปยังไดเร็กทอรีส่วนตัวของแอป</string>
+    <string name="recording_format">รูปแบบการบันทึก:</string>
+    <string name="bitrate">บิตเรต:</string>
+    <string name="channels">จำนวนช่อง:</string>
+    <string name="sample_rate">อัตราตัวอย่าง:</string>
+    <string name="size_per_min">%s Mb/min ขนาดที่คาดไว้</string>
+    <string name="records_location">บันทึกตำแหน่ง: %s</string>
+    <string name="feature_not_available_in_android_10">ฟีเจอร์นี้ไม่มีให้บริการใน Android 10 ขึ้นไปแล้ว</string>
+    <string name="move_records">ย้าย %d ระเบียน</string>
+    <string name="error_failed_to_restore">กู้คืนบันทึกไม่สำเร็จ!</string>
+    <string name="error_failed_to_delete">ลบบันทึกไม่สำเร็จ!</string>
+    <string name="move_public_storage_records_message">จำเป็นต้องย้ายบันทึกที่เก็บข้อมูลสาธารณะ</string>
+    <string name="later">ภายหลัง</string>
+    <string name="move">เคลื่อนไหว</string>
+    <string name="move_all">ย้ายทั้งหมด</string>
+    <string name="start_recording">เริ่มบันทึก</string>
+    <string name="btn_import">นำเข้า</string>
+    <string name="restore">คืนค่า</string>
+    <string name="dont_ask_again">ไม่ต้องถามอีก</string>
+    <string name="info_format"><b>M4a</b> รูปแบบถูกเข้ารหัสด้วยตัวแปลงสัญญาณเสียง AAC ที่มีคุณภาพดีและมีขนาดเล็ก <b>(ที่แนะนำ)</b>
+		\n<b>Wav</b> เป็นรูปแบบข้อมูลเสียงที่ไม่บีบอัด ใช้พื้นที่มากกว่ารูปแบบอื่นมาก จำเป็นสำหรับกรณีเฉพาะ
+		\n<b>3gp</b> เป็นรูปแบบคอนเทนเนอร์มัลติมีเดียที่พัฒนาขึ้นสำหรับบริการโทรคมนาคมเคลื่อนที่ ใช้ถ้าคุณต้องการประหยัดพื้นที่
+		</string>
+    <string name="info_frequency"><b>อัตราตัวอย่าง</b> คือจำนวนตัวอย่างเสียงที่ดำเนินการต่อวินาที
+		\n<b>48kHz</b> คือ อัตราตัวอย่างที่ใช้สำหรับดีวีดี
+		\n<b>44,1kHz</b> คือ อัตราสุ่มของซีดีเพลง <b>(ที่แนะนำ)</b>
+		\n<b>22kHz</b> อัตราตัวอย่างที่นิยมสำหรับอัตราบิตต่ำเช่น 64 kbps
+		\n <b>8kHz</b> อัตราตัวอย่างมีแบนด์วิดธ์น้อยกว่าระบบโทรศัพท์สมัยใหม่ ไม่เหมาะสำหรับงานบันทึกที่จริงจังใดๆ
+		</string>
+    <string name="info_bitrate"><b>บิตเรต</b> คือขนาดของข้อมูลต่อวินาทีของเสียง ส่งผลโดยตรงต่อคุณภาพและขนาดการบันทึก
+		\n<b>256 kbps</b> บิตเรตคุณภาพดี
+		\n<b>192 kbps</b> บิตเรตคุณภาพปานกลาง
+		\n<b>128 kbps</b> คุณภาพบิตเรตระดับกลาง บิตเรตทั่วไปสำหรับพอดแคสต์ <b>(ที่แนะนำ)</b>
+		\n<b>96 kbps</b> โดยทั่วไปจะใช้สำหรับการพูดหรือการสตรีมคุณภาพต่ำ
+		\n<b>48 kbps</b> โดยทั่วไปยอมรับได้เฉพาะสำหรับ คำพูด.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> บันทึกสองช่องแยกกัน ซึ่งหมายความว่าลำโพงสเตอริโอแต่ละตัวมีสัญญาณเสียงที่แตกต่างกัน <b>(ที่แนะนำ)</b>
+		\n<b>Mono</b> บันทึกช่องสัญญาณหนึ่งช่อง สามารถทำซ้ำได้ผ่านลำโพงหลายตัว แต่ลำโพงทั้งหมดยังคงสร้างสำเนาของสัญญาณเดียวกัน
+		</string>
+    <string name="info_3gp"><b>3gp</b> เป็นรูปแบบคอนเทนเนอร์มัลติมีเดียที่พัฒนาขึ้นสำหรับบริการโทรคมนาคมเคลื่อนที่ ใช้ถ้าคุณต้องการประหยัดพื้นที่</string>
+    <string name="info_m4a"><b>M4a</b> รูปแบบถูกเข้ารหัสด้วยตัวแปลงสัญญาณเสียง AAC ที่มีคุณภาพดีและมีขนาดเล็ก <b>(ที่แนะนำ)</b></string>
+    <string name="info_wav"><b>Wav</b> เป็นรูปแบบข้อมูลเสียงที่ไม่บีบอัด ใช้พื้นที่มากกว่ารูปแบบอื่นมาก จำเป็นสำหรับกรณีเฉพาะ</string>
+    <string name="info_stereo"><b>Stereo</b> บันทึกสองช่องแยกกัน ซึ่งหมายความว่าลำโพงสเตอริโอแต่ละตัวมีสัญญาณเสียงที่แตกต่างกัน <b>(ที่แนะนำ)</b></string>
+    <string name="info_mono"><b>Mono</b> บันทึกช่องสัญญาณหนึ่งช่อง สามารถทำซ้ำได้ผ่านลำโพงหลายตัว แต่ลำโพงทั้งหมดยังคงสร้างสำเนาของสัญญาณเดียวกัน</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> โดยทั่วไปยอมรับได้เฉพาะสำหรับคำพูดเท่านั้น</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> โดยทั่วไปจะใช้สำหรับการพูดหรือการสตรีมคุณภาพต่ำ</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> คุณภาพบิตเรตระดับกลาง บิตเรตทั่วไปสำหรับพอดแคสต์ <b>(ที่แนะนำ)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> บิตเรตคุณภาพปานกลาง</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> บิตเรตคุณภาพดี</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> อัตราตัวอย่างมีแบนด์วิดธ์น้อยกว่าระบบโทรศัพท์สมัยใหม่ ไม่เหมาะสำหรับงานบันทึกที่จริงจังใดๆ</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> ดีกว่า 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> อัตราตัวอย่างที่นิยมสำหรับอัตราบิตต่ำเช่น 64 kbps</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> ดีกว่า 22kHz เล็กน้อย</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> คือ อัตราสุ่มของซีดีเพลง <b>(ที่แนะนำ)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> คือ อัตราตัวอย่างที่ใช้สำหรับดีวีดี</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="hold_to_record_audio">กดค้างไว้เพื่อบันทึกการปล่อยเพื่อบันทึก</string>
+    <string name="mal_title_about">เกี่ยวกับ</string>
+    <string name="mal_title_licenses">ใบอนุญาต</string>
+    <string name="mal_close">ปิด</string>
+    <string name="mal_send_email">ส่งอีเมล</string>
+    <string name="mal_activity_exception">ไม่มีแอพที่จะจัดการกับการกระทำ</string>
+    <string name="auther1">© 2022 อาเหม็ด ซาด</string>
+    <string name="version">เวอร์ชั่น</string>
+    <string name="Licenses">ใบอนุญาต</string>
+    <string name="Author">ผู้เขียน</string>
+    <string name="name">อาเหม็ด ซาด</string>
+    <string name="egypt">อียิปต์</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">ความสะดวก</string>
+    <string name="Rate_app">ให้คะแนนแอปนี้</string>
+    <string name="Send">ส่งอีเมล์</string>
+    <string name="Call">โทรหาฉัน</string>
+    <string name="Visit">เยือนอียิปต์</string>
+    <string name="save_as">บันทึกเป็น&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">บันทึกจะถูกคัดลอกไปยังไดเรกทอรี \'ดาวน์โหลด\'</string>
+    <string name="app_widget_description">เริ่มวิดเจ็ตการบันทึก</string>
+    <string name="error_failed_to_start_recording">ไม่สามารถเริ่มการบันทึกได้</string>
+    <string name="details_file_is_not_available">ขออภัย แอปไม่สามารถเข้าถึงพื้นที่เก็บข้อมูลสาธารณะของ Android อีกต่อไป คุณสามารถค้นหาไฟล์บันทึกบนสมาร์ทโฟนของคุณได้ที่ตำแหน่งนี้: %s</string>
+    <string name="title_file_is_not_available">ไม่สามารถเข้าถึงไฟล์บันทึกได้!</string>
+    <string name="button_record">บันทึก</string>
+    <string name="button_stop">หยุด</string>
+    <string name="button_resume">ดำเนินการต่อ</string>
+    <string name="button_finish">เสร็จ</string>
+</resources>

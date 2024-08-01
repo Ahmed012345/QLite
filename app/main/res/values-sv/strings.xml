@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Den heliga Koranen</string>
+    <string name="lang">sv</string>
+    <string name="turnlang">ändra språket</string>
+    <string name="sharefacebook">Dela applänken till (Facebook)</string>
+    <string name="sharetwitter">Dela applänken på (Twitter)</string>
+    <string name="sharegmail">Dela applänken till (Gmail)</string>
+    <string name="sharewhatapp">Dela applänken på (Whatsapp)</string>
+    <string name="shareinstagram">Dela applänken på (Instagram)</string>
+    <string name="sharetumblr">Dela applänken på (Tumblr)</string>
+    <string name="shareviber">Dela applänken på (Viber)</string>
+    <string name="sharelinkedin">Dela applänken till (Linkedin)</string>
+    <string name="sharesnapchat">Dela applänken på (Snapchat)</string>
+    <string name="shareskype">Dela applänken på (Skype)</string>
+    <string name="sharetelegram">Dela applänken på (Telegram)</string>
+    <string name="sharereddit">Dela applänken på (Reddit)</string>
+    <string name="dialog_title">Den nya versionen är tillgänglig</string>
+    <string name="dialog_message">En ny version av appen är tillgänglig. Klicka nedan för att uppdatera den senaste versionen.</string>
+    <string name="dialog_positive_button_title">Uppdatering</string>
+    <string name="slide_to_cancel">Dra för att avbryta</string>
+    <string name="hold_button_to_record">Börja spela in</string>
+    <string name="hold_button_to_record2">Håll kontakten vid registreringen</string>
+    <string name="fetchs">Internet anslutning</string>
+    <string name="wifion">WIFI</string>
+    <string name="records">Inspelningar</string>
+    <string name="settingss">inställningar</string>
+    <string name="store_records_public">Inspelningar lagras i den offentliga mappen</string>
+    <string name="record_in_stereo">Stereoljud</string>
+    <string name="keep_screen_on">Stäng inte av skärmen när du spelar in</string>
+    <string name="total_duration">Total inspelad varaktighet: %s</string>
+    <string name="total_record_count">Totala antalet poster: %d</string>
+    <string name="available_space">Tillgängligt utrymme: %s</string>
+    <string name="delete_all">Radera alla poster</string>
+    <string name="warning">Varning!</string>
+    <string name="delete_record">Flytta till recirkulering %s</string>
+    <string name="delete_all_records">Ta bort alla poster och kommer inte att kunna hämta dem igen.</string>
+    <string name="all_records_deleted">Alla poster raderades framgångsrikt</string>
+    <string name="failed_to_delete_all_records">Det gick inte att ta bort alla poster</string>
+    <string name="please_select_record_to_share">Välj eller spela in en ljudfil som du vill dela</string>
+    <string name="record_name">nytt namn</string>
+    <string name="recording">Registrera: %s</string>
+    <string name="recording_is_on">Inspelningen är på</string>
+    <string name="recording_progress">Registrera dig…</string>
+    <string name="recording_paused">Pausad</string>
+    <string name="playback">Spela: %s</string>
+    <string name="no_records">Inspelningarna är tomma.</string>
+    <string name="no_bookmarks">Bokmärkena är tomma.</string>
+    <string name="bookmarks">bokmärken</string>
+    <string name="share_record">Dela Registrering: %s</string>
+    <string name="import_progress">Importera ljudfil …</string>
+    <string name="record_processing">Filbehandling …</string>
+    <string name="app_settings">Ljudinställningar:</string>
+    <string name="recording_settings">Registreringsinställningar:</string>
+    <string name="other_settings">Övrig:</string>
+    <string name="today">I dag</string>
+    <string name="yesterday">i går</string>
+    <string name="btn_save">spara</string>
+    <string name="btn_savee">Namnet ändrades framgångsrikt</string>
+    <string name="btn_cancel">Annullering</string>
+    <string name="btn_cancell">Namnändring har avbrutits</string>
+    <string name="btn_c">Filen har återställts</string>
+    <string name="btn_cc">radera</string>
+    <string name="btn_ccc">Filen raderades framgångsrikt</string>
+    <string name="btn_cccc">Filer har återställts</string>
+    <string name="btn_ccccc">Alla poster raderades framgångsrikt</string>
+    <string name="btn_cancelll">slutar</string>
+    <string name="btn_yes">Ja</string>
+    <string name="btn_no">Nej</string>
+    <string name="btn_play">gång</string>
+    <string name="error_unknown">Okänt fel</string>
+    <string name="error_cant_create_file">Kan inte skapa fil</string>
+    <string name="error_invalid_output_file">Utdatafilen är ogiltig</string>
+    <string name="error_file_exists">Filen med det här namnet finns redan!</string>
+    <string name="error_failed_to_rename">Det gick inte att byta namn på registret!</string>
+    <string name="error_failed_to_init_recorder">Det gick inte att starta inspelningen</string>
+    <string name="error_failed_to_init_player">Lyckades inte starta</string>
+    <string name="error_player_data_source">Spelaren kan inte läsa filen</string>
+    <string name="error_unable_to_read_sound_file">Det gick inte att läsa ljudfilen</string>
+    <string name="error_permission_denied">Tillståndsbegäran avslogs</string>
+    <string name="recordtoast">Den inspelade tiden är:</string>
+    <string name="open_record_with">Öppna %s med</string>
+    <string name="delete">radera</string>
+    <string name="rename">Döp om</string>
+    <string name="open_with">öppnas med</string>
+    <string name="download">Ladda ner</string>
+    <string name="share">Dela med sig</string>
+    <string name="ask_to_rename">Visa dialogrutan byta namn efter avslutad inspelning</string>
+    <string name="record_deleted_successfully">Filen raderades framgångsrikt</string>
+    <string name="need_write_permission">Appen behöver tillåtelse för åtkomst till offentlig lagring. Om inte tillåtet kommer poster att lagras i programmets katalog</string>
+    <string name="rec_name">Substantiv:</string>
+    <string name="rec_format">formatera:</string>
+    <string name="rec_duration">Varaktighet:</string>
+    <string name="rec_size">storleken:</string>
+    <string name="rec_location">Filplats:</string>
+    <string name="naming">namngivning:</string>
+    <string name="private_dir_warning">Posterna kommer att lagras i programmets katalog och är inte synliga för andra applikationer</string>
+    <string name="public_dir_warning">Posterna lagras i den delade katalogen på din enhet som är synlig för andra applikationer</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_deny">Vägran</string>
+    <string name="btn_allow">Tillåta</string>
+    <string name="error_process_waveform">Vågformen kan inte dras</string>
+    <string name="records_was_removed">Vissa loggfiler hittades inte i loggkatalogen. Det kan ha tagits bort eller flyttats.</string>
+    <string name="dont_ask_again_rename">Be inte att byta namn igen</string>
+    <string name="error_lost_records">Vissa av dina poster har tagits bort eller flyttats</string>
+    <string name="delete_record_forever">Radera en post %s för alltid?</string>
+    <string name="restore_record">register återhämtning %s?</string>
+    <string name="empty">Tömma</string>
+    <string name="record_moved_into_trash">Flytta inspelning till papperskorgen</string>
+    <string name="record_restored_successfully">Återställ en post framgångsrikt</string>
+    <string name="rec_frequency">frekvens:</string>
+    <string name="trash">Skräp</string>
+    <string name="trash_info">Posterna som flyttas till papperskorgen kommer att tas bort för alltid inom 60 dagar.</string>
+    <string name="error_no_available_space">Inget utrymme tillgängligt!</string>
+    <string name="rec_created">Skapad:</string>
+    <string name="info">information</string>
+    <string name="cancel_rec">Registreringen har avbrutits</string>
+    <string name="delete_all2">Ta bort alla</string>
+    <string name="lost_records">Records förlorade</string>
+    <string name="btn_details">detaljerna</string>
+    <string name="error_failed_access_to_storage">Åtkomst till fillagring misslyckades</string>
+    <string name="downloading_cancel">Nedladdning avbruten</string>
+    <string name="downloading_success">Nedladdat till nedladdningskatalogen %s</string>
+    <string name="downloading_failed">Nedladdning misslyckades: %s</string>
+    <string name="downloading">Nedladdningar: %s</string>
+    <string name="by_date">Efter datum (nyaste)</string>
+    <string name="by_date_desc">Efter datum (äldsta)</string>
+    <string name="by_name">Med namn (A-Z)</string>
+    <string name="by_name_desc">Med namn (Z-A)</string>
+    <string name="by_duration">Efter varaktighet (längst)</string>
+    <string name="by_duration_desc">Efter varaktighet (kortast)</string>
+    <string name="delete_this_record">Radera detta Rekordet?</string>
+    <string name="all_records_deleted_successfully">Alla poster har tagits bort Framgångsrikt</string>
+
+    <string name="refresh">uppfriskande</string>
+    <string name="find">Finna</string>
+    <string name="share_via">Dela via</string>
+    <string name="copy_link">Kopiera länk</string>
+    <string name="copied_to_clipboard">Kopieras till Urklipp</string>
+    <string name="finalback">Klicka igen för att gå tillbaka till huvudmenyn</string>
+    <string name="back">Klicka igen för att avsluta</string>
+    <string name="about">Om appen</string>
+    <string name="error_on_recording">Registreringsfel!</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Flytta till papperskorgen %d vald post?</item>
+        <item quantity="other">Flytta till papperskorgen %d vald post?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Kopiera %d vald post till nedladdningsmappen?</item>
+        <item quantity="other">Kopiera %d vald post till nedladdningsmappen?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">Dela %d rekord</item>
+        <item quantity="other">Dela %d rekord</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d post har laddats ned</item>
+        <item quantity="other">%d post har laddats ned</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d post flyttades framgångsrikt</item>
+        <item quantity="other">%d post flyttades framgångsrikt</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">Det gick inte att ladda ner %d spela in</item>
+        <item quantity="other">Det gick inte att ladda ner %d spela in</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Det gick inte att flytta %d post</item>
+        <item quantity="other">Det gick inte att flytta %d post</item>
+    </plurals>
+    <string name="settings">inställningar</string>
+    <string name="recording_feature_disabled">Inspelningsfunktionen inaktiverad</string>
+    <string name="selected">%d vald</string>
+    <string name="processing_canceled">Bearbetning är inställd</string>
+    <string name="record_calculation">Vågformsberäkningar&#8230;</string>
+    <string name="downloading_success_and_fail_count">%d rekord nedladdningen lyckades och %d kunde inte laddas ned</string>
+    <string name="moving_records_success_and_fail_count">%d records flyttades och %d kunde inte flyttas</string>
+    <string name="move_record_success">%s flyttade till appens privata katalog</string>
+    <string name="move_record_failed">Misslyckades med att flytta: %s</string>
+    <string name="downloading_failed_file_already_exists">Misslyckades att ladda ned. Filen med namnet %s finns redan</string>
+    <string name="selected_records_moved_into_trash">Valda records flyttade till papperskorgen</string>
+    <string name="record_imported_successfully">Posten importerades framgångsrikt</string>
+    <string name="cant_import_files">Det går inte att importera filer</string>
+    <string name="file_browser">filhanterare</string>
+    <string name="private_dir">Privat katalog</string>
+    <string name="public_dir">Offentlig katalog</string>
+    <string name="found_in_the_app">Hittade i appen</string>
+    <string name="not_found_in_the_app">Hittas inte i appen</string>
+    <string name="in_trash">I papperskorgen</string>
+    <string name="btn_get_started">Komma igång</string>
+    <string name="btn_apply">Tillämpa</string>
+    <string name="btn_reset">Återställ</string>
+    <string name="btn_next">Nästa</string>
+    <string name="view">Utsikt</string>
+    <string name="view_records">Visa rekord</string>
+    <string name="move_records_needed">Flytta rekord behövs</string>
+    <string name="moving_record">Flytta rekord: %s</string>
+    <string name="moving_record_cancel">Flytten avbrutits</string>
+    <string name="move_records_info">Vissa av dina register lagras fortfarande i det offentliga lagret. Snart blir det offentliga lagringsutrymmet inte tillgängligt för appen. Vi måste flytta dessa poster till appens privata katalog.</string>
+    <string name="recording_format">Inspelningsformat:</string>
+    <string name="bitrate">Bithastighet:</string>
+    <string name="channels">Kanalantal:</string>
+    <string name="sample_rate">Samplingshastighet:</string>
+    <string name="size_per_min">%s Mb/min förväntad storlek</string>
+    <string name="records_location">rekord plats: %s</string>
+    <string name="feature_not_available_in_android_10">Den här funktionen är inte längre tillgänglig i Android 10 eller senare.</string>
+    <string name="move_records">Flytta %d rekord</string>
+    <string name="error_failed_to_restore">Det gick inte att återställa rekord!</string>
+    <string name="error_failed_to_delete">Misslyckades med att radera rekord!</string>
+    <string name="move_public_storage_records_message">Flytta offentliga lagringsposter behövs</string>
+    <string name="later">Senare</string>
+    <string name="move">Flytta</string>
+    <string name="move_all">Flytta alla</string>
+    <string name="start_recording">Börja spela in</string>
+    <string name="btn_import">importera</string>
+    <string name="restore">Återställ</string>
+    <string name="dont_ask_again">Fråga inte igen</string>
+    <string name="info_format"><b>M4a</b> formatet är kodat med AAC audio codec har bra kvalitet och liten storlek. <b>(rekommenderad)</b>
+		\n<b>Wav</b> är okomprimerat ljuddataformat. Det tar mycket mer utrymme än andra format. Det behövs för specifika fall.
+		\n<b>3gp</b> är ett multimediacontainerformat utvecklat för mobila telekommunikationstjänster. Använd den om du behöver spara utrymme.
+		</string>
+    <string name="info_frequency"><b>samplingshastighet</b> är antalet sampel av ljud som bärs per sekund.
+		\n<b>48kHz</b> är samplingshastigheten som används för DVD-skivor.
+		\n<b>44,1kHz</b> är samplingsfrekvensen för ljud-cd-skivor. <b>(rekommenderad)</b>
+		\n<b>22kHz</b> populär samplingshastighet för låg bithastighet som 64 kbps.
+		\n <b>8kHz</b> Samplingsfrekvensen har mindre bandbredd än moderna telefonsystem. Inte lämplig för någon seriös inspelningsuppgift.
+		</string>
+    <string name="info_bitrate"><b>bithastighet</b> är storleken på data per sekund av ljud. Påverkar direkt inspelningskvalitet och storlek.
+		\n<b>256 kbps</b> bithastighet av god kvalitet.
+		\n<b>192 kbps</b> bithastighet av medelhög kvalitet.
+		\n<b>128 kbps</b> mellanklass bithastighetskvalitet. Vanlig bithastighet för poddar. <b>(rekommenderad)</b>
+		\n<b>96 kbps</b> används vanligtvis för tal eller streaming av låg kvalitet.
+		\n<b>48 kbps</b> allmänt accepterad endast för tal.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> två separata kanaler spelas in. Det betyder att varje stereohögtalare har olika ljudsignal. <b>(rekommenderad)</b>
+		\n<b>Mono</b> en signalkanal är inspelad. Den kan återges via flera högtalare, men alla högtalare återger fortfarande samma kopia av signalen.
+		</string>
+    <string name="info_3gp"><b>3gp</b> är ett multimediacontainerformat utvecklat för mobila telekommunikationstjänster. Använd den om du behöver spara utrymme.</string>
+    <string name="info_m4a"><b>M4a</b> formatet är kodat med AAC audio codec har bra kvalitet och liten storlek. <b>(rekommenderad)</b></string>
+    <string name="info_wav"><b>Wav</b> är okomprimerat ljuddataformat. Det tar mycket mer utrymme än andra format. Det behövs för specifika fall.</string>
+    <string name="info_stereo"><b>Stereo</b> två separata kanaler spelas in. Det betyder att varje stereohögtalare har olika ljudsignal. <b>(rekommenderad)</b></string>
+    <string name="info_mono"><b>Mono</b> en signalkanal är inspelad. Den kan återges via flera högtalare, men alla högtalare återger fortfarande samma kopia av signalen.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> allmänt accepterad endast för tal.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> används vanligtvis för tal eller streaming av låg kvalitet.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> mellanklass bithastighetskvalitet. Vanlig bithastighet för poddar. <b>(rekommenderad)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> bithastighet av medelhög kvalitet.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> bithastighet av god kvalitet.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> Samplingsfrekvensen har mindre bandbredd än moderna telefonsystem. Inte lämplig för någon seriös inspelningsuppgift.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> är bättre än 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> populär samplingshastighet för låg bithastighet som 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> är lite bättre än 22kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> är samplingsfrekvensen för ljud-cd-skivor. <b>(rekommenderad)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> är samplingshastigheten som används för DVD-skivor.</string>
+    <string name="cancel">Annullera</string>
+    <string name="hold_to_record_audio">Håll ned för att spela in, släpp för att spara</string>
+    <string name="mal_title_about">Handla om</string>
+    <string name="mal_title_licenses">Licenser</string>
+    <string name="mal_close">Stänga</string>
+    <string name="mal_send_email">Skicka epost</string>
+    <string name="mal_activity_exception">Inga appar att hantera åtgärder</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Version</string>
+    <string name="Licenses">Licenser</string>
+    <string name="Author">Författare</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Egypten</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">bekvämlighet</string>
+    <string name="Rate_app">Betygsätt denna app</string>
+    <string name="Send">Skicka ett email</string>
+    <string name="Call">Ring mig</string>
+    <string name="Visit">Besök Egypten</string>
+    <string name="save_as">Save as&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Posten kommer att kopieras till katalogen \'Nedladdningar\'</string>
+    <string name="app_widget_description">Börja spela in widget</string>
+    <string name="error_failed_to_start_recording">Det gick inte att starta inspelningen</string>
+    <string name="details_file_is_not_available">Tyvärr har appen inte längre tillgång till Androids offentliga lagring. Du kan hitta inspelningsfilen på din smartphone på denna plats: %s</string>
+    <string name="title_file_is_not_available">Ingen tillgång till journalfilen!</string>
+    <string name="button_record">Spela in</string>
+    <string name="button_stop">Sluta</string>
+    <string name="button_resume">Återuppta</string>
+    <string name="button_finish">Avsluta</string>
+
+
+</resources>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Священный Коран</string>
+    <string name="lang">ru</string>
+    <string name="turnlang">Изменить язык</string>
+    <string name="sharetwitter">Поделиться ссылкой на приложение(Twitter)</string>
+    <string name="sharefacebook">Поделиться ссылкой на приложение(Facebook)</string>
+    <string name="sharegmail">Поделиться ссылкой на приложение(Gmail)</string>
+    <string name="sharewhatapp">Поделиться ссылкой на приложение(What\'s App)</string>
+    <string name="shareinstagram">Поделиться ссылкой на приложение(Instagram)</string>
+    <string name="sharetumblr">Поделиться ссылкой на приложение(Tumblr)</string>
+    <string name="shareviber">Поделиться ссылкой на приложение(Viber)</string>
+    <string name="sharelinkedin">Поделиться ссылкой на приложение(Linkedin)</string>
+    <string name="sharesnapchat">Поделиться ссылкой на приложение(Snapchat)</string>
+    <string name="shareskype">Поделиться ссылкой на приложение(Skype)</string>
+    <string name="sharetelegram">Поделиться ссылкой на приложение(Telegram)</string>
+    <string name="sharereddit">Поделиться ссылкой на приложение(Reddit)</string>
+
+    <string name="dialog_positive_button_title">обновление</string>
+    <string name="dialog_message">Доступна новая версия приложения, пожалуйста, нажмите ниже, чтобы обновить последнюю
+        версию.
+    </string>
+    <string name="dialog_title">Доступна новая версия</string>
+
+    <string name="records">Записи</string>
+    <string name="settingss">Настройки</string>
+    <string name="store_records_public">Хранить записи в публичной директории</string>
+    <string name="record_in_stereo">Записывать в Стерео</string>
+    <string name="keep_screen_on">Оставлять экран включенным во время записи</string>
+    <string name="total_duration">Суммарная длительность записей: %s</string>
+    <string name="total_record_count">Суммарное количество записей: %d</string>
+    <string name="available_space">Доступное место: %s</string>
+    <string name="delete_all">Удалить все записи</string>
+    <string name="warning">Внимание!</string>
+    <string name="delete_record">Удалить эту запись %s?</string>
+    <string name="delete_all_records">Удалить все файлы и не можете получить их снова?</string>
+    <string name="all_records_deleted">Все записи удалены успешно</string>
+    <string name="failed_to_delete_all_records">Ошибка при удалении всех записей</string>
+    <string name="please_select_record_to_share">Пожалуйста, выберите или запишите аудио файл для распространения</string>
+    <string name="record_name">Новое имя</string>
+    <string name="recording">Запись: %s</string>
+    <string name="recording_is_on">Запись включена</string>
+    <string name="recording_progress">Запись&#8230;</string>
+    <string name="recording_paused">Пауза</string>
+    <string name="playback">Воспроизведение: %s</string>
+    <string name="no_records">Нет записей.</string>
+    <string name="no_bookmarks">Нет закладок.</string>
+    <string name="bookmarks">Закладки</string>
+    <string name="share_record">Поделиться записью: %s</string>
+    <string name="import_progress">Импортирование аудио файла&#8230;</string>
+    <string name="record_processing">Обработка запися для отображения&#8230;</string>
+
+
+    <string name="app_settings">Настройки приложения:</string>
+    <string name="recording_settings">Настройки записи:</string>
+    <string name="other_settings">Другое:</string>
+
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_cancel">Отменить</string>
+    <string name="btn_yes">Да</string>
+    <string name="btn_no">Нет</string>
+    <string name="btn_play">Играть</string>
+
+    <string name="error_unknown">Неожиданная ошибка</string>
+    <string name="error_cant_create_file">Не удалось создать файл</string>
+    <string name="error_invalid_output_file">Неверный выходной файл</string>
+    <string name="error_file_exists">Файл с таким именем уже существует!</string>
+    <string name="error_failed_to_rename">Ошибка при переименовании записи!</string>
+    <string name="error_failed_to_init_recorder">Не удалось инициализировать рекордер</string>
+    <string name="error_failed_to_init_player">Не удалось инициализировать проигрыватель</string>
+    <string name="error_player_data_source">Проигрыватель не может считать файл</string>
+    <string name="error_unable_to_read_sound_file">Не удалось считать аудио файл</string>
+    <string name="error_permission_denied">Доступ запрещен</string>
+    <string name="open_record_with">Открыть %s с помощью</string>
+    <string name="delete">Удалить</string>
+    <string name="info">Информация</string>
+    <string name="rename">Переименовать</string>
+    <string name="open_with">Открыть с помощью</string>
+    <string name="download">Скачать</string>
+    <string name="share">Поделиться</string>
+    <string name="ask_to_rename">Показывать диалог переименования после завершения записи</string>
+    <string name="record_deleted_successfully">Запись удалена успешно</string>
+    <string name="need_write_permission">Приложению требуется разрешение на запись в публичное хранилище. Если не разрешить, записи будут сохраняться в приватном каталоге приложения</string>
+    <string name="rec_name">Название:</string>
+    <string name="rec_format">Формат:</string>
+    <string name="rec_duration">Длительность:</string>
+    <string name="rec_size">Размер:</string>
+    <string name="rec_location">Расположение файла:</string>
+    <string name="naming">Именование:</string>
+    <string name="btn_ok">Хорошо</string>
+    <string name="btn_deny">Запретить</string>
+    <string name="btn_allow">Разрешить</string>
+    <string name="error_process_waveform">Не удалось отобразить аудиофайл</string>
+    <string name="private_dir_warning">Записи будут сохранятся в приватной директории приложения, невидимой для других приложений.</string>
+    <string name="public_dir_warning">Записи будут сохранятся в обычной директории устройства, видимой другим приложениям.</string>
+    <string name="error_on_recording">Ошибка записи!</string>
+
+    <string name="fetchs">Подключение к интернету</string>
+    <string name="hold_button_to_record">Начать запись</string>
+    <string name="hold_button_to_record2">При записи, пожалуйста, продолжайте прикосновение</string>
+    <string name="slide_to_cancel">слайд для отмены</string>
+    <string name="wifion">Wi-Fi</string>
+    <string name="btn_c">Удалить файл был отменен</string>
+    <string name="btn_cancell">Имя не было изменено</string>
+    <string name="btn_cancelll">окончание</string>
+    <string name="btn_cc">Удаление</string>
+    <string name="btn_ccc">Файл успешно удален</string>
+    <string name="btn_cccc">Файлы не были удалены</string>
+    <string name="btn_ccccc">Все файлы успешно удалены</string>
+    <string name="btn_savee">Имя успешно изменено</string>
+    <string name="delete_all2">Удалить все</string>
+    <string name="dont_ask_again_rename">Не проси переименовать снова</string>
+    <string name="error_lost_records">Некоторые из ваших записей были удалены или перемещены</string>
+    <string name="lost_records">Потерянные записи</string>
+    <string name="records_was_removed">Некоторые файлы записей не найдены в каталоге записей.Возможно, они были удалены или перемещены.</string>
+    <string name="cancel_rec">Регистрация была отменена</string>
+    <string name="btn_details">детали</string>
+    <string name="delete_record_forever">Удалить эту запись навсегда %s?</string>
+    <string name="restore_record">Востановить эту запись?</string>
+    <string name="empty">Пусто</string>
+    <string name="record_moved_into_trash">Запись перемещена в корзину</string>
+    <string name="record_restored_successfully">Запись восстановлено успешно</string>
+    <string name="rec_frequency">Частота:</string>
+    <string name="trash">Корзина</string>
+    <string name="trash_info">Запись перемещена в корзину и будет удалена навсегда через 60 дней.</string>
+    <string name="error_no_available_space">Нет доступной памяти!</string>
+    <string name="rec_created">Дата создания:</string>
+    <string name="error_failed_access_to_storage" >Не удалось получить доступ к хранилищу файлов</string>
+    <string name="downloading_cancel" >Загрузка отменена</string>
+    <string name="downloading_success" >%s загружен в каталог загрузки</string>
+    <string name="downloading_failed" >Не удалось загрузить: %s</string>
+    <string name="downloading" >Загрузка: %s</string>
+    <string name="by_date" >По дате (самое новое)</string>
+    <string name="by_date_desc" >По дате (самая старая)</string>
+    <string name="by_name" >По имени (A-Z)</string>
+    <string name="by_name_desc" >По имени (Z-A)</string>
+    <string name="by_duration" >По продолжительности (самый длинный)</string>
+    <string name="by_duration_desc" >По продолжительности (самое короткое)</string>
+    <string name="delete_this_record" >Удалить эту запись?</string>
+    <string name="all_records_deleted_successfully" >Все записи успешно удалены</string>
+    <string name="refresh">Обновить</string>
+    <string name="find">Находить</string>
+    <string name="share_via">Поделиться через</string>
+    <string name="copy_link">Копировать ссылку</string>
+    <string name="copied_to_clipboard">Скопировано в буфер обмена</string>
+    <string name="finalback">Щелкните еще раз, чтобы вернуться в главное меню</string>
+    <string name="back">Нажмите еще раз, чтобы выйти</string>
+    <string name="about">О приложении</string>
+    <string name="recordtoast">Зарегистрированное время:</string>
+    <string name="btn_get_started">Начать</string>
+    <string name="btn_apply">Применить</string>
+    <string name="btn_reset">Сбросить</string>
+    <string name="btn_next">Далее</string>
+
+    <string name="settings">Настройки</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Переместить в корзину %d выбранную запись?</item>
+        <item quantity="other">Переместить в корзину %d выбранных записей?</item>
+        <item quantity="few">Переместить в корзину %d выбранные записи?</item>
+        <item quantity="many">Переместить в корзину %d выбранных записей?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Скопировать %d выбранную запись в папку Download?</item>
+        <item quantity="other">Скопировать %d выбранных записей в папку Download?</item>
+        <item quantity="few">Скопировать %d выбранные записи в папку Download?</item>
+        <item quantity="many">Скопировать %d выбранных записей в папку Download?</item>
+    </plurals>
+    <string name="selected">%d выбрано</string>
+    <plurals name="share_records_count">
+        <item quantity="one">Поделиться %d записью</item>
+        <item quantity="other">Поделиться %d записями</item>
+        <item quantity="few">Поделиться %d записями</item>
+        <item quantity="many">Поделиться %d записями</item>
+    </plurals>
+    <string name="btn_import">Импорт</string>
+    <string name="processing_canceled">Обработка отменена</string>
+    <string name="record_calculation">Обработка для отображения&#8230;</string>
+    <string name="restore">Восстановить</string>
+    <string name="dont_ask_again">Больше не показывать</string>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d запись загружена успешно</item>
+        <item quantity="other">%d записей загружено успешно</item>
+        <item quantity="few">%d записи загружено успешно</item>
+        <item quantity="many">%d записей загружено успешно</item>
+    </plurals>
+    <string name="downloading_success_and_fail_count">%d записей загружено успешно, и %d не удалось загрузить</string>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">Не удалось скачать %d запись</item>
+        <item quantity="other">Не удалось скачать %d записей</item>
+        <item quantity="few">Не удалось скачать %d записи</item>
+        <item quantity="many">Не удалось скачать %d записей</item>
+    </plurals>
+    <string name="downloading_failed_file_already_exists">Не удалось скачать. Файл с именем %s уже существует</string>
+    <string name="selected_records_moved_into_trash">Выбранные записи перемещены в корзину</string>
+    <string name="file_browser">Файловый менеджер</string>
+    <string name="private_dir">Приватный каталог</string>
+    <string name="public_dir">Публичный каталог</string>
+    <string name="found_in_the_app">Есть в приложении</string>
+    <string name="not_found_in_the_app">Не найдено в приложении</string>
+    <string name="in_trash">В корзине</string>
+    <string name="info_format"><b>M4a</b> формат кодируется аудио кодеком AAC, имеет хорошее качество и небольшой размер. <b>(рекомендовано)</b>
+		\n<b>Wav</b> формат несжатых аудиоданных. Занимает гораздо больше места, чем другие форматы. Используется в конкретных целей.
+		\n<b>3gp</b> - мультимедийный контейнер, разработанный для услуг мобильной связи. Используйте его, если вам нужно сэкономить место.
+		</string>
+    <string name="info_frequency"><b>Частота дискретизации</b> - количество выборок данных в единицу времени, взятых из непрерывного сигнала.
+		\n<b>48кГц</b> частота, используемая в DVD.
+		\n<b>44,1кГц</b> частота, используемая в Аудио CD. <b>(рекомендовано)</b>
+		\n<b>22кГц</b> популярная частота для низких битрейтов, например в 64 кбит/с.
+		\n<b>8кГц</b> эта частота имеет меньшую пропускную способность, чем современные телефонные системы. Не подходит для серьезных задач записи.
+		</string>
+    <string name="info_bitrate"><b>Битрейт</b> - это количество данных в секунду звука. Непосредственно влияет на качество и размер записи.
+		\n<b>256 кбит/с</b> битрейт звука высокого качества.
+		\n<b>192 кбит/с</b> битрейт звука хорошего качества.
+		\n<b>128 кбит/с</b> битрейт звука среднего качества. Популярный битрейт для подкастов. <b>(рекомендовано)</b>
+		\n<b>96 кбит/с</b> обычно используется для записи речи или стриминга в низком качестве.
+		\n<b>48 кбит/с</b> как правило, приемлем только для записи речи.
+		</string>
+    <string name="info_channels">
+		<b>Стерео</b> звук записывается на два отдельных канала. Это означает, что каждый стереодинамик имеет свой отдельный звуковой сигнал. <b>(рекомендовано)</b>
+		\n<b>Моно</b> звук записывается на один канал. Его можно воспроизвести через стерео систему, но все стереодинамики воспроизводят одну и ту же копию сигнала.
+		</string>
+    <string name="info_3gp"><b>3gp</b> - мультимедийный контейнер, разработанный для услуг мобильной связи. Используйте его, если вам нужно сэкономить место.</string>
+    <string name="info_m4a"><b>M4a</b> формат кодируется аудио кодеком AAC, имеет хорошее качество и небольшой размер. <b>(рекомендовано)</b></string>
+    <string name="info_wav"><b>Wav</b> формат несжатых аудиоданных. Занимает гораздо больше места, чем другие форматы. Используется в конкретных целей.</string>
+    <string name="info_stereo"><b>Стерео</b> звук записывается на два отдельных канала. Это означает, что каждый стереодинамик имеет свой отдельный звуковой сигнал. <b>(рекомендовано)</b></string>
+    <string name="info_mono"><b>Моно</b> звук записывается на один канал. Его можно воспроизвести через стерео систему, но все стереодинамики воспроизводят одну и ту же копию сигнала.</string>
+    <string name="info_bitrate_48"><b>48 кбит/с</b> как правило, приемлем только для записи речи.</string>
+    <string name="info_bitrate_96"><b>96 кбит/с</b> обычно используется для записи речи или стриминга в низком качестве.</string>
+    <string name="info_bitrate_128"><b>128 кбит/с</b> битрейт звука среднего качества. Популярный битрейт для подкастов. <b>(рекомендовано)</b></string>
+    <string name="info_bitrate_192"><b>192 кбит/с</b> битрейт звука хорошего качества.</string>
+    <string name="info_bitrate_256"><b>256 кбит/с</b> битрейт звука высокого качества.</string>
+    <string name="info_sample_rate_8k"><b>8кГц</b> эта частота имеет меньшую пропускную способность, чем современные телефонные системы. Не подходит для серьезных задач записи.</string>
+    <string name="info_sample_rate_16k"><b>8кГц</b> лучше за 8кГц.</string>
+    <string name="info_sample_rate_22k"><b>22кГц</b> популярная частота для низких битрейтов, например в 64 кбит/с</string>
+    <string name="info_sample_rate_32k"><b>8кГц</b> немного лучшше за 22кГц.</string>
+    <string name="info_sample_rate_44k"><b>44,1кГц</b> частота, используемая в Аудио CD. <b>(рекомендовано)</b></string>
+    <string name="info_sample_rate_48k"><b>48кГц</b> частота, используемая в DVD.</string>
+    <string name="recording_format">Формат записи:</string>
+    <string name="bitrate">Битрейт:</string>
+    <string name="channels">Количество каналов:</string>
+    <string name="sample_rate">Частота дискретизации:</string>
+    <string name="size_per_min">%s Мб/мин ожидаемый размер</string>
+    <string name="feature_not_available_in_android_10">Эта функция больше недоступна в Android 10 и выше.</string>
+    <string name="error_failed_to_restore">Не удалось восстановить запись!</string>
+    <string name="error_failed_to_delete">Не удалось удалить запись!</string>
+    <string name="recording_feature_disabled">Функция записи отключена</string>
+    <string name="moving_records_success_and_fail_count">%d записей перемещено успешно, %d не удалось переместить</string>
+    <string name="move_record_success">%s перемещен в личный каталог приложения</string>
+    <string name="move_record_failed">Не удалось двинуться: %s</string>
+    <string name="record_imported_successfully">Запись успешно импортирована</string>
+    <string name="cant_import_files">Не могу импортировать файлы</string>
+    <string name="view">вид</string>
+    <string name="view_records">Просмотр записей</string>
+    <string name="move_records_needed">Необходимо переместить записи</string>
+    <string name="moving_record">Перемещение записи: %s</string>
+    <string name="moving_record_cancel">Переезд отменен</string>
+    <string name="move_records_info">Некоторые из ваших записей все еще хранятся в общественном хранилище. Скоро публичное хранилище для приложения станет недоступным. Нам нужно переместить эти записи в личный каталог приложения.</string>
+    <string name="move_records">Переместить %d записей</string>
+    <string name="move_public_storage_records_message">Необходимо переместить записи в публичное хранилище</string>
+    <string name="later">Потом</string>
+    <string name="move">Двигаться</string>
+    <string name="move_all">Переместить все</string>
+    <string name="start_recording">Начать запись</string>
+    <string name="records_location">Record location: %s</string>
+    <string name="cancel">Аннулировать</string>
+    <string name="hold_to_record_audio">Удерживайте, чтобы записать, отпустите, чтобы сохранить</string>
+    <string name="mal_title_about">О приложении</string>
+    <string name="mal_title_licenses">Лицензии</string>
+    <string name="mal_close">Закрывать</string>
+    <string name="mal_send_email">Отправить электронное письмо</string>
+    <string name="mal_activity_exception">Нет приложений для обработки действий</string>
+    <string name="auther1">© 2022 Ахмед Саад</string>
+    <string name="version">Версия</string>
+    <string name="Licenses">Лицензии</string>
+    <string name="Author">Автор</string>
+    <string name="name">Ахмед Саад</string>
+    <string name="egypt">Египет</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Удобство</string>
+    <string name="Rate_app">Оцените это приложение</string>
+    <string name="Send">Послать электронное письмо</string>
+    <string name="Call">Позвоните мне</string>
+    <string name="Visit">Посетите Египет</string>
+    <string name="save_as">Сохранить как&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Запись будет скопирована в каталог \"Загрузки\".</string>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d запись перемещена успешно</item>
+        <item quantity="other">%d записей перемещено успешно</item>
+        <item quantity="few">%d записи перемещены успешно</item>
+        <item quantity="many">%d записей перемещено успешно</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Не удалось переместить %d запись</item>
+        <item quantity="other">Не удалось переместить %d записей</item>
+        <item quantity="few">Не удалось переместить %d записи</item>
+        <item quantity="many">Не удалось переместить %d записей</item>
+    </plurals>
+    <string name="app_widget_description">Виджет запуска записи</string>
+    <string name="error_failed_to_start_recording">Не удалось начать запись</string>
+    <string name="details_file_is_not_available">К сожалению, приложение больше не имеет доступа к общедоступному хранилищу Android. Вы можете найти файл записи на своем смартфоне по следующему адресу: %s.</string>
+    <string name="title_file_is_not_available">Нет доступа к файлу записи!</string>
+    <string name="button_record">Записывать</string>
+    <string name="button_stop">Останавливаться</string>
+    <string name="button_resume">Продолжить</string>
+    <string name="button_finish">Заканчивать</string>
+</resources>

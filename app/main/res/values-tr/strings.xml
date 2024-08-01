@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kur\'an-ı Kerim</string>
+    <string name="lang">tr</string>
+    <string name="turnlang">Dili değiştirin</string>
+    <string name="sharetwitter">Uygulama bağlantısını paylaş(Twitter)</string>
+    <string name="sharefacebook">Uygulama bağlantısını paylaş(Facebook)</string>
+    <string name="sharegmail">Uygulama bağlantısını paylaş(Gmail)</string>
+    <string name="sharewhatapp">Uygulama bağlantısını paylaş(What\'s App)</string>
+    <string name="shareinstagram">Uygulama bağlantısını paylaş(Instagram)</string>
+    <string name="sharetumblr">Uygulama bağlantısını paylaş(Tumblr)</string>
+    <string name="shareviber">Uygulama bağlantısını paylaş(Viber)</string>
+    <string name="sharelinkedin">Uygulama bağlantısını paylaş(Linkedin)</string>
+    <string name="sharesnapchat">Uygulama bağlantısını paylaş(Snapchat)</string>
+    <string name="shareskype">Uygulama bağlantısını paylaş(Skype)</string>
+    <string name="sharetelegram">Uygulama bağlantısını paylaş(Telegram)</string>
+    <string name="sharereddit">Uygulama bağlantısını paylaş(Reddit)</string>
+    <string name="dialog_title">Yeni sürüm mevcut</string>
+    <string name="dialog_message">Uygulamanın yeni bir sürümü mevcut, en son sürümü güncellemek için lütfen aşağıya
+        tıklayın.
+    </string>
+    <string name="dialog_positive_button_title">Güncelleştirme</string>
+    <string name="all_records_deleted">Tüm kayıtlar başarıyla silindi</string>
+    <string name="app_settings">Ses ayarları:</string>
+    <string name="available_space">Kullanılabilir alan: %s</string>
+    <string name="bookmarks">Sık Kullanılanlar</string>
+    <string name="btn_cancel">İptal Et</string>
+    <string name="btn_no">hayır</string>
+    <string name="btn_play">Koşu</string>
+    <string name="btn_save">Kaydet</string>
+    <string name="btn_yes">evet</string>
+    <string name="delete_all">Tüm kayıtları sil</string>
+    <string name="delete_all_records">Tekrar alamayacağınız tüm kayıtları silmek istediğinize emin misiniz?</string>
+    <string name="delete_record">Bu silin Giriş kayıt %s?</string>
+    <string name="error_cant_create_file">Dosya oluşturulamıyor</string>
+    <string name="error_failed_to_init_player">Başlangıç edilemedi İşletim</string>
+    <string name="error_failed_to_init_recorder">Kaydı başlatılamadı</string>
+    <string name="error_failed_to_rename">Kayıt defteri yeniden adlandırılamadı!</string>
+    <string name="error_file_exists">Bu dosya adı zaten var!</string>
+    <string name="error_invalid_output_file">Çıktı dosyası geçersiz</string>
+    <string name="error_permission_denied">İzin isteği reddedildi</string>
+    <string name="error_player_data_source">operatör dosyasını okuyamaz</string>
+    <string name="error_unable_to_read_sound_file">ses dosyası okunamıyor</string>
+    <string name="error_unknown">Bilinmeyen hata</string>
+    <string name="failed_to_delete_all_records">Tüm kayıtlar silinemedi</string>
+    <string name="fetchs">İnternet bağlantısı</string>
+    <string name="hold_button_to_record">Kayda başla</string>
+    <string name="hold_button_to_record2">Kayıt yaparken lütfen dokunmaya devam edin</string>
+    <string name="import_progress">Ses dosyasını içe …</string>
+    <string name="keep_screen_on">Kayıt sırasında ekranı kapatmayın</string>
+    <string name="no_bookmarks">Yer imleri boş.</string>
+    <string name="no_records">Kayıtlar boş.</string>
+    <string name="other_settings">Diğer:</string>
+    <string name="playback">Çalıştır: %s</string>
+    <string name="please_select_record_to_share">Lütfen paylaşmak için bir ses dosyası seçin veya kaydedin</string>
+    <string name="record_in_stereo">Stereo ses</string>
+    <string name="record_name">Yeni isim</string>
+    <string name="record_processing">Dosya işleniyor …</string>
+    <string name="recording">Kayıt: %s</string>
+    <string name="recording_is_on">Kayıt açık</string>
+    <string name="recording_progress">Kayıt&#8230;</string>
+    <string name="recording_paused">Duraklat</string>
+    <string name="recording_settings">Kayıt defteri ayarları:</string>
+    <string name="records">Kayıt Listesi</string>
+    <string name="recordtoast">Kayıtlı zaman:</string>
+    <string name="settingss">Ayarlar</string>
+    <string name="share_record">Paylaş Giriş kayıt:%s</string>
+    <string name="slide_to_cancel">iptal etmek sürükleyin</string>
+    <string name="store_records_public">Kayıtları ortak klasörde saklayın</string>
+    <string name="today">bugün</string>
+    <string name="total_duration">Toplam kayıt süresi: %s</string>
+    <string name="total_record_count">Toplam kayıt sayısı: %d</string>
+    <string name="warning">Uyarı!</string>
+    <string name="yesterday">dün</string>
+    <string name="private_dir_warning">Kayıtlar, uygulamanın diğer uygulamalarda görünmeyen özel dizininde saklanır</string>
+    <string name="public_dir_warning">Kayıtlar, cihazınızdaki ortak dizinde, diğer uygulamalar için görünür durumda saklanacaktır.</string>
+    <string name="error_on_recording">Kayıt hatası!</string>
+
+
+
+    <string name="wifion">Kablosuz</string>
+    <string name="ask_to_rename">Kaydı durdurduktan sonra yeniden adlandırma iletişim kutusunu göster</string>
+    <string name="btn_allow">olanak sağlamak</string>
+    <string name="btn_deny">reddetmek</string>
+    <string name="btn_ok">tamam</string>
+    <string name="delete">sil</string>
+    <string name="download">indir</string>
+    <string name="error_process_waveform">dalga biçimini çekemez</string>
+    <string name="info">bilgi</string>
+    <string name="naming">Adlandırma:</string>
+    <string name="need_write_permission">Uygulamaya, genel depolamaya erişim izni verilmesi gerekiyor. İzin verilmezse, kayıtlar uygulamanın özel dizininde saklanır</string>
+    <string name="open_record_with">Bununla %s aç</string>
+    <string name="open_with">Bununla aç</string>
+    <string name="rec_duration">Süre:</string>
+    <string name="rec_format">Biçim:</string>
+    <string name="rec_location">Dosya konumu:</string>
+    <string name="rec_name">isim:</string>
+    <string name="rec_size">Boyut:</string>
+    <string name="record_deleted_successfully">kayıt başarıyla silindi</string>
+    <string name="rename">yeni ad vermek</string>
+    <string name="share">Paylaş</string>
+    <string name="delete_all2">hepsini sil</string>
+    <string name="dont_ask_again_rename">Yine yeniden adlandırma sorma</string>
+    <string name="error_lost_records">Kayıtlarınızın bazıları silindi veya taşındı</string>
+    <string name="lost_records">Kayıp kayıtlar</string>
+    <string name="records_was_removed">Bazı kayıtlar dosyaları kayıt dizinde bulunamadı.Muhtemelen kaldırıldı ya da taşındı.</string>
+    <string name="btn_details">ayrıntılar</string>
+    <string name="cancel_rec">Kayıt iptal edildi</string>
+    <string name="delete_record_forever">Sonsuza bu kaydı sil %s?</string>
+    <string name="empty">Boş</string>
+    <string name="rec_frequency">Sıklık:</string>
+    <string name="error_no_available_space">Kullanılabilir alan yok!</string>
+    <string name="record_moved_into_trash">Kayıt çöp kutusuna taşındı</string>
+    <string name="record_restored_successfully">Kayıt başarıyla restore</string>
+    <string name="restore_record">Bu kayıt geri yüklensin mi?</string>
+    <string name="trash_info">Çöp kutusuna taşınan kayıtlar 60 gün içinde sonsuza kadar kaldırılacak.</string>
+    <string name="trash">Çöp</string>
+    <string name="rec_created">oluşturuldu:</string>
+    <string name="error_failed_access_to_storage" >Dosya depolama alanına erişilemedi</string>
+    <string name="downloading_cancel" >İndirme iptal edildi</string>
+    <string name="downloading_success" >%s İndirme dizinine indirildi</string>
+    <string name="downloading_failed" >İndirme başarısız oldu: %s</string>
+    <string name="downloading" >indirilmesi: %s</string>
+    <string name="by_date" >Tarihe göre (en yeni)</string>
+    <string name="by_date_desc" >Tarihe göre (en eski)</string>
+    <string name="by_name" >İsme göre (A-Z)</string>
+    <string name="by_name_desc" >İsme göre (Z-A)</string>
+    <string name="by_duration" >Süreye göre (en uzun)</string>
+    <string name="by_duration_desc" >Süreye göre (en kısa)</string>
+    <string name="delete_this_record" >Bu kayıt silinsin mi?</string>
+    <string name="all_records_deleted_successfully" >Tüm kayıtlar başarıyla silindi</string>
+
+    <string name="refresh">Yenile</string>
+    <string name="find">Bul</string>
+    <string name="share_via">ile paylaş</string>
+    <string name="copy_link">Bağlantıyı kopyala</string>
+    <string name="copied_to_clipboard">Panoya kopyalandı</string>
+    <string name="finalback">Ana menüye dönmek için tekrar tıklayın</string>
+    <string name="back">Çıkmak için tekrar tıklayın</string>
+    <string name="about">Uygulama hakkında</string>
+    <string name="btn_cancelll">bitirme</string>
+    <string name="btn_ccccc">Tüm kayıtlar başarıyla silindi</string>
+    <string name="btn_cccc">Dosyalar geri alındı</string>
+    <string name="btn_ccc">Dosya başarıyla silindi</string>
+    <string name="btn_cc">silmek</string>
+    <string name="btn_c">dosya silindi</string>
+    <string name="btn_cancell">Ad değişikliği iptal edildi</string>
+    <string name="btn_savee">Ad başarıyla değiştirildi</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Çöp kutusuna taşı %d seçilen kayıt?</item>
+        <item quantity="other">Çöp kutusuna taşı %d seçilen kayıt?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">kopyala %d İndirme klasörüne seçilen kayıt?</item>
+        <item quantity="other">kopyala %d İndirme klasörüne seçilen kayıt?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">Paylaş %d kayıt</item>
+        <item quantity="other">Paylaş %d kayıt</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d indirilen kayıt başarıyla</item>
+        <item quantity="other">%d indirilen kayıt başarıyla</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d kayıt başarıyla taşındı</item>
+        <item quantity="other">%d kayıt başarıyla taşındı</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">İndirme başarısız oldu %d kayıt</item>
+        <item quantity="other">İndirme başarısız oldu %d kayıt</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Taşınamadı %d kayıt</item>
+        <item quantity="other">Taşınamadı %d kayıt</item>
+    </plurals>
+    <string name="settings">Ayarlar</string>
+    <string name="recording_feature_disabled">Kayıt özelliği devre dışı bırakıldı</string>
+    <string name="selected">%d seçildi</string>
+    <string name="processing_canceled">İşleme iptal edildi</string>
+    <string name="record_calculation">Dalga formu hesaplamaları&#8230;</string>
+    <string name="downloading_success_and_fail_count">%d kayıt başarıyla indirildi ve %d kayıt indirilemedi</string>
+    <string name="moving_records_success_and_fail_count">%d kayıtlar başarıyla taşındı ve %d taşınamadı</string>
+    <string name="move_record_success">%s uygulamanın özel dizinine taşındı</string>
+    <string name="move_record_failed">Taşınamadı: %s</string>
+    <string name="downloading_failed_file_already_exists">İndirme başarısız oldu. Adı olan dosya %s zaten var</string>
+    <string name="selected_records_moved_into_trash">Seçilen kayıtlar çöp kutusuna taşındı</string>
+    <string name="record_imported_successfully">Kayıt başarıyla içe aktarıldı</string>
+    <string name="cant_import_files">Dosyaları içe aktaramıyorum</string>
+    <string name="file_browser">dosya tarayıcısı</string>
+    <string name="private_dir">Özel dizin</string>
+    <string name="public_dir">Genel dizin</string>
+    <string name="found_in_the_app">Uygulamada bulundu</string>
+    <string name="not_found_in_the_app">Uygulamada bulunamadı</string>
+    <string name="in_trash">çöpte</string>
+    <string name="btn_get_started">Başlayın</string>
+    <string name="btn_apply">uygulamak</string>
+    <string name="btn_reset">Sıfırla</string>
+    <string name="btn_next">sonraki</string>
+    <string name="view">görüş</string>
+    <string name="view_records">kayıtları görüntüle</string>
+    <string name="move_records_needed">Gerekli kayıtları taşıyın</string>
+    <string name="moving_record">Kayıt taşıma: %s</string>
+    <string name="moving_record_cancel">Taşınma iptal edildi</string>
+    <string name="move_records_info">Kayıtlarınızdan bazıları hâlâ genel depolama alanında saklanıyor. Yakında genel depolama, uygulama için kullanılamayacak. Bu kayıtları uygulamanın özel dizinine taşımamız gerekiyor.</string>
+    <string name="bitrate">Bit hızı:</string>
+    <string name="channels">Kanal sayısı:</string>
+    <string name="sample_rate">Aynı oran:</string>
+    <string name="size_per_min">%s Mb/dk beklenen boyut</string>
+    <string name="records_location">Konumu kaydeder: %s</string>
+    <string name="feature_not_available_in_android_10">Bu özellik artık Android 10 veya sonraki sürümlerde mevcut değildir.</string>
+    <string name="move_records">Taşı %d kayıtları</string>
+    <string name="error_failed_to_restore">Kayıt geri yüklenemedi!</string>
+    <string name="error_failed_to_delete">Kayıt silinemedi!</string>
+    <string name="move_public_storage_records_message">Genel depolama kayıtlarını taşıma gerekli</string>
+    <string name="later">Sonra</string>
+    <string name="move">hareket et</string>
+    <string name="move_all">Hepsini taşı</string>
+    <string name="start_recording">Kayda başla</string>
+    <string name="btn_import">İçe aktarmak</string>
+    <string name="restore">geri yükle</string>
+    <string name="dont_ask_again">bir daha sorma</string>
+    <string name="recording_format">Kayıt formatı:</string>
+    <string name="info_format"><b>M4a</b> formatı AAC ses codec\'i ile kodlanmıştır, kaliteli ve küçük boyutludur. <b>(önerilen)</b>
+		\n<b>Wav</b> sıkıştırılmamış ses veri formatıdır. Diğer formatlardan çok daha fazla yer kaplar. Spesifik durumlar için gereklidir.
+		\n<b>3gp</b> mobil telekomünikasyon hizmetleri için geliştirilmiş bir multimedya konteyner formatıdır. Yerden tasarruf etmeniz gerekiyorsa kullanın.</string>
+    <string name="info_frequency"><b>aynı oran</b> saniyede taşınan ses örneklerinin sayısıdır.
+		\n<b>48kHz</b> DVD\'ler için kullanılan örnekleme hızıdır.
+		\n<b>44,1kHz</b> Ses CD\'lerinin örnekleme hızıdır. <b>(önerilen)</b>
+		\n<b>22kHz</b> 64 kbps gibi düşük bit hızı için popüler örnekleme hızı.
+		\n<b>8kHz</b> örnekleme hızı, modern telefon sistemlerinden daha az bant genişliğine sahiptir. Herhangi bir ciddi kayıt görevi için uygun değildir.</string>
+    <string name="info_bitrate"><b>bit hızı</b> sesin saniyesi başına veri boyutudur. Kayıt kalitesini ve boyutunu doğrudan etkiler.
+		\n<b>256 kbps</b> iyi kalite bit hızı.
+		\n<b>192 kbps</b> orta kalite bit hızı.
+		\n<b>128 kbps</b> orta menzilli bit hızı kalitesi. Podcast\'ler için ortak bit hızı. <b>(önerilen)</b>
+		\n<b>96 kbps</b> genellikle konuşma ya da düşük kaliteli yayın için kullanılır.
+		\n<b>48 kbps</b> genel olarak sadece için kabul edilebilir konuşma.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> iki ayrı kanal kaydedilir. Bu, her stereo hoparlörün farklı bir ses sinyaline sahip olduğu anlamına gelir. <b>(önerilen)</b>
+		\n<b>Mono</b> bir sinyal kanalı kaydedilir. Birkaç hoparlör aracılığıyla çoğaltılabilir, ancak tüm hoparlörler hala sinyalin aynı kopyasını üretir.
+		</string>
+    <string name="info_3gp"><b>3gp</b> mobil telekomünikasyon hizmetleri için geliştirilmiş bir multimedya konteyner formatıdır. Yerden tasarruf etmeniz gerekiyorsa kullanın.</string>
+    <string name="info_m4a"><b>M4a</b> formatı AAC ses codec\'i ile kodlanmıştır, kaliteli ve küçük boyutludur. <b>(önerilen)</b></string>
+    <string name="info_wav"><b>Wav</b> sıkıştırılmamış ses veri formatıdır. Diğer formatlardan çok daha fazla yer kaplar. Belirli durumlar için gereklidir.</string>
+    <string name="info_stereo"><b>Stereo</b> iki ayrı kanal kaydedilir. Bu, her stereo hoparlörün farklı bir ses sinyaline sahip olduğu anlamına gelir. <b>(önerilen)</b></string>
+    <string name="info_mono"><b>Mono</b> bir sinyal kanalı kaydedilir. Birkaç hoparlör aracılığıyla çoğaltılabilir, ancak tüm hoparlörler hala sinyalin aynı kopyasını üretir.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> genel olarak sadece için kabul edilebilir konuşma.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> genellikle konuşma veya düşük kaliteli akış için kullanılır.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> orta menzilli bit hızı kalitesi. Podcast\'ler için ortak bit hızı. <b>(önerilen)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> orta kalite bit hızı.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> iyi kalite bit hızı.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> örnekleme hızı, modern telefon sistemlerinden daha az bant genişliğine sahiptir. Herhangi bir ciddi kayıt görevi için uygun değildir.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> 8kHz\'den daha iyidir.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> 64 kbps gibi düşük bit hızı için popüler örnekleme hızı.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> 22kHz\'den biraz daha iyidir.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> Ses CD\'lerinin örnekleme hızıdır. <b>(önerilen)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> DVD\'ler için kullanılan örnekleme hızıdır.</string>
+    <string name="cancel">İptal etmek</string>
+    <string name="hold_to_record_audio">Başlamak için basılı tutun, kaydetmek için bırakın</string>
+    <string name="mal_title_about">Hakkında</string>
+    <string name="mal_title_licenses">lisanslar</string>
+    <string name="mal_close">Kapat</string>
+    <string name="mal_send_email">Eposta gönder</string>
+    <string name="mal_activity_exception">Eylemi işleyecek uygulama yok</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">sürüm</string>
+    <string name="Licenses">lisanslar</string>
+    <string name="Author">Yazar</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Mısır</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Kolaylık</string>
+    <string name="Rate_app">Bu uygulamayı oyla</string>
+    <string name="Send">Bir e-posta göndermek</string>
+    <string name="Call">Ara beni</string>
+    <string name="Visit">Mısır\'ı ziyaret edin</string>
+    <string name="save_as">Farklı kaydet&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Kayıt, \'İndirilenler\' dizinine kopyalanacak</string>
+    <string name="app_widget_description">Widget\'ı kaydetmeye başla</string>
+    <string name="error_failed_to_start_recording">Kayıt başlatılamadı</string>
+    <string name="details_file_is_not_available">Maalesef uygulamanın artık Android genel depolama alanına erişimi yok. Kayıt dosyasını akıllı telefonunuzda şu konumda bulabilirsiniz: %s</string>
+    <string name="title_file_is_not_available">Kayıt dosyasına erişim yok!</string>
+    <string name="button_record">kayıt</string>
+    <string name="button_stop">Durmak</string>
+    <string name="button_resume">Sürdürmek</string>
+    <string name="button_finish">Sona ermek</string>
+
+</resources>

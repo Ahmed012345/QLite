@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quraanka Kariimka</string>
+    <string name="lang">so</string>
+    <string name="turnlang">Beddel luqadda</string>
+    <string name="sharefacebook">La wadaag xiriirka barnaamijka (Facebook)</string>
+    <string name="sharetwitter">La wadaag xiriirka barnaamijka (Twitter)</string>
+    <string name="sharegmail">La wadaag xiriirka barnaamijka (Gmail)</string>
+    <string name="sharewhatapp">La wadaag xiriirka barnaamijka (What\'s App)</string>
+    <string name="shareinstagram">La wadaag xiriirka barnaamijka (Instagram)</string>
+    <string name="sharetumblr">La wadaag xiriirka barnaamijka (Tumblr)</string>
+    <string name="shareviber">La wadaag xiriirka barnaamijka (Viber)</string>
+    <string name="sharelinkedin">La wadaag xiriirka barnaamijka (Linkedin)</string>
+    <string name="sharesnapchat">La wadaag xiriirka barnaamijka (Snapchat)</string>
+    <string name="shareskype">La wadaag xiriirka barnaamijka (Skype)</string>
+    <string name="sharetelegram">La wadaag xiriirka barnaamijka (Telegram)</string>
+    <string name="sharereddit">La wadaag xiriirka barnaamijka (Reddit)</string>
+    <string name="dialog_title">Nooc cusub ayaa la heli karaa</string>
+    <string name="dialog_message">Nooca cusub ee barnaamijka ayaa la heli karaa, fadlan hoosta dhagsii si aad u cusboonaysiiso nooca ugu dambeeyay.</string>
+    <string name="dialog_positive_button_title">Cusboonaysiinta</string>
+    <string name="slide_to_cancel">Jiid si aad u joojiso</string>
+    <string name="hold_button_to_record">Bilow duubista</string>
+    <string name="hold_button_to_record2">Marka diiwaangelinta, fadlan sii taabashada</string>
+    <string name="fetchs">Khadka internetka</string>
+    <string name="wifion">WIFI</string>
+    <string name="records">Duubista</string>
+    <string name="settingss">Dejinta</string>
+    <string name="store_records_public">Ku keydi diiwaannada galka bulshada</string>
+    <string name="record_in_stereo">Codka Stereo</string>
+    <string name="keep_screen_on">Ha daminin shaashadda inta lagu jiro duubista</string>
+    <string name="total_duration">Wadarta muddada la duubay: %s</string>
+    <string name="total_record_count">Wadarta tirada diiwaanada: %d</string>
+    <string name="available_space">Meel bannaan oo la heli karo: %s</string>
+    <string name="delete_all">Tirtir dhamaan cajaladaha</string>
+    <string name="warning">Digniin!</string>
+    <string name="delete_record">Dhaqaaq ah bin recycle %s</string>
+    <string name="delete_all_records">Tirtir dhamaan diiwaanada mana awoodi doontid inaad dib u hesho markale?</string>
+    <string name="all_records_deleted">Dhammaan diiwaanada si guul leh ayaa loo tirtiray</string>
+    <string name="failed_to_delete_all_records">Ku guuldareystay inuu tirtiro dhammaan diiwaanada</string>
+    <string name="please_select_record_to_share">Fadlan dooro ama duub faylka maqalka ah si aad ula wadaagtid</string>
+    <string name="record_name">magac cusub</string>
+    <string name="recording">Diiwaangashan: %s</string>
+    <string name="recording_is_on">Duubista ayaa daaran</string>
+    <string name="recording_progress">Isdiiwaan gal …</string>
+    <string name="recording_paused">Xidhan Ku meel gaadh ah</string>
+    <string name="playback">Ciyaar: %s</string>
+    <string name="no_records">Diiwaanada ayaa banaan.</string>
+    <string name="no_bookmarks">Bookmarks madhan yihiin.</string>
+    <string name="bookmarks">bookmarks</string>
+    <string name="share_record">Wadaagista Diiwaangelinta: %s</string>
+    <string name="import_progress">Keenaya feylka maqalka ah …</string>
+    <string name="record_processing">Falanqaynta faylka …</string>
+    <string name="app_settings">Dejinta codka:</string>
+    <string name="recording_settings">Dejinta Duubista:</string>
+    <string name="other_settings">Kuwa kale:</string>
+    <string name="today">Maanta</string>
+    <string name="yesterday">shalay</string>
+    <string name="btn_save">badbaadin</string>
+    <string name="btn_savee">Name ayaa si guul leh dib u habaynta</string>
+    <string name="btn_cancel">Tirtirid</string>
+    <string name="btn_cancell">Wax ka beddelka magaca waa la joojiyay</string>
+    <string name="btn_c">Tirtirida feylka waa la joojiyay</string>
+    <string name="btn_cc">tirtir</string>
+    <string name="btn_ccc">Faylka si guul leh ayaa loo tirtiray</string>
+    <string name="btn_cccc">Tirka files ayaa la baajiyay</string>
+    <string name="btn_ccccc">Dhammaan diiwaanada si guul leh ayaa loo tirtiray</string>
+    <string name="btn_cancelll">dhammaanaya</string>
+    <string name="btn_yes">Haa</string>
+    <string name="btn_no">No</string>
+    <string name="btn_play">ordaya</string>
+    <string name="error_unknown">Cilad aan la aqoon</string>
+    <string name="error_cant_create_file">Lama abuuri karo feyl</string>
+    <string name="error_invalid_output_file">Faylka wax soo saarku waa mid aan shaqeyn</string>
+    <string name="error_file_exists">Faylka magacan hore ayaa u jiray!</string>
+    <string name="error_failed_to_rename">Ku guuldareystay in dib u magacowdo diiwaanka!</string>
+    <string name="error_failed_to_init_recorder">Guuldareystay inuu ku soo bilowdo duubo</string>
+    <string name="error_failed_to_init_player">Ku guuldaraystay inuu bilaabo</string>
+    <string name="error_player_data_source">Ciyaaruhu ma akhrin karo feyl</string>
+    <string name="error_unable_to_read_sound_file">Ma awoodo inuu ciyaaro faylka codka</string>
+    <string name="error_permission_denied">Codsiga ogolaanshaha waa la diiday</string>
+    <string name="recordtoast">Waqtiga la duubay waa:</string>
+    <string name="open_record_with">Fur %s isticmaalaya</string>
+    <string name="delete">tirtir</string>
+    <string name="rename">dib loo magacaabay</string>
+    <string name="open_with">furay iyadoo la adeegsanayo</string>
+    <string name="download">Soo Degso</string>
+    <string name="share">La Wadaag</string>
+    <string name="ask_to_rename">Muuji hadal magaca ka dib marka la joojiyo duubista</string>
+    <string name="record_deleted_successfully">Faylka si guul leh ayaa loo tirtiray</string>
+    <string name="need_write_permission">Abku wuxuu ubaahan yahay ogolaansho inuu kuhelo kaydinta dadweynaha. Haddii aan la oggolaan, diiwaannada waxaa lagu kaydiyaa galka tusaha dalabka</string>
+    <string name="rec_name">Magac:</string>
+    <string name="rec_format">qaab:</string>
+    <string name="rec_duration">Muddo:</string>
+    <string name="rec_size">cabirka:</string>
+    <string name="rec_location">Goobta faylka:</string>
+    <string name="naming">magac bixinta:</string>
+    <string name="private_dir_warning">Diiwaanka ayaa lagu keydin doonaa galka buugga ee arjiga mana u muuqan doono codsiyada kale</string>
+    <string name="public_dir_warning">Diiwaanada waxaa lagu keydin doonaa galka la wadaago ee qalabkaaga kaas oo u muuqda barnaamijyada kale</string>
+    <string name="btn_ok">Waa hagaag</string>
+    <string name="btn_deny">Diidmo</string>
+    <string name="btn_allow">U oggolow</string>
+    <string name="error_process_waveform">Qaabka mowjadda lama sawiri karo</string>
+    <string name="records_was_removed">Qaar ka mid ah feylasha faylasha lama helin diiwaanka diiwaanka. Waxaa laga yaabaa in laga saaray ama la dhaqaajiyay.</string>
+    <string name="dont_ask_again_rename">Ha weydii in ay mar kale magaca</string>
+    <string name="error_lost_records">Qaar ka mid ah diiwaankaaga waa la tirtiray ama la dhaqaajiyay</string>
+    <string name="delete_record_forever">Tirtir diiwaanka %s weligiis?</string>
+    <string name="restore_record">Soo Celinta log %s?</string>
+    <string name="empty">Faaruq</string>
+    <string name="record_moved_into_trash">Diiwaanka wuxuu u wareegay Recycle Bin</string>
+    <string name="record_restored_successfully">Diiwaangeli si guul leh ayaa loo soo celiyey</string>
+    <string name="rec_frequency">inta jeer:</string>
+    <string name="trash">Qashinka</string>
+    <string name="trash_info">Diiwaanada loo raray Qashinka ayaa weligood laga saari doonaa 60 maalmood gudahood.</string>
+    <string name="error_no_available_space">Meel bannaan lama heli karo!</string>
+    <string name="rec_created">abuuray:</string>
+    <string name="info">Xog</string>
+    <string name="cancel_rec">Diiwaangelinta waa la joojiyay</string>
+    <string name="delete_all2">Tirtir dhamaan</string>
+    <string name="lost_records">Rikoodhka ayaa lumay</string>
+    <string name="btn_details">faahfaahinta</string>
+    <string name="error_failed_access_to_storage">Ku guuldarraystay in kaydinta helaan file</string>
+    <string name="downloading_cancel">download la joojiyay</string>
+    <string name="downloading_success">La soo dejiyey buugga soo dejinta %s</string>
+    <string name="downloading_failed">Download guuldareystay: %s</string>
+    <string name="downloading">Download: %s</string>
+    <string name="by_date">By taariikhda (Xadiiska)</string>
+    <string name="by_date_desc">By taariikhda (da\'dfa weyn)</string>
+    <string name="by_name">By magaca (A-Z)</string>
+    <string name="by_name_desc">By magaca (Z-A)</string>
+    <string name="by_duration">Muddada (ugu dheer)</string>
+    <string name="by_duration_desc">Muddada (ugu gaaban)</string>
+    <string name="delete_this_record">Tirtir diiwaankaan?</string>
+    <string name="all_records_deleted_successfully">Dhammaan diiwaanada si guul leh ayaa loo tirtiray</string>
+
+
+    <string name="refresh">Refresh</string>
+    <string name="find">Soo hel</string>
+    <string name="share_via">La wadaag</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="copied_to_clipboard">Guuriyeen in sabuurad</string>
+    <string name="about">Ku saabsan abka</string>
+    <string name="back">Mar kale ku dhufo si aad uga baxdo</string>
+    <string name="finalback">Mar kale guji si aad ugu laabato liiska ugu muhiimsan</string>
+    <string name="error_on_recording">Khaladka Diiwaangelinta!</string>
+    <string name="settings">Dejinta</string>
+    <string name="recording_feature_disabled">Muuqaalka duubista waa la joojiyay</string>
+    <string name="selected">%d la doortay</string>
+    <string name="processing_canceled">Nidaaminta waa la joojiyay</string>
+    <string name="record_calculation">xisaabinta Waveform&#8230;</string>
+    <string name="downloading_success_and_fail_count">%d diiwaanada si guul leh loo soo dejiyay iyo %d way ku guuldaraysteen inay soo dejiyaan</string>
+    <string name="moving_records_success_and_fail_count">%d diiwaanadu waxay u dhaqaaqeen si guul leh iyo %d waxay ku guuldareysteen inay dhaqaaqaan</string>
+    <string name="move_record_success">%s waxa loo raray hagaha gaarka ah ee abka</string>
+    <string name="move_record_failed">Ku guuldareystay inuu dhaqaaqo: %s</string>
+    <string name="downloading_failed_file_already_exists">Ku guuldareystay in la soo dejiyo Faylka magaca %s hore u jiray</string>
+    <string name="selected_records_moved_into_trash">Diiwaanada la doortay ayaa loo raray qashinka</string>
+    <string name="record_imported_successfully">Diiwaanka si guul leh ayaa loo soo dejiyay</string>
+    <string name="cant_import_files">Ma soo dejin karo faylasha</string>
+    <string name="file_browser">browser file</string>
+    <string name="private_dir">Hagaha gaarka ah</string>
+    <string name="public_dir">Hagaha guud</string>
+    <string name="found_in_the_app">Laga helay abka</string>
+    <string name="not_found_in_the_app">Aan laga helin abka</string>
+    <string name="in_trash">Qashinka dhexdiisa</string>
+    <string name="btn_get_started">Bilow</string>
+    <string name="btn_apply">Codso</string>
+    <string name="btn_reset">Dib u dajin</string>
+    <string name="btn_next">Xiga</string>
+    <string name="view">aragti</string>
+    <string name="view_records">Daawo diiwaanka</string>
+    <string name="move_records_needed">Dhaqaaq diiwaanada loo baahan yahay</string>
+    <string name="moving_record">Rikoorka guurista: %s</string>
+    <string name="moving_record_cancel">guuritaanka waa la joojiyay</string>
+    <string name="move_records_info">Qaar ka mid ah diiwaannadaada ayaa wali ku kaydsan kaydinta dadweynaha. Dhawaan kaydinta dad waynaha lama heli doono abka Waxaan u baahanahay inaan u guurno diiwaanadaas tusaha gaarka ah ee abka.</string>
+    <string name="recording_format">Qaab duubis:</string>
+    <string name="bitrate">Bitrate:</string>
+    <string name="channels">Tirada kanaalka:</string>
+    <string name="sample_rate">Heerka Tusaalaha:</string>
+    <string name="size_per_min">%s Mb/min cabbir la filayo</string>
+    <string name="records_location">Records location: %s</string>
+    <string name="feature_not_available_in_android_10">Habkan hadda lagama heli karo Android 10 ama ka sareeya.</string>
+    <string name="move_records">Dhaqaaq %d diiwaanada</string>
+    <string name="error_failed_to_restore">Ku guul darreystay soo celinta rikoorka!</string>
+    <string name="error_failed_to_delete">Waa lagu guul daraystay in la tirtiro diiwaanka!</string>
+    <string name="move_public_storage_records_message">Dhaqaaq diiwaanada kaydinta dadweynaha ayaa loo baahan yahay</string>
+    <string name="later">ka dib</string>
+    <string name="move">Dhaqaaq</string>
+    <string name="move_all">Dhaqaaq dhammaan</string>
+    <string name="start_recording">Bilow Duubista</string>
+    <string name="btn_import">Soo dejinta</string>
+    <string name="restore">soo celin</string>
+    <string name="dont_ask_again">mar kale ha weydiin</string>
+
+    <plurals name="delete_selected_records">
+        <item quantity="one">U guuri qashinka %d diiwaanka la doortay?</item>
+        <item quantity="other">U guuri qashinka %d diiwaannada la doortay?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Koobi %d diiwaanka la xushay galka la soo dejiyo?</item>
+        <item quantity="other">Koobi %d diiwaanka la xushay galka la soo dejiyo?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">La wadaag %d rikoodhka</item>
+        <item quantity="other">La wadaag %d rikoodhka</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d diiwaanka si guul leh ayaa loo soo dejiyay</item>
+        <item quantity="other">%d diiwaanka si guul leh ayaa loo soo dejiyay</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d rikoorku si guul leh ayuu u dhaqaaqay</item>
+        <item quantity="other">%d rikoorku si guul leh ayuu u dhaqaaqay</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">Ku guuldareystay in la soo dejiyo %d duubista</item>
+        <item quantity="other">Ku guuldareystay in la soo dejiyo %d duubista</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Ku guuldarraystay inuu dhaqaaqo %d duubista</item>
+        <item quantity="other">Ku guuldarraystay inuu dhaqaaqo %d duubista</item>
+    </plurals>
+    <string name="info_format"><b>M4a</b> qaabka waxaa lagu dhejiyay codec maqal AAC ah ayaa leh tayo wanaagsan oo cabbir yar. <b>(lagu taliyay)</b>
+		\n<b>Wav</b> waa qaab xogta maqalka ah oo aan la adkeyn. Waxay qaadataa meel aad uga badan qaababka kale. Waxaa loogu baahan yahay kiisas gaar ah.
+		\n<b>3gp</b> waa qaab weel warbaahin ah oo loo sameeyay adeegyada isgaarsiinta mobilada. Isticmaal haddii aad u baahan tahay inaad meel dhigato.
+		</string>
+    <string name="info_frequency"><b>heerka muunad</b> waa tirada muunada maqalka ee lagu qaado ilbiriqsikiiba.
+		\n<b>48kHz</b> waa saamiga saamiga loo isticmaalo DVD-yada.
+		\n<b>44,1kHz</b> waa saamiga muunada ee CD-yada maqalka ah. <b>(lagu taliyay)</b>
+		\n<b>22kHz</b> heerka muunada caanka ah ee heerka yara hooseeya sida 64 kbps.
+		\n <b>8kHz</b> heerka muunadku wuu ka yar yahay habka telefoonada casriga ah. Kuma habboona hawl duubitaan oo halis ah.
+		</string>
+    <string name="info_bitrate"><b>bitrate</b> waa cabbirka xogta ilbiriqsikii codka. Waxay si toos ah u saamaysaa tayada duubista iyo cabbirka.
+		\n<b>256 kbps</b> tayo fiican leh bitrate.
+		\n<b>192 kbps</b> bitrate tayo dhexdhexaad ah.
+		\n<b>128 kbps</b> heerka dhexe ee tayada. Bitrate caadi ah oo loogu talagalay podcasts. <b>(lagu taliyay)</b>
+		\n<b>96 kbps</b> guud ahaan loo isticmaalo hadalka ama qulqulka tayada hooseeya.
+		\n<b>48 kbps</b> guud ahaan la aqbali karo oo kaliya hadalka.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> laba kanaal oo kala duwan ayaa la duubay. Tani waxay ka dhigan tahay in ku hadla stereo kasta uu leeyahay dhawaaq dhawaaq oo kala duwan. <b>(lagu taliyay)</b>
+		\n<b>Mono</b> hal kanaal signal ayaa la duubay. Waxaa lagu soo saari karaa dhowr ku hadla, laakiin dhammaan kuwa ku hadla ayaa weli soo saaraya nuqul isku mid ah. hal signal
+		</string>
+    <string name="info_3gp"><b>3gp</b> waa qaab weel warbaahin ah oo loo sameeyay adeegyada isgaarsiinta mobilada. Isticmaal haddii aad u baahan tahay inaad meel dhigato.</string>
+    <string name="info_m4a"><b>M4a</b> qaabka waxaa lagu dhejiyay codec maqal AAC ah ayaa leh tayo wanaagsan oo cabbir yar. <b>(lagu taliyay)</b></string>
+    <string name="info_wav"><b>Wav</b> waa qaab xogta maqalka ah oo aan la adkeyn. Waxay qaadataa meel aad uga badan qaababka kale. Waxaa loogu baahan yahay kiisas gaar ah.</string>
+    <string name="info_stereo"><b>Stereo</b> laba kanaal oo kala duwan ayaa la duubay. Tani waxay ka dhigan tahay in ku hadla stereo kasta uu leeyahay. calaamad dhawaaq oo ka duwan. <b>(lagu taliyay)</b></string>
+    <string name="info_mono"><b>Mono</b> hal kanaal signal ayaa la duubay. Waxaa lagu soo saari karaa dhowr ku hadla, laakiin dhammaan kuwa ku hadla ayaa weli soo saaraya koobi isku mid ah oo signalka ah.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> guud ahaan la aqbali karo oo kaliya hadalka.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> guud ahaan loo isticmaalo hadalka ama qulqulka tayada hooseeya.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> heerka dhexe ee tayada. Bitrate caadi ah oo loogu talagalay podcasts. <b>(lagu taliyay)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> bitrate tayo dhexdhexaad ah.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> bitrate tayo fiican leh.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> heerka muunadku wuu ka yar yahay hababka taleefoonada casriga ah. Kuma habboona hawl duubitaan oo halis ah.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> wuu ka fiican yahay 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> heerka muunada caanka ah ee heerka yara hooseeya sida 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> wax yar ayaa ka fiican 22kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> waa saamiga muunada ee CD-yada maqalka ah. <b>(lagu taliyay)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> waa saamiga saamiga loo isticmaalo DVD-yada.</string>
+    <string name="cancel">burin</string>
+    <string name="hold_to_record_audio">Qabo duubista, sii daa si aad u badbaadiso</string>
+    <string name="mal_title_about">Ku saabsan</string>
+    <string name="mal_title_licenses">Shatiyada</string>
+    <string name="mal_close">Xir</string>
+    <string name="mal_send_email">Soo dir iimayl</string>
+    <string name="mal_activity_exception">Ma jiro abka wax ka qabanaya ficilka</string>
+    <string name="auther1">© 2022 Axmed Sacad</string>
+    <string name="version">nooca</string>
+    <string name="Licenses">Shatiyada</string>
+    <string name="Author">Qoraa</string>
+    <string name="name">Axmed Sacad</string>
+    <string name="egypt">Masar</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">ku habboonaansho</string>
+    <string name="Rate_app">qiimee appkan</string>
+    <string name="Send">Soo dir iimayl</string>
+    <string name="Call">Isoo wac</string>
+    <string name="Visit">Booqo Masar</string>
+    <string name="save_as">Keydso sida&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Diiwaanka waxa lagu koobiyi doonaa tusaha \'Downloads\'</string>
+    <string name="app_widget_description">Bilow duubista widget-ka</string>
+    <string name="error_failed_to_start_recording">Ku guuldareystay inuu bilaabo duubista</string>
+    <string name="details_file_is_not_available">Nasiib darro, abka hadda ma heli karo kaydinta dadweynaha Android. Waxaad ka heli kartaa faylka rikoodhka taleefankaaga casriga ah goobtan: %s</string>
+    <string name="title_file_is_not_available">Ma geli karo faylka diiwaanka!</string>
+    <string name="button_record">Duub</string>
+    <string name="button_stop">Jooji</string>
+    <string name="button_resume">Dib u bilaw</string>
+    <string name="button_finish">dhame</string>
+
+</resources>
