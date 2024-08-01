@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قرآن پاک</string>
+    <string name="lang">ur</string>
+    <string name="turnlang">زبان کو تبدیل کریں</string>
+    <string name="sharefacebook">ایپ لنک پر اس کا اشتراک کریں {فیس بک}</string>
+    <string name="sharetwitter">ایپ لنک پر اس کا اشتراک کریں {ٹویٹر}</string>
+    <string name="sharegmail">ایپ لنک پر اس کا اشتراک کریں {جى ميل}</string>
+    <string name="sharewhatapp">ایپ لنک پر اس کا اشتراک کریں {واٹس ایپ}</string>
+    <string name="shareinstagram">ایپ لنک پر اس کا اشتراک کریں {انسٹاگرام}</string>
+    <string name="sharetumblr">ایپ لنک پر اس کا اشتراک کریں {ٹمبلر}</string>
+    <string name="shareviber">ایپ لنک پر اس کا اشتراک کریں {وائبر}</string>
+    <string name="sharelinkedin">ایپ لنک پر اس کا اشتراک کریں {لنکڈین}</string>
+    <string name="sharesnapchat">ایپ لنک پر اس کا اشتراک کریں {سنیپ چیٹ}</string>
+    <string name="shareskype">ایپ لنک پر اس کا اشتراک کریں {اسکائپ }</string>
+    <string name="sharetelegram">ایپ لنک پر اس کا اشتراک کریں {ٹیلیگرام }</string>
+    <string name="sharereddit">ایپ لنک پر اس کا اشتراک کریں {ریڈڈیٹ }</string>
+    <string name="dialog_title">نیا ورژن دستیاب ہے</string>
+    <string name="dialog_message">ایپ کا ایک نیا ورژن دستیاب ہے ، براہ کرم تازہ ترین ورژن کو اپ ڈیٹ کرنے کے لئے نیچے کلک کریں۔</string>
+    <string name="dialog_positive_button_title">اپ ڈیٹ</string>
+    <string name="slide_to_cancel">منسوخ کرنے کے لئے ھیںچو</string>
+    <string name="hold_button_to_record">ریکارڈنگ شروع کریں</string>
+    <string name="hold_button_to_record2">جب رجسٹر، براہ مہربانی چھونے رکھنے</string>
+    <string name="fetchs">انٹرنیٹ کنکشن</string>
+    <string name="wifion">وائی فائی</string>
+    <string name="records">ریکارڈنگ</string>
+    <string name="settingss">ترتیبات</string>
+    <string name="store_records_public">ریکارڈنگ عوامی فولڈر میں محفوظ کی جاتی ہیں</string>
+    <string name="record_in_stereo">سٹیریو آواز</string>
+    <string name="keep_screen_on">سکرین ریکارڈنگ کے دوران بند نہیں کرتا</string>
+    <string name="total_duration">کل ریکارڈ شدہ مدت: %s</string>
+    <string name="total_record_count">ریکارڈوں کی کل تعداد: %d</string>
+    <string name="available_space">دستیاب جگہ: %s</string>
+    <string name="delete_all">تمام ریکارڈز کو حذف کریں</string>
+    <string name="warning">انتباہ!</string>
+    <string name="delete_record">ری سائیکل بن کی طرف بڑھیں %s</string>
+    <string name="delete_all_records">تمام ریکارڈز کو حذف کریں اور انہیں دوبارہ حاصل نہیں کرسکیں گے۔</string>
+    <string name="all_records_deleted">تمام ریکارڈ کامیابی کے ساتھ حذف کردیئے گئے</string>
+    <string name="failed_to_delete_all_records">تمام ریکارڈز کو حذف کرنے میں ناکام</string>
+    <string name="please_select_record_to_share">براہ کرم اشتراک کرنے کے لئے کسی آڈیو فائل کو منتخب کریں یا ریکارڈ کریں</string>
+    <string name="record_name">نیا نام</string>
+    <string name="recording">رجسٹر: %s</string>
+    <string name="recording_is_on">ریکارڈنگ آن ہے</string>
+    <string name="recording_progress">سائن اپ…</string>
+    <string name="recording_paused">روک دیا گیا</string>
+    <string name="playback">کھیلو: %s</string>
+    <string name="no_records">ریکارڈنگ خالی ہیں۔</string>
+    <string name="no_bookmarks">بُک مارکس خالی ہیں۔</string>
+    <string name="bookmarks">بُک مارکس</string>
+    <string name="share_record">"رجسٹریشن اشتراک: %s "</string>
+    <string name="import_progress">ایک آڈیو فائل درآمد کریں …</string>
+    <string name="record_processing">فائل پروسیسنگ…</string>
+    <string name="app_settings">صوتی ترتیبات:</string>
+    <string name="recording_settings">رجسٹری کی ترتیبات:</string>
+    <string name="other_settings">دیگر:</string>
+    <string name="today">آج</string>
+    <string name="yesterday">ماضی</string>
+    <string name="btn_save">محفوظ کریں</string>
+    <string name="btn_savee">نام میں کامیابی کے ساتھ ترمیم کی گئی</string>
+    <string name="btn_cancel">منسوخی</string>
+    <string name="btn_cancell">نام میں ترمیم منسوخ کردی گئی</string>
+    <string name="btn_c">فائل غیر حذف</string>
+    <string name="btn_cc">حذف کریں</string>
+    <string name="btn_ccc">فائل کامیابی کے ساتھ حذف کردی گئی</string>
+    <string name="btn_cccc">منسوخی فائلیں حذف کریں</string>
+    <string name="btn_ccccc">تمام ریکارڈ کامیابی کے ساتھ حذف کردیئے گئے</string>
+    <string name="btn_cancelll">ختم ہونے والا</string>
+    <string name="btn_yes">جی ہاں</string>
+    <string name="btn_no">نہیں</string>
+    <string name="btn_play">آپریشن</string>
+    <string name="error_unknown">نامعلوم خامی</string>
+    <string name="error_cant_create_file">فائل نہیں بن سکتی</string>
+    <string name="error_invalid_output_file">آؤٹ پٹ فائل غلط ہے</string>
+    <string name="error_file_exists">اس نام والی فائل پہلے سے موجود ہے!</string>
+    <string name="error_failed_to_rename">رجسٹری کا نام تبدیل کرنے میں ناکام!</string>
+    <string name="error_failed_to_init_recorder">ریکارڈنگ شروع کرنے میں ناکام</string>
+    <string name="error_failed_to_init_player">شروع کرنے میں ناکام</string>
+    <string name="error_player_data_source">کھلاڑی فائل نہیں پڑھ سکتا ہے</string>
+    <string name="error_unable_to_read_sound_file">آڈیو فائل چلانے سے قاصر</string>
+    <string name="error_permission_denied">اجازت کی درخواست مسترد کردی گئی</string>
+    <string name="recordtoast">ریکارڈ شدہ وقت یہ ہے:</string>
+    <string name="open_record_with">کھولو %s استعمال کرتے ہوئے</string>
+    <string name="delete">حذف کریں</string>
+    <string name="rename">نام تبدیل کریں</string>
+    <string name="open_with">استعمال کرکے کھول دیا گیا</string>
+    <string name="download">ڈاؤن لوڈ کریں</string>
+    <string name="share">بانٹیں</string>
+    <string name="ask_to_rename">ریکارڈنگ روکنے کے بعد نام تبدیل کریں ڈائیلاگ دکھائیں</string>
+    <string name="record_deleted_successfully">فائل کامیابی کے ساتھ حذف کردی گئی</string>
+    <string name="need_write_permission">ایپ کو عوامی اسٹوریج تک رسائی کے ل. اجازت درکار ہے۔ اگر اجازت نہیں دی جاتی ہے تو ، درخواست کی ڈائرکٹری میں ریکارڈ محفوظ ہوجائیں گے</string>
+    <string name="rec_name">اسم:</string>
+    <string name="rec_format">فارمولا:</string>
+    <string name="rec_duration">دورانیہ:</string>
+    <string name="rec_size">سائز:</string>
+    <string name="rec_location">فائل کا مقام:</string>
+    <string name="naming">نام:</string>
+    <string name="private_dir_warning">ریکارڈ ایپلی کیشن کی ڈائرکٹری میں محفوظ ہوجائیں گے اور دیگر ایپلی کیشنز کو نظر نہیں آئیں گے</string>
+    <string name="public_dir_warning">ریکارڈز آپ کے آلے پر مشترکہ ڈائرکٹری میں محفوظ ہوجائیں گے جو دیگر ایپلی کیشنز کیلئے مرئی ہے</string>
+    <string name="btn_ok">ٹھیک ہے</string>
+    <string name="btn_deny">انکار</string>
+    <string name="btn_allow">اجازت دیں</string>
+    <string name="error_process_waveform">waveform کی تیار نہیں کیا جا سکتا</string>
+    <string name="records_was_removed">لاگ ڈائرکٹری میں کچھ لاگ فائلیں نہیں پائی گئیں۔ ہوسکتا ہے کہ اسے ہٹا یا منتقل کردیا گیا ہو۔</string>
+    <string name="dont_ask_again_rename">ایک بار پھر نام تبدیل کرنا مت پوچھو</string>
+    <string name="error_lost_records">آپ کے کچھ ریکارڈز کو حذف یا منتقل کردیا گیا ہے</string>
+    <string name="delete_record_forever">ریکارڈنگ حذف کریں %s ہمیشہ کے لئے</string>
+    <string name="restore_record">" رجسٹری وصولی ہے %s؟ "</string>
+    <string name="empty">خالی</string>
+    <string name="record_moved_into_trash">ریکارڈ کوڑے دان میں منتقل ہوگیا</string>
+    <string name="record_restored_successfully">کامیابی سے ریکارڈ بحال کریں</string>
+    <string name="rec_frequency">فریکوئنسی:</string>
+    <string name="trash">ری سائیکل</string>
+    <string name="trash_info">کوڑے دان میں منتقل کردہ ریکارڈز 60 دن میں ہمیشہ کے لئے ختم کردیئے جائیں گے۔</string>
+    <string name="error_no_available_space">جگہ دستیاب نہیں ہے!</string>
+    <string name="rec_created">تشکیل دیا:</string>
+    <string name="info">معلومات</string>
+    <string name="cancel_rec">رجسٹریشن منسوخ کردی گئی ہے</string>
+    <string name="delete_all2">تمام حذف کریں</string>
+    <string name="lost_records">ریکارڈ ضائع ہوگئے</string>
+    <string name="btn_details">تفصیلات</string>
+    <string name="error_failed_access_to_storage">فائل اسٹوریج تک رسائی ناکام ہوگئی</string>
+    <string name="downloading_cancel">ڈاؤن لوڈ منسوخ کر دیا گیا ہے</string>
+    <string name="downloading_success">ڈاؤن لوڈ ڈائریکٹری میں ڈاؤن لوڈ کیا s%</string>
+    <string name="downloading_failed">ڈاؤن لوڈ ناکام: s%</string>
+    <string name="downloading">ڈاؤن لوڈ: s%</string>
+    <string name="by_date">تاریخ کے لحاظ سے (سب سے حالیہ)</string>
+    <string name="by_date_desc">تاریخ کے لحاظ سے (پرانا)</string>
+    <string name="by_name">نام سے (أ-ي)</string>
+    <string name="by_name_desc">نام سے (ي-أ)</string>
+    <string name="by_duration">مدت کے لحاظ سے (طویل ترین)</string>
+    <string name="by_duration_desc">مدت کے لحاظ سے (مختصر)</string>
+    <string name="delete_this_record">یہ ریکارڈ حذف کریں؟</string>
+    <string name="all_records_deleted_successfully">تمام ریکارڈ کامیابی کے ساتھ حذف کردیئے گئے</string>
+
+
+
+    <string name="refresh">ریفریش</string>
+    <string name="find">تلاش کریں</string>
+    <string name="share_via">کے ذریعے شیئر کریں</string>
+    <string name="copy_link">لنک کاپی کریں</string>
+    <string name="copied_to_clipboard">کلپ بورڈ میں کاپی</string>
+    <string name="about">ایپ کے بارے میں</string>
+    <string name="back">باہر نکلنے کے لیے دوبارہ کلک کریں۔</string>
+    <string name="finalback">مین مینو پر واپس جانے کے لیے دوبارہ کلک کریں۔</string>
+    <string name="error_on_recording">رجسٹریشن کی خرابی!</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">کوڑے دان میں منتقل کریں %d منتخب ریکارڈ؟</item>
+        <item quantity="other">کوڑے دان میں منتقل کریں %d منتخب ریکارڈ؟</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">کاپی کریں %d ڈاؤن لوڈ فولڈر میں ریکارڈ منتخب کیا؟</item>
+        <item quantity="other">کاپی کریں %d ڈاؤن لوڈ فولڈر میں ریکارڈ منتخب کیا؟</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">بانٹیں %d ریکارڈ</item>
+        <item quantity="other">بانٹیں %d ریکارڈ</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d ریکارڈ کامیابی سے ڈاؤن لوڈ ہو گیا۔</item>
+        <item quantity="other">%d ریکارڈ کامیابی سے ڈاؤن لوڈ ہو گیا۔</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d ریکارڈ کامیابی سے منتقل ہو گیا۔</item>
+        <item quantity="other">%d ریکارڈ کامیابی سے منتقل ہو گیا۔</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">ڈاؤن لوڈ کرنے میں ناکام %d ریکارڈ</item>
+        <item quantity="other">ڈاؤن لوڈ کرنے میں ناکام %d ریکارڈ</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">منتقل کرنے میں ناکام %d ریکارڈ</item>
+        <item quantity="other">منتقل کرنے میں ناکام %d ریکارڈ</item>
+    </plurals>
+    <string name="settings">ترتیبات</string>
+    <string name="recording_feature_disabled">ریکارڈنگ کی خصوصیت غیر فعال ہے۔</string>
+    <string name="selected">منتخب %d</string>
+    <string name="processing_canceled">پروسیسنگ منسوخ کر دی گئی۔</string>
+    <string name="record_calculation">حسابات الشكل الموجي&#8230;</string>
+    <string name="downloading_success_and_fail_count">%d ریکارڈز کامیابی سے ڈاؤن لوڈ ہو گئے اور %d ڈاؤن لوڈ ہونے میں ناکام ہو گئے۔</string>
+    <string name="moving_records_success_and_fail_count">%d ریکارڈز کامیابی سے منتقل ہو گئے اور %d منتقل ہونے میں ناکام رہے۔</string>
+    <string name="move_record_success">%s کو ایپ کی نجی ڈائریکٹری میں منتقل کر دیا گیا ہے۔</string>
+    <string name="move_record_failed">ٹرانسفر کرنے میں ناکام: %s</string>
+    <string name="downloading_failed_file_already_exists">ڈاؤن لوڈ کرنے میں ناکام۔ نام کے ساتھ فائل %s پہلے سے موجود ہے</string>
+    <string name="selected_records_moved_into_trash">غیر درج شدہ ریکارڈز کو لوڈ لسٹ میں منتقل کریں۔</string>
+    <string name="record_imported_successfully">ریکارڈ کامیابی کے ساتھ درآمد کیا گیا ہے۔</string>
+    <string name="cant_import_files">فائلیں درآمد نہیں کر سکتے</string>
+    <string name="file_browser">فائل براؤزر</string>
+    <string name="private_dir">پرائیویٹ گائیڈ</string>
+    <string name="public_dir">عام گائیڈ</string>
+    <string name="found_in_the_app">ایپ میں ملا</string>
+    <string name="not_found_in_the_app">ایپ میں نہیں ملا</string>
+    <string name="in_trash">ردی کی ٹوکری میں</string>
+    <string name="btn_get_started">شروع</string>
+    <string name="btn_apply">ڈش</string>
+    <string name="btn_reset">دوبارہ سیٹ کریں۔</string>
+    <string name="btn_next">مندرجہ ذیل</string>
+    <string name="view_records">لاگز دیکھیں</string>
+    <string name="move_records_needed">ریکارڈز کو منتقل کرنا ضروری ہے۔</string>
+    <string name="moving_record">منتقلی کی تاریخ: %s</string>
+    <string name="moving_record_cancel">میں منتقل ہوگیا</string>
+    <string name="move_records_info">کچھ ریکارڈ اب بھی پبلک اسٹوریج میں محفوظ ہیں۔ جلد ہی، عوام کو ذخیرہ کرنے کی جگہ کی درخواست کے لیے دستیاب نہیں ہوں گے۔ ہمیں ان ریکارڈز کو آپ کی ایپلیکیشن ڈائرکٹری میں منتقل کرنے کی ضرورت ہے۔</string>
+    <string name="bitrate">بٹ شرح:</string>
+    <string name="channels">چینلز کی تعداد:</string>
+    <string name="sample_rate">نمونہ کی شرح:</string>
+    <string name="size_per_min">متوقع سائز ایم بی/منٹ %s</string>
+    <string name="records_location">مقام ریکارڈ کریں: %s</string>
+    <string name="feature_not_available_in_android_10">یہ فیچر اب اینڈرائیڈ 10 یا اس سے اوپر والے ورژن میں دستیاب نہیں ہے۔</string>
+    <string name="move_records">منتقلی %d ریکارڈز</string>
+    <string name="error_failed_to_restore">رجسٹری بحال کرنے میں ناکام!</string>
+    <string name="error_failed_to_delete">رجسٹری کو حذف کرنے میں ناکام!</string>
+    <string name="move_public_storage_records_message">پبلک سٹوریج کے ریکارڈ کی منتقلی کی ضرورت ہے۔</string>
+    <string name="later">بعد میں</string>
+    <string name="move">منتقلی</string>
+    <string name="move_all">سب کو منتقل کریں</string>
+    <string name="start_recording">ریکارڈنگ شروع کریں۔</string>
+    <string name="btn_import">درآمد</string>
+    <string name="restore">بحال کرتا ہے۔</string>
+    <string name="dont_ask_again">دوبارہ مت پوچھو</string>
+    <string name="recording_format">ریکارڈنگ کی شکل:</string>
+    <string name="view">ایک پیشکش</string>
+    <string name="info_format"> فارمیٹ AAC کے ساتھ انکوڈ کیا گیا ہے آڈیو کوڈیک اچھے معیار اور چھوٹے سائز کا ہے۔<b>(سفارش کی)</b> <b>M4a</b>
+		\nغیر کمپریسڈ آڈیو ڈیٹا فارمیٹ ہے۔ یہ دوسرے فارمیٹس کے مقابلے میں بہت زیادہ جگہ لیتا ہے۔ یہ مخصوص معاملات کے لیے ضروری ہے۔<b>Wav</b>
+		\nموبائل ٹیلی کمیونیکیشن سروسز کے لیے تیار کردہ ملٹی میڈیا کنٹینر فارمیٹ ہے۔ اگر آپ کو جگہ بچانے کی ضرورت ہو تو اسے استعمال کریں۔<b>3gp</b>
+		</string>
+    <string name="info_frequency"><b>نمونہ کی شرح</b> فی سیکنڈ لے جانے والے آڈیو کے نمونوں کی تعداد ہے۔
+		\nڈی وی ڈی کے لیے استعمال ہونے والی نمونہ کی شرح ہے۔<b>48kHz</b>
+		\nآڈیو سی ڈیز کے نمونے لینے کی شرح ہے۔ <b>(سفارش کی)</b> <b>44,1kHz</b>
+		\nکم بٹ ریٹ جیسے 64 kbps کے لیے مقبول نمونہ کی شرح۔<b>22kHz</b>
+		\nنمونہ کی شرح جدید ٹیلی فون سسٹمز سے کم بینڈوڈتھ ہے. کسی بھی سنگین ریکارڈنگ کے کام کے لیے موزوں نہیں ہے۔<b>8kHz</b>
+		</string>
+    <string name="info_bitrate"><b>بٹریٹ</b> ڈیٹا کا سائز فی سیکنڈ آواز ہے۔ ریکارڈنگ کے معیار اور سائز کو براہ راست متاثر کرتا ہے۔
+		\nاچھے معیار کی بٹریٹ۔<b>256 kbps</b>
+		\nدرمیانے معیار کا بٹریٹ۔<b>192 kbps</b>
+		\nدرمیانی رینج بٹ ریٹ معیار پوڈ کاسٹ کے لیے عام بٹریٹ۔ <b>(سفارش کی)</b> <b>128 kbps</b>
+		\nعام طور پر تقریر یا کم معیار کی اسٹریمنگ کے لیے استعمال کیا جاتا ہے۔<b>96 kbps</b>
+		\nعام طور پر صرف تقریر کے لیے قابل قبول ہے۔<b>48 kbps</b>
+		</string>
+    <string name="info_channels">
+		 دو الگ الگ چینلز ریکارڈ کیے گئے ہیں۔ اس کا مطلب ہے کہ ہر سٹیریو سپیکر میں مختلف آواز کا سگنل ہوتا ہے۔<b>(سفارش کی)</b> <b>Stereo</b>
+		\nایک سگنل چینل ریکارڈ کیا جاتا ہے۔ اسے کئی اسپیکرز کے ذریعے دوبارہ تیار کیا جا سکتا ہے، لیکن تمام اسپیکر اب بھی سگنل کی ایک ہی نقل کو دوبارہ تیار کر رہے ہیں۔<b>Mono</b>
+		</string>
+    <string name="info_3gp"> موبائل ٹیلی کمیونیکیشن سروسز کے لیے تیار کردہ ملٹی میڈیا کنٹینر فارمیٹ ہے۔ اگر آپ کو جگہ بچانے کی ضرورت ہو تو اسے استعمال کریں۔<b>3gp</b></string>
+    <string name="info_m4a"> فارمیٹ AAC کے ساتھ انکوڈ کیا گیا ہے آڈیو کوڈیک اچھے معیار اور چھوٹے سائز کا ہے۔<b>(سفارش کی)</b> <b>M4a</b></string>
+    <string name="info_wav"> غیر کمپریسڈ آڈیو ڈیٹا فارمیٹ ہے۔ یہ دوسرے فارمیٹس کے مقابلے میں بہت زیادہ جگہ لیتا ہے۔ یہ مخصوص معاملات کے لیے ضروری ہے۔<b>Wav</b></string>
+    <string name="info_stereo"> دو الگ الگ چینلز ریکارڈ کیے گئے ہیں۔ اس کا مطلب ہے کہ ہر سٹیریو سپیکر میں مختلف آواز کا سگنل ہوتا ہے۔<b>(سفارش کی)</b> <b>Stereo</b></string>
+    <string name="info_mono"> ایک سگنل چینل ریکارڈ کیا جاتا ہے۔ اسے کئی اسپیکرز کے ذریعے دوبارہ تیار کیا جا سکتا ہے، لیکن تمام اسپیکر اب بھی سگنل کی ایک ہی نقل کو دوبارہ تیار کر رہے ہیں۔<b>Mono</b></string>
+    <string name="info_bitrate_48"> عام طور پر صرف تقریر کے لیے قابل قبول ہے۔<b>48 kbps</b></string>
+    <string name="info_bitrate_96"> عام طور پر تقریر یا کم معیار کی اسٹریمنگ کے لیے استعمال کیا جاتا ہے۔<b>96 kbps</b></string>
+    <string name="info_bitrate_128"> درمیانی رینج بٹ ریٹ معیار پوڈ کاسٹ کے لیے عام بٹریٹ۔<b>(سفارش کی)</b> <b>128 kbps</b></string>
+    <string name="info_bitrate_192"> درمیانے درجے معيار کا بٹ ریٹ۔<b>192 kbps</b></string>
+    <string name="info_bitrate_256"> اچھے معیار کا بٹ ریٹ۔<b>256 kbps</b></string>
+    <string name="info_sample_rate_8k"> نمونہ کی شرح جدید ٹیلی فون سسٹمز سے کم بینڈوڈتھ ہے. کسی بھی سنگین ریکارڈنگ کے کام کے لیے موزوں نہیں ہے۔<b>8kHz</b></string>
+    <string name="info_sample_rate_16k">8kHz سے بہتر ہے۔<b>16kHz</b></string>
+    <string name="info_sample_rate_22k">کم بٹ ریٹ جیسے 64 kbps کے لیے مقبول نمونہ کی شرح۔<b>22kHz</b></string>
+    <string name="info_sample_rate_32k">22kHz سے تھوڑا بہتر ہے۔<b>32kHz</b></string>
+    <string name="info_sample_rate_44k"> آڈیو سی ڈیز کے نمونے لینے کی شرح ہے۔<b>(سفارش کی)</b> <b>44,1kHz</b></string>
+    <string name="info_sample_rate_48k">ڈی وی ڈی کے لیے استعمال ہونے والی نمونہ کی شرح ہے۔<b>48kHz</b></string>
+    <string name="cancel">منسوخی</string>
+    <string name="hold_to_record_audio">ریکارڈ کرنے کے لیے دباتے رہیں، بچانے کے لیے چھوڑ دیں۔</string>
+    <string name="mal_activity_exception">کام کو سنبھالنے کے لیے کوئی ایپس نہیں ہیں۔</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Version</string>
+    <string name="Licenses">Licenses</string>
+    <string name="Author">Author</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Egypt</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Convenience</string>
+    <string name="Rate_app">Rate this app</string>
+    <string name="Send">Send an email</string>
+    <string name="Call">Call me</string>
+    <string name="Visit">Visit Egypt</string>
+    <string name="mal_title_about">About</string>
+    <string name="mal_title_licenses">Licenses</string>
+    <string name="mal_close">Close</string>
+    <string name="mal_send_email">Send email</string>
+    <string name="save_as">ایسے محفوظ کریں&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">ریکارڈنگ کو ڈائرکٹری میں کاپی کیا جائے گا۔ \'Downloads\'</string>
+    <string name="app_widget_description">ویجیٹ کو ریکارڈ کرنا شروع کریں۔</string>
+    <string name="error_failed_to_start_recording">ریکارڈنگ شروع کرنے میں ناکام</string>
+    <string name="details_file_is_not_available">بدقسمتی سے، ایپ کو اب اینڈرائیڈ پبلک اسٹوریج تک رسائی حاصل نہیں ہے۔ آپ اپنے اسمارٹ فون پر ریکارڈ فائل اس مقام پر تلاش کر سکتے ہیں: %s</string>
+    <string name="title_file_is_not_available">ریکارڈ فائل تک رسائی نہیں!</string>
+    <string name="button_record">ریکارڈ</string>
+    <string name="button_stop">رک جاؤ</string>
+    <string name="button_resume">دوبارہ شروع کریں</string>
+    <string name="button_finish">ختم کرنا</string>
+
+</resources>

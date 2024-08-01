@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">古兰经</string>
+    <string name="lang">zh</string>
+    <string name="turnlang">改变语言</string>
+    <string name="sharetwitter">分享 应用程序链接（Twitter）</string>
+    <string name="sharefacebook">分享 应用程序链接(Facebook)</string>
+    <string name="sharegmail">分享 应用程序链接(Gmail)</string>
+    <string name="sharewhatapp">分享 应用程序链接(What\'s App)</string>
+    <string name="shareinstagram">分享 应用程序链接(Instagram)</string>
+    <string name="sharetumblr">分享 应用程序链接(Tumblr)</string>
+    <string name="shareviber">分享 应用程序链接(Viber)</string>
+    <string name="sharelinkedin">分享 应用程序链接(Linkedin)</string>
+    <string name="sharesnapchat">分享 应用程序链接(Snapchat)</string>
+    <string name="shareskype">分享 应用程序链接(Skype)</string>
+    <string name="sharetelegram">分享 应用程序链接(Telegram)</string>
+    <string name="sharereddit">分享 应用程序链接(Reddit)</string>
+    <string name="dialog_title">新版本可用</string>
+    <string name="dialog_message">可以使用该应用程序的新版本，请单击下方以更新最新版本。</string>
+    <string name="dialog_positive_button_title">更新</string>
+    <string name="all_records_deleted">所有录音均已成功删除</string>
+    <string name="app_settings">音频设置：</string>
+    <string name="available_space">可用空间：%s</string>
+    <string name="bookmarks">的信号 书签</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_no">没有</string>
+    <string name="btn_play">正在运行</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_yes">是的</string>
+    <string name="delete_all">删除所有记录</string>
+    <string name="delete_all_records">删除所有录音并且无法检索？</string>
+    <string name="delete_record">删除该注册表 %s？</string>
+    <string name="error_cant_create_file">您不能创建一个文件</string>
+    <string name="error_failed_to_init_player">无法启动</string>
+    <string name="error_failed_to_init_recorder">开始录制失败</string>
+    <string name="error_failed_to_rename">无法重命名注册表！</string>
+    <string name="error_file_exists">具有此名称的文件已存在！</string>
+    <string name="error_invalid_output_file">输出文件无效</string>
+    <string name="error_permission_denied">请求许可被拒绝</string>
+    <string name="error_player_data_source">操作人员无法读取文件</string>
+    <string name="error_unable_to_read_sound_file">无法读取音频文件</string>
+    <string name="error_unknown">未知错误</string>
+    <string name="failed_to_delete_all_records">无法删除所有注册</string>
+    <string name="fetchs">互联网连接</string>
+    <string name="hold_button_to_record">开始录制</string>
+    <string name="hold_button_to_record2">录音时请继续触摸</string>
+    <string name="import_progress">导入音频文件&#8230;</string>
+    <string name="keep_screen_on">录制过程中不会关闭屏幕</string>
+    <string name="no_bookmarks">书签是空白的。</string>
+    <string name="no_records">空记录。</string>
+    <string name="other_settings">其他：</string>
+    <string name="playback">运行：%s</string>
+    <string name="please_select_record_to_share">请选择或注册要共享的音频文件</string>
+    <string name="record_in_stereo">立体声</string>
+    <string name="record_name">新名字</string>
+    <string name="record_processing">处理文件&#8230;</string>
+    <string name="recording">注册：％s</string>
+    <string name="recording_is_on">录制已开启</string>
+    <string name="recording_progress">注册&#8230;</string>
+    <string name="recording_paused">停顿</string>
+    <string name="recording_settings">注册表设置：</string>
+    <string name="records">这些录音</string>
+    <string name="recordtoast">记录的时间是：</string>
+    <string name="settingss">的设置</string>
+    <string name="share_record">分享文件：%s</string>
+    <string name="slide_to_cancel">拖动取消</string>
+    <string name="store_records_public">将记录存储在公用文件夹中</string>
+    <string name="today">今天</string>
+    <string name="total_duration">总记录期：%s</string>
+    <string name="total_record_count">记录总数：%d</string>
+    <string name="warning">警告！</string>
+    <string name="yesterday">昨天</string>
+    <string name="private_dir_warning">记录将存储在该应用的私有目录中，其他应用看不到该目录</string>
+    <string name="public_dir_warning">记录将存储在设备的公共目录中，其他应用程序可以看到</string>
+    <string name="error_on_recording">记录错误！</string>
+
+
+
+    <string name="wifion">的Wi-Fi</string>
+    <string name="ask_to_rename">停止录制后显示重命名对话框</string>
+    <string name="btn_allow">允许</string>
+    <string name="btn_deny">否认</string>
+    <string name="btn_ok">好的</string>
+    <string name="delete">删除</string>
+    <string name="download">下载</string>
+    <string name="error_process_waveform">无法绘制波形</string>
+    <string name="info">信息</string>
+    <string name="naming">命名：</string>
+    <string name="need_write_permission">该应用程序需要访问公共存储的权限。 如果不允许，记录将存储在应用程序的私有目录中</string>
+    <string name="open_record_with">打开 %s 与</string>
+    <string name="open_with">打开用</string>
+    <string name="rec_duration">持续时间：</string>
+    <string name="rec_format">格式：</string>
+    <string name="rec_location">档案位置：</string>
+    <string name="rec_name">命名：</string>
+    <string name="rec_size">尺寸：</string>
+    <string name="record_deleted_successfully">记录已成功删除</string>
+    <string name="rename">改名</string>
+    <string name="share">分享</string>
+    <string name="delete_all2">删除所有</string>
+    <string name="dont_ask_again_rename">不要再问重命名</string>
+    <string name="error_lost_records">您的某些记录已删除或移动</string>
+    <string name="lost_records">遗失记录</string>
+    <string name="records_was_removed">在记录目录中找不到某些记录文件。可能他们被删除或移动。</string>
+    <string name="btn_details">详细资料</string>
+    <string name="cancel_rec">注册已被取消</string>
+    <string name="delete_record_forever">永远删除此记录 %s？</string>
+    <string name="empty">空的</string>
+    <string name="error_no_available_space">没有可用空间！</string>
+    <string name="rec_frequency">频率：</string>
+    <string name="record_moved_into_trash">记录已移至垃圾箱</string>
+    <string name="record_restored_successfully">记录已成功还原</string>
+    <string name="restore_record">恢复此记录？</string>
+    <string name="trash">垃圾</string>
+    <string name="trash_info">移至垃圾桶的记录将在60天内永久删除。</string>
+    <string name="rec_created">创建时间：</string>
+    <string name="error_failed_access_to_storage" >无法访问文件存储</string>
+    <string name="downloading_cancel" >下载已取消</string>
+    <string name="downloading_success" >%s 下载到下载目录</string>
+    <string name="downloading_failed" >下载失败： %s</string>
+    <string name="downloading" >正在下载： %s</string>
+    <string name="by_date" >按日期（最新）</string>
+    <string name="by_date_desc" >按日期（最早）</string>
+    <string name="by_name" >按名称（A-Z）</string>
+    <string name="by_name_desc" >按名称 (Z-A)</string>
+    <string name="by_duration" >按持续时间（最长）</string>
+    <string name="by_duration_desc" >按持续时间（最短）</string>
+    <string name="delete_this_record" >删除此记录？</string>
+    <string name="all_records_deleted_successfully" >所有记录已成功删除</string>
+    <string name="refresh">刷新</string>
+    <string name="find">发现</string>
+    <string name="share_via">通过分享</string>
+    <string name="copy_link">复制链接</string>
+    <string name="copied_to_clipboard">复制到剪贴板</string>
+    <string name="finalback">再按一次返回主菜单</string>
+    <string name="back">再按一次退出</string>
+    <string name="about">关于应用程序</string>
+    <string name="btn_savee">名称已成功修改</string>
+    <string name="btn_cancell">名称修改取消</string>
+    <string name="btn_c">该文件已被删除</string>
+    <string name="btn_cc">删除</string>
+    <string name="btn_ccc">文件已成功删除</string>
+    <string name="btn_cccc">文件已被取消删除</string>
+    <string name="btn_ccccc">已成功删除所有录音</string>
+    <string name="btn_cancelll">结尾</string>
+    <string name="settings">设置</string>
+    <string name="start_recording">开始录音</string>
+    <string name="recording_feature_disabled">录音功能已禁用</string>
+    <string name="selected">%d が選択されました</string>
+    <string name="btn_import">进口</string>
+    <string name="processing_canceled">处理被取消</string>
+    <string name="record_calculation">波形计算&#8230;</string>
+    <string name="restore">恢复</string>
+    <string name="dont_ask_again">不要再问</string>
+    <string name="downloading_success_and_fail_count">%d 条记录下载成功，%d 条记录下载失败</string>
+    <string name="moving_records_success_and_fail_count">%d 条记录移动成功，%d 条记录移动失败</string>
+    <string name="move_record_success">%s 移动到应用程序的私有目录</string>
+    <string name="move_record_failed">移动失败：%s</string>
+    <string name="downloading_failed_file_already_exists">无法下载。 名为 %s 的文件已存在</string>
+    <string name="selected_records_moved_into_trash">选定的记录已移至回收站</string>
+    <string name="record_imported_successfully">记录导入成功</string>
+    <string name="cant_import_files">无法导入文件</string>
+    <string name="file_browser">文件浏览器</string>
+    <string name="private_dir">私人目录</string>
+    <string name="public_dir">公共目录</string>
+    <string name="found_in_the_app">在应用程序中找到</string>
+    <string name="not_found_in_the_app">在应用程序中找不到</string>
+    <string name="in_trash">在垃圾桶里</string>
+    <string name="btn_get_started">开始</string>
+    <string name="btn_apply">申请</string>
+    <string name="btn_reset">重置</string>
+    <string name="btn_next">下一个</string>
+    <string name="view">看法</string>
+    <string name="view_records">查看记录</string>
+    <string name="move_records_needed">需要移动记录</string>
+    <string name="moving_record">搬家记录：%s</string>
+    <string name="moving_record_cancel">搬家取消</string>
+    <string name="move_records_info">您的一些记录仍然存储在公共存储中。 很快，该应用程序将无法使用公共存储。 我们需要将该记录移动到应用程序的私有目录。</string>
+    <string name="recording_format">录音格式：</string>
+    <string name="bitrate">比特率：</string>
+    <string name="channels">通道数：</string>
+    <string name="sample_rate">采样率：</string>
+    <string name="size_per_min">%s Mb/min 预期大小</string>
+    <string name="records_location">记录位置：%s</string>
+    <string name="feature_not_available_in_android_10">此功能在 Android 10 或更高版本中不再可用。</string>
+    <string name="move_records">移动 %d 条记录</string>
+    <string name="error_failed_to_restore">恢复记录失败！</string>
+    <string name="error_failed_to_delete">删除记录失败！</string>
+    <string name="move_public_storage_records_message">需要移动公共存储记录</string>
+    <string name="later">之后</string>
+    <string name="move">移动</string>
+    <string name="move_all">全部移动</string>
+    <string name="info_format"><b>M4a</b> 格式采用 AAC 音频编解码器编码，质量好，体积小。 <b>(推荐的)</b>
+		\n<b>Wav</b> 是未压缩的音频数据格式。 它比其他格式需要更多的空间。 它是需要的 具体案例。
+		\n<b>3gp</b> 是为移动电信服务开发的多媒体容器格式。 如果您需要节省空间，请使用它。
+		</string>
+    <string name="info_frequency"><b>采样率</b> 是每秒传输的音频样本数。
+		\n<b>48kHz</b> 是用于 DVD 的采样率。
+		\n<b>44,1kHz</b> 是音频 CD 的采样率。 <b>(推荐的)</b>
+		\n<b>22kHz</b> 低比特率的流行采样率，例如 64 kbps。
+		\n <b>8kHz</b> 采样率的带宽比现代电话系统少。 不适合任何严肃的录音任务。
+		</string>
+    <string name="info_bitrate"><b>比特率</b> 是每秒声音的数据大小。 直接影响录音质量和大小。
+		\n<b>256 kbps</b> 优质比特率。
+		\n<b>192 kbps</b> 中等质量比特率。
+		\n<b>128 kbps</b> 中档比特率品质。 播客的常见比特率。 <b>(推荐的)</b>
+		\n<b>96 kbps</b> 通常用于语音或低质量流媒体。
+		\n<b>48 kbps</b> 一般只可用于语音。
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> 记录两个独立的通道。 这意味着每个立体声扬声器都有不同的声音信号。 <b>(推荐的)</b>
+		\n<b>Mono</b> 记录了一个信号通道。 它可以通过多个扬声器再现，但所有扬声器仍再现相同的信号副本。
+		</string>
+    <string name="info_3gp"><b>3gp</b> 是为移动电信服务开发的多媒体容器格式。 如果您需要节省空间，请使用它。</string>
+    <string name="info_m4a"><b>M4a</b> 格式采用 AAC 音频编解码器编码，质量好，体积小。 <b>(推荐的)</b></string>
+    <string name="info_wav"><b>Wav</b> 是未压缩的音频数据格式。 它比其他格式需要更多的空间。 .特定情况需要它。</string>
+    <string name="info_stereo"><b>Stereo</b> 记录两个独立的通道。 这意味着每个立体声扬声器都有不同的声音信号。 <b>(推荐的)</b></string>
+    <string name="info_mono"><b>Mono</b> 记录了一个信号通道。 它可以通过多个扬声器再现，但所有扬声器仍再现相同的信号副本。</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> 一般只可用于语音。</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> 通常用于语音或低质量流。</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> 中档比特率品质。 播客的常见比特率。 <b>(推荐的)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> 中等质量比特率。</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> 优质比特率。</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> 采样率的带宽比现代电话系统少。 不适合任何严肃的录音任务。</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> 优于 8kHz。</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> 低比特率的流行采样率，例如 64 kbps。</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> 比 22kHz 好一点。</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> 是音频 CD 的采样率。 <b>(推荐的)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> 是用于 DVD 的采样率。</string>
+    <plurals name="delete_selected_records">
+        <item quantity="other">Move to trash %d selected records?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="other">Copy %d selected records to the Download folder?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="other">Share %d records</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="other">%d records downloaded successfully</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="other">%d records moved successfully</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="other">Failed to download %d records</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="other">Failed to move %d records</item>
+    </plurals>
+    <string name="cancel">取消</string>
+    <string name="hold_to_record_audio">按住录音，松开保存</string>
+    <string name="mal_title_about">关于</string>
+    <string name="mal_title_licenses">执照</string>
+    <string name="mal_close">关闭</string>
+    <string name="mal_send_email">发送电子邮件</string>
+    <string name="mal_activity_exception">没有应用程序来处理操作</string>
+    <string name="auther1">© 2022 艾哈迈德萨阿德</string>
+    <string name="version">版本</string>
+    <string name="Licenses">执照</string>
+    <string name="Author">作者</string>
+    <string name="name">艾哈迈德萨阿德</string>
+    <string name="egypt">埃及</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">方便</string>
+    <string name="Rate_app">为这个应用软件评分</string>
+    <string name="Send">发送电子邮件</string>
+    <string name="Call">打给我</string>
+    <string name="Visit">访问埃及</string>
+    <string name="save_as">另存为&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">记录将被复制到“下载”目录</string>
+    <string name="app_widget_description">開始錄製小工具</string>
+    <string name="error_failed_to_start_recording">無法開始錄音</string>
+    <string name="details_file_is_not_available">不幸的是，該應用程式無法再存取 Android 公共儲存。您可以在智慧型手機上的以下位置找到記錄檔：%s</string>
+    <string name="title_file_is_not_available">無法存取記錄檔！</string>
+    <string name="button_record">記錄</string>
+    <string name="button_stop">停止</string>
+    <string name="button_resume">恢復</string>
+    <string name="button_finish">結束</string>
+
+</resources>
