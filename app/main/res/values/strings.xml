@@ -1,0 +1,343 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">القرآن الكريم</string>
+    <string name="lang">ar</string>
+    <string name="records">التسجيلات</string>
+    <string name="settingss">الإعدادات</string>
+    <string name="store_records_public">تخزين التسجيلات في المجلد العام</string>
+    <string name="record_in_stereo">صوت ستيريو</string>
+    <string name="keep_screen_on">عدم إطفاء الشاشه أثناء التسجيل</string>
+    <string name="total_duration">مجموع المدة المسجلة: %s</string>
+    <string name="total_record_count">إجمالي عدد التسجيلات: %d</string>
+    <string name="available_space">مساحة متاحة: %s</string>
+    <string name="delete_all">حذف جميع التسجيلات</string>
+    <string name="warning">تحذير!</string>
+    <string name="delete_record">"تحرك إلى سلة المحذوفات %s"</string>
+    <string name="delete_all_records">حذف جميع التسجيلات ولن يمكن الحصول عليها
+        مجددا؟
+    </string>
+    <string name="all_records_deleted">تم حذف جميع التسجيلات بنجاح</string>
+    <string name="failed_to_delete_all_records">فشل في حذف كل التسجيلات</string>
+    <string name="please_select_record_to_share">يرجى تحديد أو تسجيل ملف صوتي
+        للمشاركة
+    </string>
+    <string name="record_name">اسم جديد</string>
+    <string name="recording">تسجيل: %s</string>
+    <string name="recording_is_on">التسجيل في وضع التشغيل</string>
+    <string name="recording_progress">تسجيل&#8230;</string>
+    <string name="recording_paused">متوقف مؤقتا</string>
+    <string name="playback">تشغيل: %s</string>
+    <string name="zero_time" translatable="false">00:00</string>
+    <string name="no_records">التسجيلات فارغة.</string>
+    <string name="no_bookmarks">الإشارات المرجعية فارغة.</string>
+    <string name="bookmarks">إشارات مرجعية</string>
+    <string name="share_record">مشاركه التسجيل: %s</string>
+    <string name="import_progress">استيراد ملف الصوت&#8230;</string>
+    <string name="record_processing">معالجة الملف&#8230;</string>
+
+    <string name="app_settings">إعدادات الصوت:</string>
+    <string name="recording_settings">إعدادات التسجيل:</string>
+    <string name="other_settings">أخرى:</string>
+
+    <string name="today">اليوم</string>
+    <string name="yesterday">أمس</string>
+
+    <string name="btn_save">حفظ</string>
+    <string name="btn_savee">تم تعديل الأسم بنجاح</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="btn_cancell">تم إلغاء تعديل الأسم</string>
+    <string name="btn_c">تم إلغاء حذف الملف</string>
+    <string name="btn_cc">حذف</string>
+    <string name="btn_ccc">تم حذف الملف بنجاح</string>
+    <string name="btn_cccc">تم إلغاء حذف الملفات</string>
+    <string name="btn_ccccc">تم حذف جميع التسجيلات بنجاح</string>
+    <string name="btn_cancelll">إنهاء</string>
+    <string name="btn_yes">نعم</string>
+    <string name="btn_no">لا</string>
+    <string name="btn_play">تشغيل</string>
+
+    <string name="error_unknown">خطأ غير معروف</string>
+    <string name="error_cant_create_file">لا يمكن إنشاء ملف</string>
+    <string name="error_invalid_output_file">ملف الإخراج غير صالح</string>
+    <string name="error_file_exists">الملف بهذا الاسم موجود بالفعل!</string>
+    <string name="error_failed_to_rename">فشل في إعادة تسمية التسجيل!</string>
+    <string name="error_failed_to_init_recorder">فشل في بدء التسجيل</string>
+    <string name="error_failed_to_init_player">فشل في بدء التشغيل</string>
+    <string name="error_player_data_source">المشغل لا يمكنه قراءة الملف</string>
+    <string name="error_unable_to_read_sound_file">غير قادر على قراءة ملف الصوت</string>
+    <string name="error_permission_denied">طلب الاذن مرفوض</string>
+    <string name="recordtoast">الوقت المسجل هو:</string>
+    <string name="open_record_with">افتح %s باستخدام</string>
+    <string name="delete">حذف</string>
+    <string name="rename">إعادة تسمية</string>
+    <string name="open_with">فتح باستخدام</string>
+    <string name="download">تحميل</string>
+    <string name="share">شارك</string>
+    <string name="ask_to_rename">إظهار مربع حوار إعادة التسمية بعد إيقاف التسجيل</string>
+    <string name="record_deleted_successfully">تم حذف الملف بنجاح</string>
+    <string name="need_write_permission">يتطلب التطبيق إذنًا للوصول إلى التخزين العام. إذا لم يكن مسموحًا به ، فسيتم تخزين السجلات في الدليل الخاص بالتطبيق</string>
+    <string name="rec_name">اسم:</string>
+    <string name="rec_format">الصيغة:</string>
+    <string name="rec_duration">المدة الزمنية:</string>
+    <string name="rec_size">الحجم:</string>
+    <string name="rec_location">موقع الملف:</string>
+    <string name="naming">تسمية:</string>
+    <string name="private_dir_warning">سيتم تخزين السجلات في الدليل الخاص بالتطبيق وهو غير مرئي للتطبيقات الأخرى</string>
+    <string name="public_dir_warning">سيتم تخزين السجلات في الدليل المشترك على جهازك والذي يكون مرئيًا للتطبيقات الأخرى</string>
+    <string name="btn_ok">حسنا</string>
+    <string name="btn_deny">رفض</string>
+    <string name="btn_allow">السماح</string>
+    <string name="error_process_waveform">لا يمكن رسم الموجي</string>
+
+    <string name="records_was_removed">لم يتم العثور على بعض ملفات السجلات في دليل السجلات. ربما تمت إزالتها أو نقلها.</string>
+    <string name="dont_ask_again_rename">لا تسأل إعادة تسمية مرة أخرى</string>
+    <string name="error_lost_records">تم حذف بعض سجلاتك أو نقلها</string>
+    <string name="delete_record_forever">حذف تسجيل %s إلى الأبد؟</string>
+    <string name="restore_record">استعادةالسجل %s؟</string>
+    <string name="empty">فارغة</string>
+    <string name="record_moved_into_trash">انتقل التسجيلة الى سلة المهملات</string>
+    <string name="record_restored_successfully">استعادة سجل بنجاح</string>
+    <string name="rec_frequency">تردد:</string>
+    <string name="trash">مهملات</string>
+    <string name="trash_info">ستتم إزالة السجلات المنقولة إلى سلة المهملات إلى الأبد في غضون 60 يومًا.</string>
+    <string name="error_no_available_space">لا توجد مساحة متاحة!</string>
+    <string name="rec_created">تم إنشاء:</string>
+    <string name="error_on_recording">خطأ في التسجيل!</string>
+    <string name="info">معلومات</string>
+    <string name="cancel_rec">تم إلغاء التسجيل</string>
+    <string name="delete_all2">حذف الكل</string>
+    <string name="lost_records">فقدت السجلات</string>
+    <string name="btn_details">التفاصيل</string>
+    <string name="error_failed_access_to_storage">فشل الوصول إلى تخزين الملفات</string>
+    <string name="downloading_cancel">تم إلغاء التنزيل</string>
+    <string name="downloading_success">تم تنزيل إلى دليل التنزيل %s</string>
+    <string name="downloading_failed">فشل التنزيل: %s</string>
+    <string name="downloading">التحميل: %s</string>
+    <string name="by_date">حسب التاريخ (الأحدث)</string>
+    <string name="by_date_desc">حسب التاريخ (الأقدم)</string>
+    <string name="by_name">بالاسم (أ-ي)</string>
+    <string name="by_name_desc">بالاسم (ي-أ)</string>
+    <string name="by_duration">حسب المدة (الأطول)</string>
+    <string name="by_duration_desc">حسب المدة (الأقصر)</string>
+    <string name="delete_this_record">">حذف هذا السجل؟</string>
+    <string name="all_records_deleted_successfully">تم حذف جميع السجلات بنجاح</string>
+
+    <string-array name="formats2">
+        <item>M4a</item>
+        <item>Wav</item>
+        <item>3gp</item>
+    </string-array>
+
+    <string-array name="bit_rates2">
+        <!--		<item>24 kbps</item>-->
+        <item>48 kbps</item>
+        <item>96 kbps</item>
+        <item>128 kbps</item>
+        <item>192 kbps</item>
+        <item>256 kbps</item>
+    </string-array>
+
+    <string-array name="sample_rates2">
+        <item>8kHz</item>
+        <item>16kHz</item>
+        <item>22kHz</item>
+        <item>32kHz</item>
+        <item>44.1kHz</item>
+        <item>48kHz</item>
+    </string-array>
+
+    <string-array name="channels">
+        <item>Stereo</item>
+        <item>Mono</item>
+    </string-array>
+
+
+    <string name="refresh">تحديث</string>
+    <string name="find">العثور على</string>
+    <string name="share_via">شارك عبر</string>
+    <string name="copy_link">انسخ الرابط</string>
+    <string name="copied_to_clipboard">نسخ إلى الحافظة</string>
+
+    <string name="turnlang">تغير اللغة</string>
+
+    <string name="sharefacebook">مشاركة رابط التطبيق على(Facebook)</string>
+    <string name="sharetwitter">مشاركة رابط التطبيق على(Twitter)</string>
+    <string name="sharegmail">مشاركة رابط التطبيق على(Gmail)</string>
+    <string name="sharewhatapp">مشاركة رابط التطبيق على(What\'s App)</string>
+    <string name="shareinstagram">مشاركة رابط التطبيق على(Instagram)</string>
+    <string name="sharetumblr">مشاركة رابط التطبيق على(Tumblr)</string>
+    <string name="shareviber">مشاركة رابط التطبيق على(Viber)</string>
+    <string name="sharelinkedin">مشاركة رابط التطبيق على(Linkedin)</string>
+    <string name="sharesnapchat">مشاركة رابط التطبيق على(Snapchat)</string>
+    <string name="shareskype">مشاركة رابط التطبيق على(Skype)</string>
+    <string name="sharetelegram">مشاركة رابط التطبيق على(Telegram)</string>
+    <string name="sharereddit">مشاركة رابط التطبيق على(Reddit)</string>
+
+    <string name="dialog_title">النسخة الجديدة متاحة</string>
+    <string name="dialog_message">يتوفر إصدار جديد من التطبيق ، يرجى النقر أدناه
+        لتحديث أحدث إصدار.
+    </string>
+    <string name="dialog_positive_button_title">تحديث</string>
+    <string name="slide_to_cancel">إسحب للإلغاء</string>
+    <string name="hold_button_to_record">بدء التسجيل</string>
+    <string name="hold_button_to_record2">عند التسجيل يرجى إستمرار اللمس</string>
+    <string name="fetchs">إتصال إنترنت</string>
+    <string name="wifion">واى فاى</string>
+
+    <string name="finalback">إضغط مرة أخرى للرجوع للقائمة الرئيسية</string>
+    <string name="back">إضغط مرة أخرى للخروج</string>
+    <string name="about">عن التطبيق</string>
+
+
+    <string name="settings">إعدادات</string>
+
+    <plurals name="delete_selected_records">
+        <item quantity="one">هل تريد نقل السجل المحدد %d إلى سلة المحذوفات؟</item>
+        <item quantity="other">هل تريد نقل السجل المحدد %d إلى سلة المحذوفات؟</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">هل تريد نسخ السجل المحدد %d إلى مجلد التنزيل؟</item>
+        <item quantity="other">هل تريد نسخ السجل المحدد %d إلى مجلد التنزيل؟</item>
+    </plurals>
+    <string name="recording_feature_disabled" tools:ignore="MissingTranslation">ميزة التسجيل معطلة</string>
+    <string name="selected" tools:ignore="MissingTranslation"> تم تحديد %d</string>
+
+    <plurals name="share_records_count">
+        <item quantity="one">مشاركة %d سجل</item>
+        <item quantity="other">مشاركة %d سجل</item>
+    </plurals>
+    <string name="processing_canceled" tools:ignore="MissingTranslation">تم إلغاء المعالجة</string>
+    <string name="record_calculation" tools:ignore="MissingTranslation">حسابات الشكل الموجي&#8230;</string>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d تم تنزيل السجل بنجاح</item>
+        <item quantity="other">%d تم تنزيل السجل بنجاح</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d تم نقل السجل بنجاح</item>
+        <item quantity="other">%d تم نقل السجل بنجاح</item>
+    </plurals>
+
+    <string name="downloading_success_and_fail_count">%dتم تنزيل السجلات بنجاح و %d فشل في التحميل</string>
+    <string name="moving_records_success_and_fail_count">%d تم نقل السجلات بنجاح و %d فشل في التحرك</string>
+    <string name="move_record_success">تم نقل %s إلى دليل التطبيق الخاص</string>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">فشل في التحميل %d سجل</item>
+        <item quantity="other">فشل في التحميل %d سجل</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">فشل في نقل %d سجل</item>
+        <item quantity="other">فشل في نقل %d سجل</item>
+    </plurals>
+    <string name="move_record_failed">فشل في النقل: %s</string>
+    <string name="downloading_failed_file_already_exists">فشل في التحميل. ملف بالاسم %s موجود أصلا</string>
+    <string name="selected_records_moved_into_trash">تم نقل السجلات المحددة إلى سلة المهملات</string>
+    <string name="record_imported_successfully">تم استيراد السجل بنجاح</string>
+    <string name="cant_import_files">لا يمكن استيراد الملفات</string>
+    <string name="file_browser">متصفح الملفات</string>
+    <string name="private_dir">دليل خاص</string>
+    <string name="public_dir">الدليل العام</string>
+    <string name="found_in_the_app">وجدت في التطبيق</string>
+    <string name="not_found_in_the_app">غير موجود في التطبيق</string>
+    <string name="in_trash">في سلة المهملات</string>
+    <string name="btn_get_started">البدء</string>
+    <string name="btn_apply">طبق</string>
+    <string name="btn_reset">إعادة ضبط</string>
+    <string name="btn_next">التالي</string>
+    <string name="view_records">عرض السجلات</string>
+    <string name="move_records_needed">يلزم نقل السجلات</string>
+    <string name="moving_record">نقل السجل: %s</string>
+    <string name="moving_record_cancel">تم إلغاء الانتقال</string>
+    <string name="move_records_info">لا تزال بعض سجلاتك مخزنة في التخزين العام. قريبًا ، لن تتوفر مساحة التخزين العامة للتطبيق. نحتاج إلى نقل هذه السجلات إلى دليل التطبيق الخاص.</string>
+    <string name="info_format"> يتم ترميز التنسيق باستخدام برنامج ترميز الصوت AAC بجودة جيدة وحجم صغير.<b>(موصى به)</b> <b>M4a</b>
+        \nهو تنسيق بيانات صوتي غير مضغوط. يستغرق مساحة أكبر بكثير من التنسيقات الأخرى. انها ضرورية لحالات محددة.<b>Wav</b>
+        \nهو تنسيق حاوية وسائط متعددة تم تطويره لخدمات الاتصالات المتنقلة. استخدمه إذا كنت بحاجة لتوفير مساحة.<b>3gp</b>
+
+    </string>
+    <string name="info_frequency"><b>معدل العينة</b> هو عدد عينات الصوت المنقولة في الثانية.
+		\nهو معدل العينة المستخدم لأقراص DVD.<b>48kHz</b>
+		\nهو معدل أخذ العينات من الأقراص المضغوطة الصوتية. <b>(موصى به)</b> <b>44,1kHz</b>
+		\nمعدل عينة شائع لمعدل بت منخفض مثل 64 كيلو بت في الثانية.<b>22kHz</b>
+		\nمعدل العينة له نطاق ترددي أقل من أنظمة الهاتف الحديثة. غير مناسب لأية مهمة تسجيل خطيرة.<b>8kHz</b>
+		</string>
+    <string name="info_bitrate"><b>معدل البت</b> هو حجم البيانات في الثانية من الصوت. يؤثر بشكل مباشر على جودة التسجيل وحجمه.
+		\nمعدل بت عالي الجودة. <b>256 kbps</b>
+		\nمعدل بت متوسط الجودة. <b>192 kbps</b>
+		\nجودة معدل البت متوسط المدى. معدل البت المشترك للبودكاست. <b>(موصى به)</b> <b>128 kbps</b>
+		\nتستخدم بشكل عام للكلام أو البث المتدفق بجودة منخفضة. <b>96 kbps</b>
+		\nمقبول بشكل عام للكلام فقط. <b>48 kbps</b>
+		</string>
+    <string name="info_channels">
+		 يتم تسجيل قناتين منفصلتين. هذا يعني أن كل سماعة ستريو لها إشارة صوتية مختلفة. <b>(موصى به)</b> <b>Stereo</b>
+		\nيتم تسجيل قناة إشارة واحدة. يمكن استنساخه من خلال عدة مكبرات صوت ، لكن لا تزال جميع مكبرات الصوت تستنسخ نفس نسخة الإشارة.<b>Mono</b>
+		</string>
+    <string name="info_3gp"> هو تنسيق حاوية وسائط متعددة تم تطويره لخدمات الاتصالات المتنقلة. استخدمه إذا كنت بحاجة لتوفير مساحة.<b>3gp</b></string>
+    <string name="info_m4a"><b>(موصى به)</b> يتم ترميز التنسيق باستخدام برنامج ترميز الصوت AAC بجودة جيدة وحجم صغير.<b>M4a</b></string>
+    <string name="info_wav"> هو تنسيق بيانات صوتي غير مضغوط. يستغرق مساحة أكبر بكثير من التنسيقات الأخرى. انها ضرورية لحالات محددة.<b>Wav</b></string>
+    <string name="info_stereo"> يتم تسجيل قناتين منفصلتين. هذا يعني أن كل سماعة ستريو لها إشارة صوتية مختلفة.<b>(موصى به)</b> <b>Stereo</b></string>
+    <string name="info_mono"> يتم تسجيل قناة إشارة واحدة. يمكن استنساخه من خلال عدة مكبرات صوت ، لكن لا تزال جميع مكبرات الصوت تستنسخ نفس نسخة الإشارة.<b>Mono</b></string>
+    <string name="info_bitrate_48"> مقبول بشكل عام للكلام فقط.<b>48 kbps</b></string>
+    <string name="info_bitrate_96"> تستخدم بشكل عام للكلام أو البث المتدفق بجودة منخفضة.<b>96 kbps</b></string>
+    <string name="info_bitrate_128"> جودة معدل البت متوسط المدى. معدل البت المشترك للبودكاست.<b>(موصى به)</b> <b>128 kbps</b></string>
+    <string name="info_bitrate_192"> معدل بت متوسط الجودة.<b>192 kbps</b></string>
+    <string name="info_bitrate_256"> معدل بت عالي الجودة.<b>256 kbps</b></string>
+    <string name="info_sample_rate_8k"> معدل العينة له نطاق ترددي أقل من أنظمة الهاتف الحديثة. غير مناسب لأية مهمة تسجيل خطيرة.<b>8kHz</b></string>
+    <string name="info_sample_rate_16k"> أفضل من 8 كيلو هرتز.<b>16kHz</b></string>
+    <string name="info_sample_rate_22k"> معدل عينة شائع لمعدل بت منخفض مثل 64 كيلو بت في الثانية.<b>22kHz</b></string>
+    <string name="info_sample_rate_32k"> أفضل قليلاً من 22 كيلو هرتز.<b>32kHz</b></string>
+    <string name="info_sample_rate_44k"> هو معدل أخذ العينات من الأقراص المضغوطة الصوتية.<b>(موصى به)</b> <b>44,1kHz</b></string>
+    <string name="info_sample_rate_48k"> هو معدل العينة المستخدم لأقراص DVD.<b>48kHz</b></string>
+    <string name="bitrate">معدل البت:</string>
+    <string name="channels">عدد القنوات:</string>
+    <string name="sample_rate">معدل العينة:</string>
+    <string name="size_per_min">الحجم المتوقع ميغا بايت/دقيقة %s</string>
+    <string name="value_kbps" translatable="false">%d kbps</string>
+    <string name="stereo" translatable="false">Stereo</string>
+    <string name="mono" translatable="false">Mono</string>
+    <string name="feature_not_available_in_android_10">لم تعد هذه الميزة متوفرة في Android 10 أو أعلى.</string>
+    <string name="size" translatable="false">%s Mb</string>
+    <string name="move_records">نقل %d سجلات</string>
+    <string name="error_failed_to_restore">فشل في استعادة السجل!</string>
+    <string name="error_failed_to_delete">فشل في حذف السجل!</string>
+    <string name="move_public_storage_records_message">مطلوب نقل سجلات التخزين العامة</string>
+    <string name="later">في وقت لاحق</string>
+    <string name="move">نقل</string>
+    <string name="move_all">حرك الكل</string>
+    <string name="start_recording">ابدأ التسجيل</string>
+    <string name="btn_import">يستورد</string>
+    <string name="restore">يعيد</string>
+    <string name="dont_ask_again">لا تسأل مرة أخرى</string>
+    <string name="recording_format">تنسيق التسجيل:</string>
+    <string name="view">عرض</string>
+    <string name="records_location">موقع السجلات: %s</string>
+    <string name="value_hz" translatable="false">%d Hz</string>
+    <string name="cancel">إلغاء</string>
+    <string name="time" translatable="false">%d\'</string>
+    <string name="hold_to_record_audio">استمرار الضغط للتسجيل ، حرر للحفظ</string>
+    <string name="mal_title_about">عن التطبيق</string>
+    <string name="mal_title_licenses">التراخيص</string>
+    <string name="mal_close">إغلق</string>
+    <string name="mal_send_email">ارسل بريد الكتروني</string>
+    <string name="mal_activity_exception">لا توجد تطبيقات للتعامل مع العمل</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Version</string>
+    <string name="Licenses">Licenses</string>
+    <string name="Author">Author</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Egypt</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Convenience</string>
+    <string name="Rate_app">Rate this app</string>
+    <string name="Send">Send an email</string>
+    <string name="Call">Call me</string>
+    <string name="Visit">Visit Egypt</string>
+    <string name="save_as">حفظ بإسم&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">سيتم نسخ التسجيل إلى دليل \'Downloads\'</string>
+    <string name="app_widget_description">ابدأ تسجيل عنصر واجهة المستخدم</string>
+    <string name="error_failed_to_start_recording">تعذر بدء التسجيل</string>
+    <string name="details_file_is_not_available">مع الأسف، فقد التطبيق صلاحية الوصول إلى مساحة التخزين العامة على أندرويد. يمكنك إيجاد ملف التسجيل على هاتفك في هذا المسار: %s</string>
+    <string name="title_file_is_not_available">لا يوجد وصول إلى ملف التسجيل!</string>
+    <string name="button_record">سجل</string>
+    <string name="button_stop">توقف</string>
+    <string name="button_resume">استئناف</string>
+    <string name="button_finish">إنهاء</string>
+
+</resources>

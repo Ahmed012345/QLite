@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Časni Kur\'an</string>
+    <string name="lang">bs</string>
+    <string name="turnlang">Promenite jezik</string>
+    <string name="sharefacebook">Dijeljenje veze aplikacije na (Facebook)</string>
+    <string name="sharetwitter">Dijeljenje veze aplikacije na (Twitter)</string>
+    <string name="sharegmail">Dijeljenje veze aplikacije na (Gmail)</string>
+    <string name="sharewhatapp">Dijeljenje veze aplikacije na (Whatsapp)</string>
+    <string name="shareinstagram">Dijeljenje veze aplikacije na (Instagram)</string>
+    <string name="sharetumblr">Dijeljenje veze aplikacije na (Tumblr)</string>
+    <string name="shareviber">Dijeljenje veze aplikacije na (Viber)</string>
+    <string name="sharelinkedin">Dijeljenje veze aplikacije na (Linkedin)</string>
+    <string name="sharesnapchat">Dijeljenje veze aplikacije na (Snapchat)</string>
+    <string name="shareskype">Dijeljenje veze aplikacije na (Skype)</string>
+    <string name="sharetelegram">Dijeljenje veze aplikacije na (Telegram)</string>
+    <string name="sharereddit">Dijeljenje veze aplikacije na (Reddit)</string>
+    <string name="dialog_title">Dostupna je nova verzija</string>
+    <string name="dialog_message">Dostupna je nova verzija aplikacije, kliknite ispod da biste ažurirali najnoviju verziju.</string>
+    <string name="dialog_positive_button_title">Ažuriraj</string>
+    <string name="slide_to_cancel">Prevucite da otkaže</string>
+    <string name="hold_button_to_record">Započnite snimanje</string>
+    <string name="hold_button_to_record2">Prilikom registracije molimo vas da nastavite dirati</string>
+    <string name="fetchs">priključak za internet</string>
+    <string name="wifion">WIFI</string>
+    <string name="records">Snimke</string>
+    <string name="settingss">Podešavanja</string>
+    <string name="store_records_public">Spremite snimke u javnu mapu</string>
+    <string name="record_in_stereo">Stereo zvuk</string>
+    <string name="keep_screen_on">Ne isključujte ekran tokom snimanja</string>
+    <string name="total_duration">Ukupno snimljeno vrijeme: %s</string>
+    <string name="total_record_count">Ukupan broj zapisa: %d</string>
+    <string name="available_space">Dostupni prostor: %s</string>
+    <string name="delete_all">Izbrišite sve snimke</string>
+    <string name="warning">Upozorenje!</string>
+    <string name="delete_record">Pređite na koš za otpatke %s</string>
+    <string name="delete_all_records">Obrišite sve zapise i nećete ih moći ponovo dobiti?</string>
+    <string name="all_records_deleted">Svi zapisi su uspješno izbrisani</string>
+    <string name="failed_to_delete_all_records">Brisanje svih zapisa nije uspjelo</string>
+    <string name="please_select_record_to_share">Odaberite ili snimite audio datoteku za dijeljenje</string>
+    <string name="record_name">novo ime</string>
+    <string name="recording">Registrovano: %s</string>
+    <string name="recording_is_on">Snimanje je uključeno</string>
+    <string name="recording_progress">Prijaviti se…</string>
+    <string name="recording_paused">Pauzirano</string>
+    <string name="playback">Reprodukcija: %s</string>
+    <string name="no_records">Zapisi su prazni.</string>
+    <string name="no_bookmarks">Oznake su prazne.</string>
+    <string name="bookmarks">Oznake</string>
+    <string name="share_record">Udio unosa: %s</string>
+    <string name="import_progress">Uvoz audio datoteke …</string>
+    <string name="record_processing">Obrada datoteke …</string>
+    <string name="app_settings">Postavke zvuka:</string>
+    <string name="recording_settings">Postavke snimanja:</string>
+    <string name="other_settings">Ostalo:</string>
+    <string name="today">Danas</string>
+    <string name="yesterday">jučer</string>
+    <string name="btn_save">uštedjeti</string>
+    <string name="btn_savee">Ime je uspješno modificirano</string>
+    <string name="btn_cancel">Otkazivanje</string>
+    <string name="btn_cancell">Izmjena imena je otkazana</string>
+    <string name="btn_c">Brisanje datoteke je otkazano</string>
+    <string name="btn_cc">izbriši</string>
+    <string name="btn_ccc">Datoteka je uspješno izbrisana</string>
+    <string name="btn_cccc">Brisanje datoteka je otkazano</string>
+    <string name="btn_ccccc">Svi zapisi su uspješno izbrisani</string>
+    <string name="btn_cancelll">kraj</string>
+    <string name="btn_yes">Da</string>
+    <string name="btn_no">Ne</string>
+    <string name="btn_play">trčanje</string>
+    <string name="error_unknown">Nepoznata greška</string>
+    <string name="error_cant_create_file">Nije moguće kreirati datoteku</string>
+    <string name="error_invalid_output_file">Izlazna datoteka nije važeća</string>
+    <string name="error_file_exists">Datoteka s ovim imenom već postoji!</string>
+    <string name="error_failed_to_rename">Preimenovanje registra nije uspjelo!</string>
+    <string name="error_failed_to_init_recorder">Pokretanje snimanja nije uspjelo</string>
+    <string name="error_failed_to_init_player">Nije uspjela pokrenuti</string>
+    <string name="error_player_data_source">Player ne može pročitati datoteku</string>
+    <string name="error_unable_to_read_sound_file">Nije moguće reproducirati audio datoteku</string>
+    <string name="error_permission_denied">Zahtjev za dozvolu je odbijen</string>
+    <string name="recordtoast">Zabilježeno vrijeme je:</string>
+    <string name="open_record_with">Otvori %s sa …</string>
+    <string name="delete">izbriši</string>
+    <string name="rename">preimenovati</string>
+    <string name="open_with">otvoriti pomoću</string>
+    <string name="download">Skinuti</string>
+    <string name="share">Podijeli</string>
+    <string name="ask_to_rename">Pokažite dijalog preimenovanja nakon zaustavljanja snimanja</string>
+    <string name="record_deleted_successfully">Datoteka je uspješno izbrisana</string>
+    <string name="need_write_permission">Aplikaciji je potrebna dozvola za pristup javnoj pohrani. Ako nije dopušteno, dnevnici se pohranjuju u direktorij aplikacije</string>
+    <string name="rec_name">Imenica:</string>
+    <string name="rec_format">format:</string>
+    <string name="rec_duration">Trajanje:</string>
+    <string name="rec_size">veličina:</string>
+    <string name="rec_location">Lokacija datoteke:</string>
+    <string name="naming">imenovanje:</string>
+    <string name="private_dir_warning">Dnevnici će biti pohranjeni u direktoriju aplikacije i nisu vidljivi ostalim aplikacijama</string>
+    <string name="public_dir_warning">Dnevnici će biti pohranjeni u zajedničkom direktoriju na vašem uređaju koji je vidljiv ostalim aplikacijama</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_deny">Odbijanje</string>
+    <string name="btn_allow">Dopustiti</string>
+    <string name="error_process_waveform">Valni oblik se ne može nacrtati</string>
+    <string name="records_was_removed">Neke datoteke dnevnika nisu pronađene u direktoriju zapisa. Možda je uklonjena ili premještena.</string>
+    <string name="dont_ask_again_rename">Nemojte ponovo tražiti preimenovanje</string>
+    <string name="error_lost_records">Neki su vaši zapisi izbrisani ili premješteni</string>
+    <string name="delete_record_forever">Brisanje snimanje %s zauvek?</string>
+    <string name="restore_record">Vrati registar %s?</string>
+    <string name="empty">Prazno</string>
+    <string name="record_moved_into_trash">Zapis je premješten u kantu za smeće</string>
+    <string name="record_restored_successfully">Zapis je uspješno vraćen</string>
+    <string name="rec_frequency">učestalost:</string>
+    <string name="trash">Otpad</string>
+    <string name="trash_info">Zapisi premješteni u otpad biće zauvijek uklonjeni u roku od 60 dana.</string>
+    <string name="error_no_available_space">Nema slobodnog prostora!</string>
+    <string name="rec_created">Kreirano:</string>
+    <string name="info">informacije</string>
+    <string name="cancel_rec">Registracija je otkazana</string>
+    <string name="delete_all2">Izbrisati sve</string>
+    <string name="lost_records">Zapisi su izgubljeni</string>
+    <string name="btn_details">detalji</string>
+    <string name="error_failed_access_to_storage">Nije uspjelo pristup skladištu datoteka</string>
+    <string name="downloading_cancel">Preuzimanje otkazano</string>
+    <string name="downloading_success">Preuzeto u direktoriju za preuzimanje %S</string>
+    <string name="downloading_failed">Preuzimanje nije uspjelo: %S</string>
+    <string name="downloading">Preuzimanje: %S</string>
+    <string name="by_date">Po datumu (najnovije)</string>
+    <string name="by_date_desc">Po datumu (najstarije)</string>
+    <string name="by_name">Po imenu (A-Z)</string>
+    <string name="by_name_desc">Po imenu (Z-A)</string>
+    <string name="by_duration">Po trajanju (najduže)</string>
+    <string name="by_duration_desc">Po trajanju (najkraće)</string>
+    <string name="delete_this_record">Izbrisati ovaj zapis?</string>
+    <string name="all_records_deleted_successfully">Svi zapisi su uspješno izbrisani</string>
+
+    <string name="refresh">Osvježiti</string>
+    <string name="find">Pronađi</string>
+    <string name="share_via">podijeli putem</string>
+    <string name="copy_link">Kopiraj vezu</string>
+    <string name="copied_to_clipboard">Kopirano u međuspremnik</string>
+    <string name="about">O aplikaciji</string>
+    <string name="back">Kliknite ponovo za izlaz</string>
+    <string name="finalback">Kliknite ponovo da se vratite na glavni meni</string>
+    <string name="error_on_recording">Greška pri registraciji!</string>
+    <string name="settings">Postavke</string>
+    <string name="start_recording">Započni snimanje</string>
+    <string name="recording_feature_disabled">Funkcija snimanja je onemogućena</string>
+    <string name="selected">%d odabrano</string>
+    <string name="btn_import">Uvoz</string>
+    <string name="processing_canceled">Obrada je otkazana</string>
+    <string name="record_calculation">Kalkulacije talasnog oblika&#8230;</string>
+    <string name="restore">Restaurirati</string>
+    <string name="dont_ask_again">Ne pitaj ponovo</string>
+    <string name="downloading_success_and_fail_count">%d zapisa je uspješno preuzeto, a %d nije uspjelo preuzimanje</string>
+    <string name="moving_records_success_and_fail_count">%d zapisa je uspješno premješteno, a %d nije uspjelo premještanje</string>
+    <string name="move_record_success">%s je premješten u privatni direktorij aplikacije</string>
+    <string name="move_record_failed">Nije uspjelo premještanje: %s</string>
+    <string name="downloading_failed_file_already_exists">Preuzimanje nije uspjelo. Fajl sa imenom %s već postoji</string>
+    <string name="selected_records_moved_into_trash">Odabrani zapisi su premješteni u smeće</string>
+    <string name="record_imported_successfully">Zapis je uspješno uvezen</string>
+    <string name="cant_import_files">Nije moguće uvesti fajlove</string>
+    <string name="file_browser">pretraživač datoteka</string>
+    <string name="private_dir">Privatni imenik</string>
+    <string name="public_dir">Javni imenik</string>
+    <string name="found_in_the_app">Pronađeno u aplikaciji</string>
+    <string name="not_found_in_the_app">Nije pronađeno u aplikaciji</string>
+    <string name="in_trash">U smeću</string>
+    <string name="btn_get_started">Započnite</string>
+    <string name="btn_apply">Prijavite se</string>
+    <string name="btn_reset">Resetovati</string>
+    <string name="btn_next">Sljedeći</string>
+    <string name="view">Pogled</string>
+    <string name="view_records">View records</string>
+    <string name="move_records_needed">Zapisi se moraju prenijeti</string>
+    <string name="moving_record">Pokretni zapis: %s</string>
+    <string name="moving_record_cancel">Selidba je otkazana</string>
+    <string name="move_records_info">Neki od vaših zapisa su još uvijek pohranjeni u javnoj pohrani. Uskoro javna pohrana neće biti dostupna za aplikaciju. Moramo premjestiti te zapise u privatni direktorij aplikacije.</string>
+    <string name="recording_format">Format snimanja:</string>
+    <string name="bitrate">Bitrate:</string>
+    <string name="channels">Broj kanala:</string>
+    <string name="sample_rate">Stopa uzorkovanja:</string>
+    <string name="size_per_min">%s Mb/min očekivana veličina</string>
+    <string name="records_location">Lokacija zapisa: %s</string>
+    <string name="feature_not_available_in_android_10">Ova funkcija više nije dostupna u Androidu 10 ili novijim.</string>
+    <string name="move_records">Premjesti %d zapisa</string>
+    <string name="error_failed_to_restore">Vraćanje zapisa nije uspjelo!</string>
+    <string name="error_failed_to_delete">Nije uspjelo brisanje zapisa!</string>
+    <string name="move_public_storage_records_message">Potreban je prijenos evidencije o javnom pohranjivanju</string>
+    <string name="later">Kasnije</string>
+    <string name="move">pokret</string>
+    <string name="move_all">Pomerite sve</string>
+    <string name="info_format"><b>M4a</b> format je kodiran sa AAC audio kodekom dobrog kvaliteta i male veličine. <b>(preporučeno)</b>
+		\n<b>Wav</b> je nekomprimirani format audio podataka. Zauzima mnogo više prostora od ostalih formata. Potreban je za specifične slučajeve.
+		\n<b>3gp</b> je format multimedijalnog kontejnera razvijen za mobilne telekomunikacijske usluge. Koristite ga ako trebate uštedjeti prostor.
+		</string>
+    <string name="info_frequency"><b>stopa uzorkovanja</b> je broj uzoraka zvuka koji se prenosi u sekundi.
+		\n<b>48kHz</b> je brzina uzorkovanja koja se koristi za DVD.
+		\n<b>44,1kHz</b> je stopa uzorkovanja audio CD-a. <b>(preporučeno)</b>
+		\n<b>22kHz</b> popularna brzina uzorkovanja za nisku brzinu prijenosa kao što je 64 kbps.
+		\n<b>8kHz</b> brzina uzorkovanja ima manji propusni opseg od modernih telefonskih sistema. Nije pogodan za bilo koji ozbiljan zadatak snimanja.
+		</string>
+    <string name="info_bitrate"><b>Bitrate</b> je veličina podataka po sekundi zvuka. Direktno utječe na kvalitetu i veličinu snimanja.
+		\n<b>256 kbps</b> dobar kvalitet bitrate.
+		\n<b>192 kbps</b> srednja kvaliteta bitrate.
+		\n<b>128 kbps</b> srednja kvaliteta bitrate. Uobičajeni bitrate za podcaste. <b>(preporučeno)</b>
+		\n<b>96 kbps</b> općenito se koristi za govor ili streaming niske kvalitete.
+		\n<b>48 kbps</b> općenito prihvatljivo samo za govor.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> snimaju se dva odvojena kanala. To znači da svaki stereo zvučnik ima drugačiji zvučni signal. <b>(preporučeno)</b>
+		\n<b>Mono</b> snima se jedan signalni kanal. Može se reproducirati kroz nekoliko zvučnika, ali svi zvučnici i dalje reproduciraju istu kopiju signala.
+		</string>
+    <string name="info_3gp"><b>3gp</b> je format multimedijalnog kontejnera razvijen za mobilne telekomunikacijske usluge. Koristite ga ako trebate uštedjeti prostor.</string>
+    <string name="info_m4a"><b>M4a</b> format je kodiran sa AAC audio kodekom dobrog kvaliteta i male veličine. <b>(preporučeno)</b></string>
+    <string name="info_wav"><b>Wav</b> je nekomprimirani format audio podataka. Zauzima mnogo više prostora od ostalih formata. Potreban je za specifične slučajeve.</string>
+    <string name="info_stereo"><b>Stereo</b> snimaju se dva odvojena kanala. To znači da svaki stereo zvučnik ima drugačiji zvučni signal. <b>(recommended)</b></string>
+    <string name="info_mono"><b>Mono</b> snima se jedan signalni kanal. Može se reproducirati kroz nekoliko zvučnika, ali svi zvučnici i dalje reproduciraju istu kopiju signala.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> općenito prihvatljivo samo za govor.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> općenito se koristi za govor ili streaming niske kvalitete.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> srednja kvaliteta bitrate. Uobičajeni bitrate za podcaste. <b>(preporučeno)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> srednja kvaliteta bitrate.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> dobar kvalitet bitrate.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> Brzina uzorkovanja ima nižu propusnost od modernih telefonskih sistema. Nije prikladno za bilo kakav ozbiljan zadatak snimanja.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> je bolji od 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> popularna brzina uzorkovanja za nisku brzinu prijenosa kao što je 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> je malo bolji od 22kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> je stopa uzorkovanja audio CD-a. <b>(preporučeno)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> je brzina uzorkovanja koja se koristi za DVD.</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Premjesti u smeće %d odabrani zapis?</item>
+        <item quantity="few">Premjesti u smeće %d odabrani zapis?</item>
+        <item quantity="other">Premjesti u smeće %d odabrani zapis?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Kopirati %d odabrani zapis u folder Preuzimanje?</item>
+        <item quantity="few">Kopirati %d odabrani zapis u folder Preuzimanje?</item>
+        <item quantity="other">Kopirati %d odabrani zapis u folder Preuzimanje?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">Podijeli %d zapis</item>
+        <item quantity="few">Podijeli %d zapis</item>
+        <item quantity="other">Podijeli %d zapis</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d zapis je uspješno preuzet</item>
+        <item quantity="few">%d zapis je uspješno preuzet</item>
+        <item quantity="other">%d zapis je uspješno preuzet</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d zapis uspješno premješten</item>
+        <item quantity="few">%d zapis uspješno premješten</item>
+        <item quantity="other">%d zapis uspješno premješten</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">Preuzimanje nije uspjelo %d rekord</item>
+        <item quantity="few">Preuzimanje nije uspjelo %d rekord</item>
+        <item quantity="other">Preuzimanje nije uspjelo %d rekord</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Premještanje nije uspjelo %d rekord</item>
+        <item quantity="few">Premještanje nije uspjelo %d rekord</item>
+        <item quantity="other">Premještanje nije uspjelo %d rekord</item>
+    </plurals>
+    <string name="cancel">Otkaži</string>
+    <string name="hold_to_record_audio">Držite za snimanje, otpustite za spremanje</string>
+    <string name="mal_title_about">O aplikaciji</string>
+    <string name="mal_title_licenses">Licence</string>
+    <string name="mal_close">Zatvori</string>
+    <string name="mal_send_email">Pošaljite e-mail</string>
+    <string name="mal_activity_exception">Nema aplikacija koje bi mogle upravljati radnjom</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Verzija</string>
+    <string name="Licenses">Licence</string>
+    <string name="Author">Autor</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Egipat</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Pogodnost</string>
+    <string name="Rate_app">Ocijeni ovu aplikaciju</string>
+    <string name="Send">Pošaljite email</string>
+    <string name="Call">Nazovi me</string>
+    <string name="Visit">Posjetite Egipat</string>
+    <string name="save_as">Sačuvaj kao&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Zapis će biti kopiran u direktorij \'Preuzimanja\'</string>
+    <string name="app_widget_description">Počnite snimati widget</string>
+    <string name="error_failed_to_start_recording">Nije uspjelo pokretanje snimanja</string>
+    <string name="details_file_is_not_available">Nažalost, aplikacija više nema pristup Android javnoj pohrani. Datoteku za snimanje možete pronaći na svom pametnom telefonu na ovoj lokaciji: %s</string>
+    <string name="title_file_is_not_available">Nema pristupa fajlu zapisa!</string>
+    <string name="button_record">Zapis</string>
+    <string name="button_stop">Stani</string>
+    <string name="button_resume">Nastavi</string>
+    <string name="button_finish">Završi</string>
+</resources>

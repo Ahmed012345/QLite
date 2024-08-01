@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">पवित्र कुरान</string>
+    <string name="lang">hi</string>
+    <string name="turnlang">भाषा बदलें</string>
+    <string name="sharefacebook">(Facebook) के लिए एप्लिकेशन लिंक साझा करें</string>
+    <string name="sharetwitter">(Twitter) के लिए एप्लिकेशन लिंक साझा करें</string>
+    <string name="sharegmail">(Gmail) के लिए एप्लिकेशन लिंक साझा करें</string>
+    <string name="sharewhatapp">(What\'s App) के लिए एप्लिकेशन लिंक साझा करें</string>
+    <string name="shareinstagram">(Instagram) के लिए एप्लिकेशन लिंक साझा करें</string>
+    <string name="sharetumblr">(Tumblr) के लिए एप्लिकेशन लिंक साझा करें</string>
+    <string name="shareviber">(Viber) के लिए एप्लिकेशन लिंक साझा करें</string>
+    <string name="sharelinkedin">(Linkedin) के लिए एप्लिकेशन लिंक साझा करें</string>
+    <string name="sharesnapchat">(Snapchat) के लिए एप्लिकेशन लिंक साझा करें</string>
+    <string name="shareskype">(Skype) के लिए एप्लिकेशन लिंक साझा करें</string>
+    <string name="sharetelegram">(Telegram) के लिए एप्लिकेशन लिंक साझा करें</string>
+    <string name="sharereddit">(Reddit) के लिए एप्लिकेशन लिंक साझा करें</string>
+    <string name="dialog_title">नया संस्करण उपलब्ध है</string>
+    <string name="dialog_message">एप्लिकेशन का एक नया संस्करण उपलब्ध है, कृपया नवीनतम संस्करण में अपडेट करने के लिए नीचे क्लिक करें।</string>
+    <string name="dialog_positive_button_title">आधुनिकीकरण</string>
+    <string name="slide_to_cancel">रद्द करने के लिए खींचो</string>
+    <string name="hold_button_to_record">रिकॉर्डिंग शुरू करें</string>
+    <string name="hold_button_to_record2">पंजीकरण करते समय, कृपया स्पर्श करते रहें</string>
+    <string name="fetchs">इंटरनेट कनेक्शन</string>
+    <string name="wifion">वाई-फाई</string>
+    <string name="records">रिकॉर्डिंग की</string>
+    <string name="settingss">सेटिंग्स</string>
+    <string name="store_records_public">रिकॉर्डिंग सार्वजनिक फ़ोल्डर में संग्रहीत की जाती हैं</string>
+    <string name="record_in_stereo">स्टीरियो साउंड</string>
+    <string name="keep_screen_on">रिकॉर्डिंग करते समय स्क्रीन बंद न करें</string>
+    <string name="total_duration">कुल दर्ज की गई अवधि: %s</string>
+    <string name="total_record_count">रिकॉर्ड की कुल संख्या: %d</string>
+    <string name="available_space">उपलब्ध स्थान: %s</string>
+    <string name="delete_all">सभी रिकॉर्ड हटाएं</string>
+    <string name="warning">चेतावनी!</string>
+    <string name="delete_record">%S को रीसायकल करने के लिए ले जाया गया</string>
+    <string name="delete_all_records">सभी रिकॉर्ड हटाएं और उन्हें फिर से प्राप्त करने में सक्षम नहीं होंगे।</string>
+    <string name="all_records_deleted">सभी रिकॉर्ड सफलतापूर्वक हटा दिए गए थे</string>
+    <string name="failed_to_delete_all_records">सभी रिकॉर्ड हटाने में विफल</string>
+    <string name="please_select_record_to_share">कृपया साझा करने के लिए एक ऑडियो फ़ाइल चुनें या रिकॉर्ड करें</string>
+    <string name="record_name">नया नाम</string>
+    <string name="recording">रिकॉर्डिंग: %s</string>
+    <string name="recording_is_on">ऑपरेटिंग मोड पर पंजीकरण</string>
+    <string name="recording_progress">रिकॉर्डिंग …</string>
+    <string name="recording_paused">अस्थायी रूप से बंद</string>
+    <string name="playback">चलाएँ: %s</string>
+    <string name="no_records">रिकॉर्डिंग खाली हैं।</string>
+    <string name="no_bookmarks">बुकमार्क खाली हैं।</string>
+    <string name="bookmarks">के बुकमार्क</string>
+    <string name="share_record">भाग लें। पंजीकरण: %s</string>
+    <string name="import_progress">एक ऑडियो फ़ाइल आयात करें …</string>
+    <string name="record_processing">फ़ाइल प्रसंस्करण …</string>
+    <string name="app_settings">ध्वनि सेटिंग्स:</string>
+    <string name="recording_settings">रजिस्ट्री सेटिंग्स:</string>
+    <string name="other_settings">अन्य:</string>
+    <string name="today">आज</string>
+    <string name="yesterday">कल की</string>
+    <string name="btn_save">सहेजें</string>
+    <string name="btn_savee">नाम को सफलतापूर्वक संशोधित किया गया था</string>
+    <string name="btn_cancel">निरस्तीकरण</string>
+    <string name="btn_cancell">नाम संशोधन को रद्द कर दिया गया है</string>
+    <string name="btn_c">फ़ाइल हटाएँ रद्द कर दिया गया</string>
+    <string name="btn_cc">हटाएं</string>
+    <string name="btn_ccc">फ़ाइल को सफलतापूर्वक हटा दिया गया था</string>
+    <string name="btn_cccc">रद्द फाइल हटाएं</string>
+    <string name="btn_ccccc">सभी रिकॉर्ड सफलतापूर्वक हटा दिए गए थे</string>
+    <string name="btn_cancelll">एंडिंग</string>
+    <string name="btn_yes">हां</string>
+    <string name="btn_no">नहीं</string>
+    <string name="btn_play">रनिंग</string>
+    <string name="error_unknown">अज्ञात त्रुटि</string>
+    <string name="error_cant_create_file">फ़ाइल नहीं बना सकता</string>
+    <string name="error_invalid_output_file">आउटपुट फ़ाइल अमान्य है</string>
+    <string name="error_file_exists">इस नाम की फ़ाइल पहले से मौजूद है!</string>
+    <string name="error_failed_to_rename">रजिस्ट्री का नाम बदलने में विफल!</string>
+    <string name="error_failed_to_init_recorder">रिकॉर्डिंग शुरू करने में विफल</string>
+    <string name="error_failed_to_init_player">शुरू करने में विफल</string>
+    <string name="error_player_data_source">ऑपरेटर फ़ाइल नहीं पढ़ सकते हैं</string>
+    <string name="error_unable_to_read_sound_file">ऑडियो फ़ाइल पढ़ने में असमर्थ</string>
+    <string name="error_permission_denied">अनुमति का अनुरोध अस्वीकार कर दिया</string>
+    <string name="recordtoast">दर्ज समय है:</string>
+    <string name="open_record_with">के साथ %s खोलें</string>
+    <string name="delete">हटाएं</string>
+    <string name="rename">का नाम बदलें</string>
+    <string name="open_with">के साथ खोलें</string>
+    <string name="download">लोड कर रहा</string>
+    <string name="share">इसे शेयर करें</string>
+    <string name="ask_to_rename">रिकॉर्डिंग रोकने के बाद नाम बदलें डायलॉग दिखाएं</string>
+    <string name="record_deleted_successfully">फ़ाइल को सफलतापूर्वक हटा दिया गया था</string>
+    <string name="need_write_permission">एप्लिकेशन को सार्वजनिक संग्रहण तक पहुंचने के लिए अनुमति की आवश्यकता होती है। यदि अनुमति नहीं है, तो रिकॉर्ड को एप्लिकेशन की निर्देशिका में संग्रहीत किया जाएगा</string>
+    <string name="rec_name">नाम:</string>
+    <string name="rec_format">फार्मूला:</string>
+    <string name="rec_duration">अवधि:</string>
+    <string name="rec_size">आकार:</string>
+    <string name="rec_location">फ़ाइल स्थान:</string>
+    <string name="naming">लेबल:</string>
+    <string name="private_dir_warning">अभिलेख एप्लिकेशन की निर्देशिका में संग्रहीत किए जाएंगे और अन्य अनुप्रयोगों के लिए दिखाई नहीं देंगे</string>
+    <string name="public_dir_warning">रिकॉर्ड आपके डिवाइस पर साझा निर्देशिका में संग्रहीत किया जाएगा जो अन्य अनुप्रयोगों के लिए दृश्यमान है</string>
+    <string name="btn_ok">अच्छी तरह से</string>
+    <string name="btn_deny">अस्वीकार</string>
+    <string name="btn_allow">करने की अनुमति दें</string>
+    <string name="error_process_waveform">तरंग नहीं खींची जा सकती</string>
+    <string name="records_was_removed">लॉग निर्देशिका में कुछ लॉग फ़ाइलें नहीं मिलीं। इसे निकाल दिया गया हो सकता है या स्थानांतरित कर दिया।</string>
+    <string name="dont_ask_again_rename">फिर से नाम बदलने के लिए मत कहो</string>
+    <string name="error_lost_records">आपके कुछ रिकॉर्ड हटा दिए गए हैं या स्थानांतरित कर दिए गए हैं</string>
+    <string name="delete_record_forever">हटाएं रिकॉर्डिंग %s हमेशा के लिए है?</string>
+    <string name="restore_record">पुनर्स्थापित करें। लॉग %s?</string>
+    <string name="empty">खाली</string>
+    <string name="record_moved_into_trash">कूड़ेदान में ले जाया रिकॉर्ड</string>
+    <string name="record_restored_successfully">किसी रिकॉर्ड को सफलतापूर्वक पुनर्स्थापित करें</string>
+    <string name="rec_frequency">आवृत्ति:</string>
+    <string name="trash">को ट्रैश कैन में</string>
+    <string name="trash_info">हमेशा के लिए 60 दिनों के भीतर रीसायकल बिन को हस्तांतरित रिकॉर्ड निकाल दिया जाएगा।</string>
+    <string name="error_no_available_space">कोई स्थान उपलब्ध नहीं है!</string>
+    <string name="rec_created">यह बनाया गया था:</string>
+    <string name="info">सूचना</string>
+    <string name="cancel_rec">पंजीकरण रद्द कर दिया गया है</string>
+    <string name="delete_all2">हटाएं सभी</string>
+    <string name="lost_records">रिकॉर्ड्स खो गए</string>
+    <string name="btn_details">के विवरण के</string>
+    <string name="error_on_recording">रिकॉर्डिंग त्रुटि!</string>
+    <string name="error_failed_access_to_storage" >फ़ाइल संग्रहण में पहुँच विफल</string>
+    <string name="downloading_cancel" >डाउनलोडिंग रद्द</string>
+    <string name="downloading_success" >%s डाउनलोड निर्देशिका में डाउनलोड किया</string>
+    <string name="downloading_failed" >डाउनलोड करने में विफल: %s</string>
+    <string name="downloading" >डाउनलोड कर रहा है: %s</string>
+    <string name="by_date" >दिनांक तक (सबसे नया)</string>
+    <string name="by_date_desc" >आज तक (सबसे पुराना)</string>
+    <string name="by_name" >नाम से (ए-जेड)</string>
+    <string name="by_name_desc" >नाम से (जेड-ए)</string>
+    <string name="by_duration" >अवधि तक (सबसे लंबा)</string>
+    <string name="by_duration_desc" >अवधि तक (सबसे छोटा)</string>
+    <string name="delete_this_record" >यह रिकॉर्ड हटाएं?</string>
+    <string name="all_records_deleted_successfully" >सभी रिकॉर्ड सफलतापूर्वक हटा दिए गए</string>
+
+    <string name="refresh">ताज़ा करना</string>
+    <string name="find">पता लगाएं</string>
+    <string name="share_via">के माध्यम से बाँटे</string>
+    <string name="copy_link">प्रतिरूप जोड़ना</string>
+    <string name="copied_to_clipboard">क्लिपबोर्ड पर नकल</string>
+    <string name="about">ऐप के बारे में</string>
+    <string name="back">बाहर निकलने के लिए फिर से क्लिक करें</string>
+    <string name="finalback">मुख्य मेनू पर वापस जाने के लिए फिर से क्लिक करें</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="recording_feature_disabled">रिकॉर्डिंग सुविधा अक्षम</string>
+    <string name="selected">%d चयनित</string>
+    <string name="processing_canceled">प्रसंस्करण रद्द है</string>
+    <string name="record_calculation">वेवफ़ॉर्म गणना&#8230;</string>
+    <string name="restore">पुनर्स्थापित</string>
+    <string name="dont_ask_again">फिर मत पूछो</string>
+    <string name="downloading_success_and_fail_count">%d रिकॉर्ड सफलतापूर्वक डाउनलोड किया गया और %d डाउनलोड करने में विफल रहा</string>
+    <string name="moving_records_success_and_fail_count">%d रिकॉर्ड सफलतापूर्वक ले जाया गया और %d स्थानांतरित करने में विफल रहा</string>
+    <string name="move_record_success">%s ऐप की निजी निर्देशिका में ले जाया गया</string>
+    <string name="move_record_failed">ले जाने में विफल: %s</string>
+    <string name="downloading_failed_file_already_exists">डाउनलोड करने में विफल। नाम वाली फ़ाइल %s पहले से मौजूद है</string>
+    <string name="selected_records_moved_into_trash">चयनित रिकॉर्ड ट्रैश में ले जाया गया</string>
+    <string name="record_imported_successfully">रिकॉर्ड सफलतापूर्वक आयात किया गया</string>
+    <string name="cant_import_files">फ़ाइलें आयात नहीं कर सकते</string>
+    <string name="file_browser">फ़ाइल ब्राउज़र</string>
+    <string name="private_dir">प्राइवेट डायरेक्टरी</string>
+    <string name="public_dir">सार्वजनिक निर्देशिका</string>
+    <string name="found_in_the_app">ऐप में मिला</string>
+    <string name="not_found_in_the_app">ऐप में नहीं मिला</string>
+    <string name="in_trash">कूड़े में</string>
+    <string name="btn_get_started">शुरू हो जाओ</string>
+    <string name="btn_apply">लागू</string>
+    <string name="btn_reset">रीसेट</string>
+    <string name="btn_next">अगला</string>
+    <string name="view">राय</string>
+    <string name="view_records">रिकॉर्ड देखें</string>
+    <string name="move_records_needed">आवश्यक रिकॉर्ड ले जाएँ</string>
+    <string name="moving_record">स्थानांतरण रिकॉर्ड: %s</string>
+    <string name="moving_record_cancel">स्थानांतरण रद्द</string>
+    <string name="move_records_info">आपके कुछ रिकॉर्ड अभी भी सार्वजनिक संग्रहण में संग्रहीत हैं। जल्द ही सार्वजनिक भंडारण ऐप के लिए उपलब्ध नहीं हो जाएगा। हमें उस रिकॉर्ड को ऐप की निजी निर्देशिका में ले जाना होगा।</string>
+    <string name="recording_format">रिकॉर्डिंग प्रारूप:</string>
+    <string name="bitrate">बिटरेट:</string>
+    <string name="channels">चैनल गिनती:</string>
+    <string name="sample_rate">नमूना दर:</string>
+    <string name="size_per_min">%s Mb/min अपेक्षित आकार</string>
+    <string name="records_location">रिकॉर्ड स्थान: %s</string>
+    <string name="feature_not_available_in_android_10">यह सुविधा अब Android 10 या उच्चतर में उपलब्ध नहीं है।</string>
+    <string name="move_records">रिकॉर्ड %d ले जाएँ</string>
+    <string name="error_failed_to_restore">रिकॉर्ड बहाल करने में विफल!</string>
+    <string name="error_failed_to_delete">रिकॉर्ड हटाने में विफल!</string>
+    <string name="move_public_storage_records_message">सार्वजनिक संग्रहण रिकॉर्ड को स्थानांतरित करने की आवश्यकता है</string>
+    <string name="later">बाद में</string>
+    <string name="move">हटो</string>
+    <string name="move_all">सभी ले जाएँ</string>
+    <string name="start_recording">रिकॉर्डिंग शुरू</string>
+    <string name="btn_import">आयात</string>
+    <string name="info_format"><b>M4a</b> प्रारूप एएसी ऑडियो कोडेक के साथ एन्कोड किया गया है जिसमें अच्छी गुणवत्ता और छोटे आकार हैं। <b>(अनुशंसित)</b>
+		\n<b>Wav</b> असंपीड़ित ऑडियो डेटा प्रारूप है। यह अन्य प्रारूपों की तुलना में बहुत अधिक स्थान लेता है। विशिष्ट मामलों के लिए इसकी आवश्यकता है।
+		\n<b>3gp</b> मोबाइल दूरसंचार सेवाओं के लिए विकसित एक मल्टीमीडिया कंटेनर प्रारूप है। अगर आपको जगह बचाने की जरूरत है तो इसका इस्तेमाल करें।
+		</string>
+    <string name="info_frequency"><b>नमूना दर</b> प्रति सेकंड किए गए ऑडियो के नमूनों की संख्या है।
+		\n<b>48kHz</b> डीवीडी के लिए उपयोग की जाने वाली नमूना दर है।
+		\n<b>44,1kHz</b> ऑडियो सीडी की नमूना दर है। <b>(अनुशंसित)</b>
+		\n<b>22kHz</b> 64 kbps जैसी कम बिट दर के लिए लोकप्रिय नमूना दर।
+		\n <b>8kHz</b> नमूना दर में आधुनिक टेलीफोन प्रणालियों की तुलना में कम बैंडविड्थ है। किसी भी गंभीर रिकॉर्डिंग कार्य के लिए उपयुक्त नहीं है।
+		</string>
+    <string name="info_bitrate"><b>बिटरेट</b> ध्वनि के प्रति सेकंड डेटा का आकार है। रिकॉर्डिंग गुणवत्ता और आकार को सीधे प्रभावित करता है।
+		\n<b>256 kbps</b> अच्छी गुणवत्ता बिटरेट।
+		\n<b>192 kbps</b> मध्यम गुणवत्ता बिटरेट।
+		\n<b>128 kbps</b> मध्य-श्रेणी की बिटरेट गुणवत्ता। पॉडकास्ट के लिए आम बिटरेट। <b>(अनुशंसित)</b>
+		\n<b>96 kbps</b> आमतौर पर भाषण या निम्न-गुणवत्ता वाली स्ट्रीमिंग के लिए उपयोग किया जाता है।
+		\n<b>48 kbps</b> आम तौर पर केवल भाषण के लिए स्वीकार्य।
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> दो अलग चैनल रिकॉर्ड किए जाते हैं। इसका मतलब है कि प्रत्येक स्टीरियो स्पीकर का एक अलग ध्वनि संकेत होता है। <b>(अनुशंसित)</b>
+		\n<b>Mono</b> एक सिग्नल चैनल रिकॉर्ड किया गया है। इसे कई वक्ताओं के माध्यम से पुन: प्रस्तुत किया जा सकता है, लेकिन सभी स्पीकर अभी भी सिग्नल की एक ही प्रतिलिपि को पुन: प्रस्तुत कर रहे हैं।
+		</string>
+    <string name="info_3gp"><b>3gp</b> मोबाइल दूरसंचार सेवाओं के लिए विकसित एक मल्टीमीडिया कंटेनर प्रारूप है। अगर आपको जगह बचाने की जरूरत है तो इसका इस्तेमाल करें।</string>
+    <string name="info_m4a"><b>M4a</b> प्रारूप एएसी ऑडियो कोडेक के साथ एन्कोड किया गया है जिसमें अच्छी गुणवत्ता और छोटे आकार हैं। <b>(अनुशंसित)</b></string>
+    <string name="info_wav"><b>Wav</b> असंपीड़ित ऑडियो डेटा प्रारूप है। यह अन्य प्रारूपों की तुलना में बहुत अधिक स्थान लेता है। विशिष्ट मामलों के लिए इसकी आवश्यकता है।</string>
+    <string name="info_stereo"><b>Stereo</b> दो अलग-अलग चैनल रिकॉर्ड किए गए हैं। इसका मतलब है कि प्रत्येक स्टीरियो स्पीकर का एक अलग ध्वनि संकेत होता है।<b>(अनुशंसित)</b></string>
+    <string name="info_mono"><b>Mono</b> एक सिग्नल चैनल रिकॉर्ड किया गया है। इसे कई वक्ताओं के माध्यम से पुन: प्रस्तुत किया जा सकता है, लेकिन सभी स्पीकर अभी भी सिग्नल की एक ही प्रतिलिपि को पुन: प्रस्तुत कर रहे हैं।</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> आम तौर पर केवल भाषण के लिए स्वीकार्य।</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> आम तौर पर भाषण या कम गुणवत्ता वाली स्ट्रीमिंग के लिए उपयोग किया जाता है।</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> मध्य-श्रेणी की बिटरेट गुणवत्ता। पॉडकास्ट के लिए आम बिटरेट। <b>(अनुशंसित)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> मध्यम गुणवत्ता बिटरेट।</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> अच्छी गुणवत्ता बिटरेट।</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> नमूना दर में आधुनिक टेलीफोन प्रणालियों की तुलना में कम बैंडविड्थ है। किसी भी गंभीर रिकॉर्डिंग कार्य के लिए उपयुक्त नहीं है।</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> 8kHz से बेहतर है।</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> 64 kbps जैसी कम बिट दर के लिए लोकप्रिय नमूना दर।</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> 22kHz से थोड़ा बेहतर है।</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> ऑडियो सीडी की नमूना दर है। <b>(अनुशंसित)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> डीवीडी के लिए उपयोग की जाने वाली नमूना दर है।</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">ट्रैश में ले जाएं %d चयनित रिकॉर्ड?</item>
+        <item quantity="other">ट्रैश में ले जाएं %d चयनित रिकॉर्ड?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">कॉपी %d डाउनलोड फ़ोल्डर में चयनित रिकॉर्ड?</item>
+        <item quantity="other">कॉपी %d डाउनलोड फ़ोल्डर में चयनित रिकॉर्ड?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">शेयर %d रिकॉर्ड</item>
+        <item quantity="other">शेयर %d रिकॉर्ड</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d रिकॉर्ड सफलतापूर्वक डाउनलोड किया गया</item>
+        <item quantity="other">%d रिकॉर्ड सफलतापूर्वक डाउनलोड किया गया</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d रिकॉर्ड सफलतापूर्वक ले जाया गया</item>
+        <item quantity="other">%d रिकॉर्ड सफलतापूर्वक ले जाया गया</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">डाउनलोड करने में विफल %d अभिलेख</item>
+        <item quantity="other">डाउनलोड करने में विफल %d अभिलेख</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">स्थानांतरित करने में विफल %d अभिलेख</item>
+        <item quantity="other">्थानांतरित करने में विफल %d अभिलेख</item>
+    </plurals>
+    <string name="cancel">रद्द करें</string>
+    <string name="hold_to_record_audio">रिकॉर्ड करने के लिए होल्ड करें, सेव करने के लिए रिलीज़ करें</string>
+    <string name="mal_title_about">लगभग</string>
+    <string name="mal_title_licenses">लाइसेंस</string>
+    <string name="mal_close">बंद करे</string>
+    <string name="mal_send_email">ईमेल भेजें</string>
+    <string name="mal_activity_exception">कार्रवाई को संभालने के लिए कोई ऐप नहीं</string>
+    <string name="auther1">© 2022 अहमद सादी</string>
+    <string name="version">संस्करण</string>
+    <string name="Licenses">लाइसेंस</string>
+    <string name="Author">लेखक</string>
+    <string name="name">अहमद सादी</string>
+    <string name="egypt">मिस्र</string>
+    <string name="github">गिटहब</string>
+    <string name="Convenience">सुविधा</string>
+    <string name="Rate_app">इस ऐप्लिकेशन को रेट करे</string>
+    <string name="Send">एक ईमेल भेजो</string>
+    <string name="Call">मुझे कॉल करो</string>
+    <string name="Visit">मिस्र जाएँ</string>
+    <string name="save_as">इस रूप में सहेजें&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">रिकॉर्ड को \'डाउनलोड\' निर्देशिका में कॉपी किया जाएगा</string>
+    <string name="app_widget_description">रिकॉर्डिंग विजेट प्रारंभ करें</string>
+    <string name="error_failed_to_start_recording">रिकॉर्डिंग शुरू करने में विफल</string>
+    <string name="details_file_is_not_available">दुर्भाग्य से, ऐप के पास अब Android सार्वजनिक संग्रहण तक पहुँच नहीं है। आप अपने स्मार्टफ़ोन पर रिकॉर्ड फ़ाइल इस स्थान पर पा सकते हैं: %s</string>
+    <string name="title_file_is_not_available">रिकॉर्ड फ़ाइल तक पहुँच नहीं!</string>
+    <string name="button_record">अभिलेख</string>
+    <string name="button_stop">रुकना</string>
+    <string name="button_resume">फिर से शुरू करें</string>
+    <string name="button_finish">खत्म करना</string>
+
+</resources>

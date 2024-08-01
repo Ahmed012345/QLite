@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Свещения Коран</string>
+    <string name="lang">bg</string>
+    <string name="turnlang">Промяна на езика</string>
+    <string name="sharefacebook">Споделете връзката към приложението (Facebook)</string>
+    <string name="sharetwitter">Споделете връзката към приложението (Twitter)</string>
+    <string name="sharegmail">Споделете връзката към приложението (Gmail)</string>
+    <string name="sharewhatapp">Споделете връзката към приложението (What\'s App)</string>
+    <string name="shareinstagram">Споделете връзката към приложението (Instagram)</string>
+    <string name="sharetumblr">Споделете връзката към приложението (Tumblr)</string>
+    <string name="shareviber">Споделете връзката към приложението (Viber)</string>
+    <string name="sharelinkedin">Споделете връзката към приложението (Linkedin)</string>
+    <string name="sharesnapchat">Споделете връзката към приложението (Snapchat)</string>
+    <string name="shareskype">Споделете връзката към приложението (Skype)</string>
+    <string name="sharetelegram">Споделете връзката към приложението (Telegram)</string>
+    <string name="sharereddit">Споделете връзката към приложението (Reddit)</string>
+    <string name="dialog_title">Предлага се нова версия</string>
+    <string name="dialog_message">Налична е нова версия на приложението, моля кликнете по-долу, за да актуализирате най-новата версия.</string>
+    <string name="dialog_positive_button_title">Актуализация</string>
+    <string name="slide_to_cancel">Плъзнете, за да отмените</string>
+    <string name="hold_button_to_record">Започнете записа</string>
+    <string name="hold_button_to_record2">Когато се регистрирате, моля продължавайте да пипате</string>
+    <string name="fetchs">интернет връзка</string>
+    <string name="wifion">WIFI</string>
+    <string name="records">Записите</string>
+    <string name="settingss">Настройки</string>
+    <string name="store_records_public">Съхранявайте записи в публичната папка</string>
+    <string name="record_in_stereo">Стерео звук</string>
+    <string name="keep_screen_on">Не изключвайте екрана по време на запис</string>
+    <string name="total_duration">Общо записано време: %s</string>
+    <string name="total_record_count">Общ брой записи: %d</string>
+    <string name="available_space">Налично пространство: %s</string>
+    <string name="delete_all">Изтриване на всички записи</string>
+    <string name="warning">Внимание!</string>
+    <string name="delete_record">Преминете към кошчето %s</string>
+    <string name="delete_all_records">Да изтриете ли всички записи и няма да можете да ги получите отново?</string>
+    <string name="all_records_deleted">Всички записи са изтрити успешно</string>
+    <string name="failed_to_delete_all_records">Изтриването на всички записи не бе успешно</string>
+    <string name="please_select_record_to_share">Моля, изберете или запишете аудио файл за споделяне</string>
+    <string name="record_name">ново име</string>
+    <string name="recording">Регистрирани: %s</string>
+    <string name="recording_is_on">Записът е включен</string>
+    <string name="recording_progress">Регистрирай се…</string>
+    <string name="recording_paused">е поставил на пауза</string>
+    <string name="playback">Възпроизвеждане: %s</string>
+    <string name="no_records">Записите са празни.</string>
+    <string name="no_bookmarks">Отметки са празни.</string>
+    <string name="bookmarks">"Отметки "</string>
+    <string name="share_record">Споделяне Регистрация: %s</string>
+    <string name="import_progress">Импортиране на аудио файла …</string>
+    <string name="record_processing">Файлът се обработва …</string>
+    <string name="app_settings">Настройки на звука:</string>
+    <string name="recording_settings">Настройки за запис:</string>
+    <string name="other_settings">Други:</string>
+    <string name="today">днес</string>
+    <string name="yesterday">вчера</string>
+    <string name="btn_save">Запази</string>
+    <string name="btn_savee">Името е променено успешно</string>
+    <string name="btn_cancel">анулиране</string>
+    <string name="btn_cancell">Промяната в името се анулира</string>
+    <string name="btn_c">Изтриване на файла е отменен</string>
+    <string name="btn_cc">Изтрий</string>
+    <string name="btn_ccc">Файлът е изтрит успешно</string>
+    <string name="btn_cccc">Изтриването на файлове е анулирано</string>
+    <string name="btn_ccccc">Всички записи са изтрити успешно</string>
+    <string name="btn_cancelll">край</string>
+    <string name="btn_yes">да</string>
+    <string name="btn_no">Не</string>
+    <string name="btn_play">тичане</string>
+    <string name="error_unknown">Неизвестна грешка</string>
+    <string name="error_cant_create_file">Не може да се създаде файл</string>
+    <string name="error_invalid_output_file">Изходният файл е невалиден</string>
+    <string name="error_file_exists">Файл с това име вече съществува!</string>
+    <string name="error_failed_to_rename">Неуспешно преименуване на регистъра!</string>
+    <string name="error_failed_to_init_recorder">Неуспешно стартиране на записа</string>
+    <string name="error_failed_to_init_player">Стартирането не бе успешно</string>
+    <string name="error_player_data_source">Плейърът не може да чете файла</string>
+    <string name="error_unable_to_read_sound_file">Аудио файлът не може да бъде възпроизведен</string>
+    <string name="error_permission_denied">Искането за разрешение е отказано</string>
+    <string name="recordtoast">Записаното време е:</string>
+    <string name="open_record_with">отворен %s използвайки</string>
+    <string name="delete">Изтрий</string>
+    <string name="rename">преименуване</string>
+    <string name="open_with">отворен използвайки</string>
+    <string name="download">Изтегли</string>
+    <string name="share">Сподели</string>
+    <string name="ask_to_rename">Показва диалоговия прозорец за преименуване след спиране на записа</string>
+    <string name="record_deleted_successfully">Файлът е изтрит успешно</string>
+    <string name="need_write_permission">Приложението изисква разрешение за достъп до обществено хранилище. Ако не е позволено, дневниците се съхраняват в директорията на приложението</string>
+    <string name="rec_name">Съществително:</string>
+    <string name="rec_format">формат:</string>
+    <string name="rec_duration">Продължителност:</string>
+    <string name="rec_size">размерът:</string>
+    <string name="rec_location">Местоположение на файла:</string>
+    <string name="naming">именуване:</string>
+    <string name="private_dir_warning">Дневниците ще се съхраняват в директорията на приложението и не се виждат от други приложения</string>
+    <string name="public_dir_warning">Регистрациите ще се съхраняват в споделената директория на вашето устройство, която е видима за други приложения</string>
+    <string name="btn_ok">Добре</string>
+    <string name="btn_deny">отказ</string>
+    <string name="btn_allow">Позволете</string>
+    <string name="error_process_waveform">Формата на вълната не може да бъде начертана</string>
+    <string name="records_was_removed">Някои файлове в дневника не бяха намерени в директорията на дневниците. Това може да са били премахнати или преместени.</string>
+    <string name="dont_ask_again_rename">Не питайте за преименуване отново</string>
+    <string name="error_lost_records">Някои от вашите записи са изтрити или преместени</string>
+    <string name="delete_record_forever">Да се ​​изтрие ли запис %s завинаги?</string>
+    <string name="restore_record">Възстановяване на системния регистър %s?</string>
+    <string name="empty">празен</string>
+    <string name="record_moved_into_trash">Записът е преместен в кошчето</string>
+    <string name="record_restored_successfully">Записът е възстановен успешно</string>
+    <string name="rec_frequency">честота:</string>
+    <string name="trash">боклук</string>
+    <string name="trash_info">Записите, преместени в кошчето, ще бъдат премахнати завинаги в рамките на 60 дни.</string>
+    <string name="error_no_available_space">Не свободно място!</string>
+    <string name="rec_created">създаден:</string>
+    <string name="info">информации</string>
+    <string name="cancel_rec">Регистрацията е анулирана</string>
+    <string name="delete_all2">Изтриване на всички</string>
+    <string name="lost_records">Записите са загубени</string>
+    <string name="btn_details">подробностите</string>
+    <string name="error_failed_access_to_storage">Неуспешен достъп до хранилището на файлове</string>
+    <string name="downloading_cancel">Изтеглянето е анулирано</string>
+    <string name="downloading_success">Изтеглено в директорията за изтегляне %s</string>
+    <string name="downloading_failed">Изтеглянето не бе успешно: %s</string>
+    <string name="downloading">Изтегляне: %s</string>
+    <string name="by_date">По дата (най-скорошна)</string>
+    <string name="by_date_desc">По дата (най-стари)</string>
+    <string name="by_name">По име (A-Z)</string>
+    <string name="by_name_desc">По име (Z-A)</string>
+    <string name="by_duration">По продължителност (най-дълго)</string>
+    <string name="by_duration_desc">По продължителност (най-кратко)</string>
+    <string name="delete_this_record">Изтрий този запис?</string>
+    <string name="all_records_deleted_successfully">Всички записи са изтрити успешно</string>
+
+
+    <string name="refresh">Обнови</string>
+    <string name="find">намирам</string>
+    <string name="share_via">Споделете чрез</string>
+    <string name="copy_link">Копирай връзка</string>
+    <string name="copied_to_clipboard">Копирано в клипборда</string>
+    <string name="finalback">Щракнете отново, за да се върнете в главното меню</string>
+    <string name="back">Щракнете отново, за да излезете</string>
+    <string name="about">Относно приложението</string>
+    <string name="error_on_recording">Грешка при регистрация!</string>
+    <string name="settings">Настройки</string>
+    <string name="start_recording">започнете да записвате</string>
+    <string name="recording_feature_disabled">Функцията за запис е деактивирана</string>
+    <string name="selected">%d избрани</string>
+    <string name="btn_import">Импортиране</string>
+    <string name="processing_canceled">Обработката се анулира</string>
+    <string name="record_calculation">Изчисления на формата на вълната&#8230;</string>
+    <string name="restore">Възстанови</string>
+    <string name="dont_ask_again">Не питай отново</string>
+    <string name="downloading_success_and_fail_count">%d записа са изтеглени успешно и %d неуспешно изтегляне</string>
+    <string name="moving_records_success_and_fail_count">%d записа бяха преместени успешно и %d не успяха да бъдат преместени</string>
+    <string name="move_record_success">%s се премести в частната директория на приложението</string>
+    <string name="move_record_failed">Неуспешно преместване: %s</string>
+    <string name="downloading_failed_file_already_exists">Изтеглянето не бе успешно. Файл с име %s вече съществува</string>
+    <string name="selected_records_moved_into_trash">Избраните записи бяха преместени в кошчето</string>
+    <string name="record_imported_successfully">Записът е импортиран успешно</string>
+    <string name="cant_import_files">Не мога да импортирам файлове</string>
+    <string name="file_browser">файлов браузър</string>
+    <string name="private_dir">Частна директория</string>
+    <string name="public_dir">Публична директория</string>
+    <string name="found_in_the_app">Намерено в приложението</string>
+    <string name="not_found_in_the_app">Не е намерено в приложението</string>
+    <string name="in_trash">В кошчето</string>
+    <string name="btn_get_started">Започнете</string>
+    <string name="btn_apply">Приложи</string>
+    <string name="btn_reset">Нулиране</string>
+    <string name="btn_next">Следващ</string>
+    <string name="view">Преглед</string>
+    <string name="view_records">Преглед на записи</string>
+    <string name="move_records_needed">Необходими записи за преместване</string>
+    <string name="moving_record">Преместващ се запис: %s</string>
+    <string name="moving_record_cancel">Преместването е отменено</string>
+    <string name="move_records_info">Някои от вашите записи все още се съхраняват в публичното хранилище. Скоро публичното хранилище няма да стане достъпно за приложението. Трябва да преместим тези записи в частната директория на приложението.</string>
+    <string name="recording_format">Формат на запис:</string>
+    <string name="bitrate">Битрейт:</string>
+    <string name="channels">Брой канали:</string>
+    <string name="sample_rate">Честота на дискретизация:</string>
+    <string name="size_per_min">%s Mb/min очакван размер</string>
+    <string name="records_location">Местоположение на записите: %s</string>
+    <string name="feature_not_available_in_android_10">Тази функция вече не е налична в Android 10 или по-нова версия.</string>
+    <string name="move_records">Преместване на %d записа</string>
+    <string name="error_failed_to_restore">Възстановяването на записа не бе успешно!</string>
+    <string name="error_failed_to_delete">Неуспешно изтриване на записа!</string>
+    <string name="move_public_storage_records_message">Необходимо е преместване на публични записи за съхранение</string>
+    <string name="later">По късно</string>
+    <string name="move">Премести се</string>
+    <string name="move_all">Премести всичко</string>
+    <string name="info_format"><b>M4a</b> форматът е кодиран с AAC аудио кодек, има добро качество и малък размер. <b>(препоръчва се)</b>
+		\n<b>Wav</b> е некомпресиран формат на аудио данни. Заема много повече място от другите формати. Необходим е за конкретни случаи.
+		\n<b>3gp</b> е формат за мултимедиен контейнер, разработен за мобилни телекомуникационни услуги. Използвайте го, ако трябва да спестите място.
+		</string>
+    <string name="info_frequency"><b>честота на извадка</b> е броят на семплите на аудио, пренасяни в секунда.
+		\n<b>48kHz</b> е честотата на дискретизация, използвана за DVD дискове.
+		\n<b>44,1kHz</b> е честотата на дискретизация на аудио компактдискове. <b>(препоръчва се)</b>
+		\n<b>22kHz</b> популярна честота на дискретизация за ниска скорост на предаване, като 64 kbps.
+		\n<b>8kHz</b> честотата на дискретизация има по-малка честотна лента от съвременните телефонни системи. Не е подходящ за сериозна задача за запис.
+		</string>
+    <string name="info_bitrate"><b>Битрейт</b> е размерът на данни за секунда звук. Пряко влияе върху качеството и размера на записа.
+		\n<b>256 kbps</b> битрейт с добро качество.
+		\n<b>192 kbps</b> битрейт със средно качество.
+		\n<b>128 kbps</b> качество на битрейта от среден диапазон. Общ битрейт за подкасти. <b>(препоръчва се)</b>
+		\n<b>96 kbps</b> обикновено се използва за говор или стрийминг с ниско качество.
+		\n<b>48 kbps</b> общоприемливо само за реч.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> записват се два отделни канала. Това означава, че всеки стерео високоговорител има различен звуков сигнал. <b>(препоръчва се)</b>
+		\n<b>Mono</b> се записва един сигнален канал. Може да се възпроизведе през няколко високоговорителя, но всички високоговорители все още възпроизвеждат едно и също копие на сигнала.
+		</string>
+    <string name="info_3gp"><b>3gp</b> е формат за мултимедиен контейнер, разработен за мобилни телекомуникационни услуги. Използвайте го, ако трябва да спестите място.</string>
+    <string name="info_m4a"><b>M4a</b> форматът е кодиран с AAC аудио кодек, има добро качество и малък размер. <b>(препоръчва се)</b></string>
+    <string name="info_wav"><b>Wav</b> е некомпресиран формат на аудио данни. Заема много повече място от другите формати. Необходим е за конкретни случаи.</string>
+    <string name="info_stereo"><b>Stereo</b> записват се два отделни канала. Това означава, че всеки стерео високоговорител има различен звуков сигнал. <b>(recommended)</b></string>
+    <string name="info_mono"><b>Mono</b> се записва един сигнален канал. Може да се възпроизведе през няколко високоговорителя, но всички високоговорители все още възпроизвеждат едно и също копие на сигнала.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> общоприемливо само за реч.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> обикновено се използва за говор или стрийминг с ниско качество.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> качество на битрейта от среден диапазон. Общ битрейт за подкасти. <b>(препоръчва се)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> битрейт със средно качество.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> битрейт с добро качество.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> честотата на дискретизация има по-малка честотна лента от съвременните телефонни системи. Не е подходящ за сериозна задача за запис.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> е по-добре от 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> популярна честота на дискретизация за ниска скорост на предаване, като 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> е малко по-добър от 22kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> е честотата на дискретизация на аудио компактдискове. <b>(препоръчва се)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> е честотата на дискретизация, използвана за DVD дискове.</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Преместване в кошчето %d избран запис?</item>
+        <item quantity="other">Преместване в кошчето %d избран запис?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Копиране на %d избрания запис към папката за изтегляне?</item>
+        <item quantity="other">Копиране на %d избрания запис към папката за изтегляне?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">Сподели %d запис</item>
+        <item quantity="other">Сподели %d запис</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d записът е изтеглен успешно</item>
+        <item quantity="other">%d записите са изтеглени успешно</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d записът е преместен успешно</item>
+        <item quantity="other">%d записът е преместен успешно</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">Неуспешно изтегляне на %d запис</item>
+        <item quantity="other">Неуспешно изтегляне на %d запис</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Неуспешно преместване на %d запис</item>
+        <item quantity="other">Неуспешно преместване на %d запис</item>
+    </plurals>
+    <string name="cancel">отменете</string>
+    <string name="hold_to_record_audio">Задръжте за запис, освободете, за да запазите</string>
+    <string name="mal_title_about">относно</string>
+    <string name="mal_title_licenses">Лицензи</string>
+    <string name="mal_close">Близо</string>
+    <string name="mal_send_email">Изпратете имейл</string>
+    <string name="mal_activity_exception">Няма приложения, които да обработват действието</string>
+    <string name="auther1">© 2022 Ахмед Саад</string>
+    <string name="version">Версия</string>
+    <string name="Licenses">Лицензи</string>
+    <string name="Author">Автор</string>
+    <string name="name">Ахмед Саад</string>
+    <string name="egypt">Египет</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Удобство</string>
+    <string name="Rate_app">Оценете това приложение</string>
+    <string name="Send">Изпрати имейл</string>
+    <string name="Call">Обади ми се</string>
+    <string name="Visit">Посетете Египет</string>
+    <string name="save_as">Запазване като&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Записът ще бъде копиран в директорията „Изтегляния“.</string>
+    <string name="app_widget_description">Стартирайте приспособлението за запис</string>
+    <string name="error_failed_to_start_recording">Неуспешно стартиране на записа</string>
+    <string name="details_file_is_not_available">За съжаление, приложението вече няма достъп до публичното хранилище на Android. Можете да намерите файла със записа на вашия смартфон на това място: %s</string>
+    <string name="title_file_is_not_available">Няма достъп до файла със запис!</string>
+    <string name="button_record">Записвайте</string>
+    <string name="button_stop">Спри се</string>
+    <string name="button_resume">Продължи</string>
+    <string name="button_finish">завършек</string>
+
+</resources>

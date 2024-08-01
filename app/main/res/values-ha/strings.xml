@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Al-Qur\'ani Mai Girma</string>
+    <string name="lang">ha</string>
+    <string name="turnlang">Canza yaren</string>
+    <string name="sharefacebook">Raba mahadar app din (Facebook)</string>
+    <string name="sharetwitter">Raba mahadar app din (Twitter)</string>
+    <string name="sharegmail">Raba mahadar app din (Gmail)</string>
+    <string name="sharewhatapp">Raba mahadar app din (What\'s App)</string>
+    <string name="shareinstagram">Raba mahadar app din (Instagram)</string>
+    <string name="sharetumblr">Raba mahadar app din (Tumblr)</string>
+    <string name="shareviber">Raba mahadar app din (Viber)</string>
+    <string name="sharelinkedin">Raba mahadar app din (Linkedin)</string>
+    <string name="sharesnapchat">Raba mahadar app din (Snapchat)</string>
+    <string name="shareskype">Raba mahadar app din (Skype)</string>
+    <string name="sharetelegram">Raba mahadar app din (Telegram)</string>
+    <string name="sharereddit">Raba mahadar app din (Reddit)</string>
+    <string name="dialog_title">Wani sabon version yana samuwa</string>
+    <string name="dialog_message">Akwai sabon sigar app din, don Allah danna ƙasa don sabunta sabon sigar.</string>
+    <string name="dialog_positive_button_title">Sabuntawa</string>
+    <string name="slide_to_cancel">Ja don sokewa</string>
+    <string name="hold_button_to_record">Fara rikodi</string>
+    <string name="hold_button_to_record2">Lokacin yin rajista, da fatan za a ci gaba da taɓa</string>
+    <string name="fetchs">Hadin Intanet</string>
+    <string name="wifion">WIFI</string>
+    <string name="records">bayanan</string>
+    <string name="settingss">Saituna</string>
+    <string name="store_records_public">Adana bayanan a cikin babban fayil na jama\'a</string>
+    <string name="record_in_stereo">Sautin sitiriyo</string>
+    <string name="keep_screen_on">Karka kashe allo yayin yin rikodi</string>
+    <string name="total_duration">Jimlar Lokacin rikodin: %s</string>
+    <string name="total_record_count">Jumillar adadin records: %d</string>
+    <string name="available_space">Samun sarari: %s</string>
+    <string name="delete_all">Share duk rikodin</string>
+    <string name="warning">Gargadi!</string>
+    <string name="delete_record">Matsa zuwa (Sake Bin Bin) %s</string>
+    <string name="delete_all_records">Share duk records da kuma ba za a iya samun su sake?</string>
+    <string name="all_records_deleted">An yi nasarar share dukkan bayanan</string>
+    <string name="failed_to_delete_all_records">Ba a yi nasarar share duk bayanan ba</string>
+    <string name="please_select_record_to_share">Da fatan za a zabi ko yin rikodin fayil mai sauti don rabawa</string>
+    <string name="record_name">sabon suna</string>
+    <string name="recording">Rajista: %s</string>
+    <string name="recording_is_on">Rikodin na kunne</string>
+    <string name="recording_progress">Rijista …</string>
+    <string name="recording_paused">rikodin an dakatar da shi</string>
+    <string name="playback">Wasa: %s</string>
+    <string name="no_records">Bayanan babu komai a ciki.</string>
+    <string name="no_bookmarks">Alamomin babu komai a ciki.</string>
+    <string name="bookmarks">Alamomin</string>
+    <string name="share_record">Raba Rajista: %s</string>
+    <string name="import_progress">Ana shigo da fayel din…</string>
+    <string name="record_processing">Ana aiwatar da fayil ɗin …</string>
+    <string name="app_settings">Saitunan sauti:</string>
+    <string name="recording_settings">Saitin Rikodi:</string>
+    <string name="other_settings">Sauran:</string>
+    <string name="today">Yau</string>
+    <string name="yesterday">jiya</string>
+    <string name="btn_save">adana fayil ɗin</string>
+    <string name="btn_savee">An dai sauya suna cikin nasara</string>
+    <string name="btn_cancel">An soke</string>
+    <string name="btn_cancell">Sunan canji soke</string>
+    <string name="btn_c">An soke share fayil ɗin</string>
+    <string name="btn_cc">Sharewa</string>
+    <string name="btn_ccc">An share fayil cikin nasara</string>
+    <string name="btn_cccc">Soke Delete fayiloli</string>
+    <string name="btn_ccccc">An yi nasarar share dukkan bayanan</string>
+    <string name="btn_cancelll">ƙarewa</string>
+    <string name="btn_yes">Ee</string>
+    <string name="btn_no">A\'a</string>
+    <string name="btn_play">Run da fayil player</string>
+    <string name="error_unknown">Ba a sani ba kuskure</string>
+    <string name="error_cant_create_file">Ba za a iya ƙirƙirar fayil ba</string>
+    <string name="error_invalid_output_file">Fayil ɗin fitarwa bai da inganci</string>
+    <string name="error_file_exists">Fayil tare da wannan sunan ya riga ya kasance!</string>
+    <string name="error_failed_to_rename">Ba a yi nasarar sake sunan rajista!</string>
+    <string name="error_failed_to_init_recorder">An kasa fara rakodi</string>
+    <string name="error_failed_to_init_player">An kasa farawa</string>
+    <string name="error_player_data_source">Mai kunnawa baya iya karanta fayel</string>
+    <string name="error_unable_to_read_sound_file">An kasa kunna fileyar mai saurare</string>
+    <string name="error_permission_denied">A request ga izinin da aka hana</string>
+    <string name="recordtoast">Lokacin da aka yi rikodin shi ne:</string>
+    <string name="open_record_with">Bude %s tare da</string>
+    <string name="delete">Sharewa</string>
+    <string name="rename">Sake suna</string>
+    <string name="open_with">bude ta amfani da</string>
+    <string name="download">Zazzagewa</string>
+    <string name="share">Raba</string>
+    <string name="ask_to_rename">Nuna cikin Sake suna maganganu bayan tsayawa rikodi</string>
+    <string name="record_deleted_successfully">An share fayil cikin nasara</string>
+    <string name="need_write_permission">App ɗin yana buƙatar izini don samun damar ajiya na jama\'a. Idan ba a ba da izini ba, ana adana rajistan ayyukan a cikin directory ɗin don aikace-aikacen</string>
+    <string name="rec_name">Suna:</string>
+    <string name="rec_format">format:</string>
+    <string name="rec_duration">duration:</string>
+    <string name="rec_size">girman:</string>
+    <string name="rec_location">Wurin fayil:</string>
+    <string name="naming">suna:</string>
+    <string name="private_dir_warning">Za a adana rajistan ayyukan a cikin jagorar don aikace-aikacen kuma ba a bayyane ga sauran aikace-aikacen ba</string>
+    <string name="public_dir_warning">Za a adana rajistan ayyukan a cikin tsarin da aka raba a kan na\'urarka wanda yake bayyane ga sauran aikace-aikace</string>
+    <string name="btn_ok">KO</string>
+    <string name="btn_deny">kar a yarda</string>
+    <string name="btn_allow">ba da damar</string>
+    <string name="error_process_waveform">A waveform ba za a iya kõma</string>
+    <string name="records_was_removed">Ba a sami wasu fayilolin log ɗin a cikin directory ɗin log ɗin ba. Yana yiwuwa an cire ko kuma koma.</string>
+    <string name="dont_ask_again_rename">Kada ku yi tambaya ga sake suna sake</string>
+    <string name="error_lost_records">An share wasu bayananku ko kuma an motsa su</string>
+    <string name="delete_record_forever">Share rajista %s na har abada?</string>
+    <string name="restore_record">Dawo da log %s?</string>
+    <string name="empty">fanko</string>
+    <string name="record_moved_into_trash">An koma rikodin zuwa shara ɗin kwandon shara</string>
+    <string name="record_restored_successfully">Dawo da rajistar nasarar</string>
+    <string name="rec_frequency">firekanshi:</string>
+    <string name="trash">Wastebasket</string>
+    <string name="trash_info">Rikodin da aka matsar da Shara za a cire su har abada a cikin kwanaki 60.</string>
+    <string name="error_no_available_space">Babu sarari samuwa!</string>
+    <string name="rec_created">An kirkiro:</string>
+    <string name="info">informations</string>
+    <string name="cancel_rec">An soke rajista</string>
+    <string name="delete_all2">Share duka</string>
+    <string name="lost_records">records rasa</string>
+    <string name="btn_details">da cikakken bayani</string>
+    <string name="error_failed_access_to_storage">Ba a yi nasarar samun damar fayil ajiya</string>
+    <string name="downloading_cancel">Soke download</string>
+    <string name="downloading_success">Sauke a kan download directory %s</string>
+    <string name="downloading_failed">Rashin nasara Sauke: %s</string>
+    <string name="downloading">Sauke: %s</string>
+    <string name="by_date">By kwanan (mafi yawan \'yan)</string>
+    <string name="by_date_desc">By kwanan (mafi tsufa)</string>
+    <string name="by_name">By sunan (A-Z)</string>
+    <string name="by_name_desc">By sunan (Z-A)</string>
+    <string name="by_duration">By duration (A tallest)</string>
+    <string name="by_duration_desc">By duration (guntu)</string>
+    <string name="delete_this_record">Share wannan rikodin?</string>
+    <string name="all_records_deleted_successfully">An yi nasarar share dukkan bayanan</string>
+    <string name="refresh">Refresh</string>
+    <string name="find">gano</string>
+    <string name="share_via">Raba ta</string>
+    <string name="copy_link">Kwafi mahada</string>
+    <string name="copied_to_clipboard">Kofe zuwa allo mai rike takarda</string>
+    <string name="finalback">Danna sake don komawa zuwa babban menu</string>
+    <string name="back">Danna sake don fita</string>
+    <string name="about">Game da app</string>
+    <string name="error_on_recording">Kuskuren Rijista!</string>
+    <string name="settings">Saituna</string>
+    <string name="recording_feature_disabled">An kashe fasalin yin rikodi</string>
+    <string name="selected">%d zaba</string>
+    <string name="processing_canceled">An soke sarrafawa</string>
+    <string name="record_calculation">Lissafin waveform&#8230;</string>
+    <string name="restore">mayar</string>
+    <string name="dont_ask_again">kar ka sake tambaya</string>
+    <string name="downloading_success_and_fail_count">%d an zazzage rikodin cikin nasara kuma %d sun kasa saukewa</string>
+    <string name="moving_records_success_and_fail_count">%d bayanan sun motsa cikin nasara kuma %d sun kasa motsawa</string>
+    <string name="move_record_success">%s an koma cikin kundin adireshin sirri na aikace-aikacen</string>
+    <string name="move_record_failed">Ba a yi nasarar motsawa ba: %s</string>
+    <string name="downloading_failed_file_already_exists">An kasa saukewa. Fayil mai suna %s ya riga ya wanzu</string>
+    <string name="selected_records_moved_into_trash">An matsar da fayilolin da aka zaɓa zuwa sharar gida</string>
+    <string name="record_imported_successfully">An shigo da rikodin cikin nasara</string>
+    <string name="cant_import_files">Ba za a iya shigo da fayiloli ba</string>
+    <string name="file_browser">fayil browser</string>
+    <string name="private_dir">Mai zaman kansa directory</string>
+    <string name="public_dir">Jama\'a directory</string>
+    <string name="found_in_the_app">An samo a cikin app</string>
+    <string name="not_found_in_the_app">Ba a samu a cikin app ba</string>
+    <string name="in_trash">A cikin shara</string>
+    <string name="btn_get_started">Fara farawa</string>
+    <string name="btn_apply">Aiwatar</string>
+    <string name="btn_reset">Sake saitin</string>
+    <string name="btn_next">na gaba</string>
+    <string name="view">kallo</string>
+    <string name="view_records">Duba rikodin</string>
+    <string name="move_records_needed">Matsar da rikodin da ake bukata</string>
+    <string name="moving_record">Matsar da rikodin: %s</string>
+    <string name="moving_record_cancel">An soke canja wuri</string>
+    <string name="move_records_info">Wasu bayananku har yanzu ana adana su a ma\'ajin jama\'a. Ba da daɗewa ba ma\'ajiyar jama\'a ba za ta kasance ba don ƙa\'idar. Muna buƙatar matsar da waɗannan bayanan zuwa kundin adireshin sirri na app.</string>
+    <string name="recording_format">Tsarin rikodi:</string>
+    <string name="bitrate">Bitrate:</string>
+    <string name="channels">Channel count:</string>
+    <string name="sample_rate">Samfura ƙididdigewa:</string>
+    <string name="size_per_min">%s Mb/min girman girman da ake tsammanin</string>
+    <string name="records_location">Wurin yin rikodin: %s</string>
+    <string name="feature_not_available_in_android_10">Ba a samun wannan fasalin a cikin Android 10 ko sama da haka.</string>
+    <string name="move_records">Matsar %d rikodin</string>
+    <string name="error_failed_to_restore">Ba a yi nasarar maido da rikodin ba!</string>
+    <string name="error_failed_to_delete">Ba a yi nasarar goge rikodin ba!</string>
+    <string name="move_public_storage_records_message">Ana buƙatar matsar da bayanan ajiyar jama\'a</string>
+    <string name="later">daga baya</string>
+    <string name="move">Matsar</string>
+    <string name="move_all">Matsar da komai</string>
+    <string name="start_recording">Fara Rikodi</string>
+    <string name="btn_import">Shigo da</string>
+    <string name="info_format"><b>M4a</b> format ne encoded tare da AAC audio codec yana da kyau inganci da kananan size. <b>(shawarar)</b>
+		\n<b>Wav</b>shi ne uncompressed audio data format. Yana ɗaukar sarari fiye da sauran tsare-tsare. Ana buƙata don takamaiman lokuta.
+		\n<b>3gp</b> sigar kwantena ce ta multimedia da aka haɓaka don sabis na sadarwar wayar hannu. Yi amfani da shi idan kuna buƙatar ajiye sarari.
+		</string>
+    <string name="info_frequency"><b>Sample Rate</b> shine adadin samfuran sautin da ake ɗauka a cikin daƙiƙa guda.
+		\n<b>48kHz</b> shine adadin samfurin da ake amfani da shi don DVD.
+		\n<b>44,1kHz</b> shine ƙimar samfurin CD na Audio. <b>(shawarar)</b>
+		\n<b>22kHz</b> mashahurin samfurin ƙima don ƙarancin bit kamar 64 kbps.
+		\n <b>8kHz</b> ƙimar samfurin yana da ƙarancin bandwidth fiye da tsarin tarho na zamani. Bai dace da kowane babban aikin rikodi ba.
+		</string>
+    <string name="info_bitrate"><b>Bitrate</b> shine girman bayanai a cikin sakan daya na sauti. Kai tsaye yana rinjayar ingancin rikodi da girman.
+		\n<b>256 kbps</b> mai kyau ingancin bitrate.
+		\n<b>192 kbps</b> matsakaicin ingancin bitrate.
+		\n<b>128 kbps</b> matsakaici.tsawon ingancin bitrate. Common bitrate don kwasfan fayiloli. <b>(shawarar)</b>
+		\n<b>96 kbps</b> gabaɗaya ana amfani da shi don magana ko ƙarancin inganci.
+		\n<b>48 kbps</b> gabaɗaya karɓuwa kawai don magana.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> Ana yin rikodin tashoshi daban-daban guda biyu. Wannan yana nufin kowane lasifikar sitiriyo yana da siginar sauti daban-daban. <b>(shawarar)</b>
+		\n<b>Mono</b> Ana rikodin tashar sigina ɗaya. Ana iya sake bugawa ta hanyar lasifika da yawa, amma duk masu iya magana suna sake yin kwafin siginar iri ɗaya.
+		</string>
+    <string name="info_3gp"><b>3gp</b> sigar kwantena ce ta multimedia da aka haɓaka don sabis na sadarwar wayar hannu. Yi amfani da shi idan kuna buƙatar ajiye sarari.</string>
+    <string name="info_m4a"><b>M4a</b> format ne encoded tare da AAC audio codec yana da kyau inganci da kananan size. <b>(shawarar)</b></string>
+    <string name="info_wav"><b>Wav</b> shi ne uncompressed audio data format. Yana ɗaukar sarari fiye da sauran tsare-tsare. Ana buƙata don takamaiman lokuta.</string>
+    <string name="info_stereo"><b>Stereo</b> Ana yin rikodin tashoshi daban-daban guda biyu. Wannan yana nufin kowane lasifikar sitiriyo yana da siginar sauti daban-daban. <b>(shawarar)</b></string>
+    <string name="info_mono"><b>Mono</b> Ana rikodin tashar sigina ɗaya. Ana iya sake bugawa ta hanyar lasifika da yawa, amma duk masu iya magana suna sake yin kwafin siginar iri ɗaya.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> gabaɗaya karɓuwa kawai don magana.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> gabaɗaya ana amfani da shi don magana ko ƙarancin inganci.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> tsakiya kewayon bitrate inganci. Common bitrate don kwasfan fayiloli. <b>(shawarar)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> matsakaicin ingancin bitrate.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> mai kyau ingancin bitrate.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> ƙimar samfurin yana da ƙarancin bandwidth fiye da tsarin tarho na zamani. Bai dace da kowane babban aikin rikodi ba.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> yana da kyau fiye da 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> mashahurin samfurin ƙima don ƙarancin bit kamar 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> ya fi kyau fiye da 22kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> shine adadin samfurin CD na Audio. <b>(shawarar)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> shine adadin samfurin da ake amfani da shi don DVD.</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Matsar zuwa sharar %d rikodin da aka zaɓa?</item>
+        <item quantity="other">Matsar zuwa sharar %d rikodin da aka zaɓa?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Kwafi %d rikodin da aka zaɓa zuwa babban fayil ɗin Zazzagewa?</item>
+        <item quantity="other">Kwafi %d rikodin da aka zaɓa zuwa babban fayil ɗin Zazzagewa?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">Raba %d rikodin</item>
+        <item quantity="other">Raba %d rikodin</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d zazzage rikodin nasara</item>
+        <item quantity="other">%d zazzage rikodin nasara</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d rikodin ya motsa cikin nasara</item>
+        <item quantity="other">%d rikodin ya motsa cikin nasara</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">An kasa saukewa %d rikodin</item>
+        <item quantity="other">An kasa saukewa %d rikodin</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">An kasa motsawa %d rikodin</item>
+        <item quantity="other">An kasa motsawa %d rikodin</item>
+    </plurals>
+    <string name="cancel">Soke</string>
+    <string name="hold_to_record_audio">Riƙe don yin rikodi, saki don adanawa</string>
+    <string name="mal_title_about">game da</string>
+    <string name="mal_title_licenses">Lasisi</string>
+    <string name="mal_close">Rufewa</string>
+    <string name="mal_send_email">Aika imel</string>
+    <string name="mal_activity_exception">Babu ƙa\'idodin da za su iya aiwatar da ayyuka</string>
+    <string name="auther1">© 2022 Ahmad Sa\'ad</string>
+    <string name="version">Sigar</string>
+    <string name="Licenses">Lasisi</string>
+    <string name="Author">Mawallafi</string>
+    <string name="name">Ahmad Sa\'ad</string>
+    <string name="egypt">Masar</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">saukaka</string>
+    <string name="Rate_app">Rate wannan app</string>
+    <string name="Send">Aika imel</string>
+    <string name="Call">Kira ne</string>
+    <string name="Visit">Ziyarci Masar</string>
+    <string name="save_as">Ajiye kamar&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Za a kwafi rikodin zuwa ga \'Downloads\' directory</string>
+    <string name="app_widget_description">Fara rikodin widget din</string>
+    <string name="error_failed_to_start_recording">An kasa fara yin rikodi</string>
+    <string name="details_file_is_not_available">Abin takaici, ƙa\'idar ba ta da damar zuwa ma\'ajiyar jama\'a ta Android. Kuna iya nemo fayil ɗin rikodin akan wayoyinku a wannan wurin: %s</string>
+    <string name="title_file_is_not_available">Babu damar shiga fayil ɗin rikodin!</string>
+    <string name="button_record">Yi rikodin</string>
+    <string name="button_stop">Tsaya</string>
+    <string name="button_resume">Ci gaba</string>
+    <string name="button_finish">Gama</string>
+
+</resources>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Svatý Korán</string>
+    <string name="lang">cs</string>
+    <string name="turnlang">Změňte jazyk</string>
+    <string name="sharetwitter">Sdílejte odkaz na aplikaci(Twitter)</string>
+    <string name="sharefacebook">Sdílejte odkaz na aplikaci(Facebook)</string>
+    <string name="sharegmail">Sdílejte odkaz na aplikaci(Gmail)</string>
+    <string name="sharewhatapp">Sdílejte odkaz na aplikaci(What\'s App)</string>
+    <string name="shareinstagram">Sdílejte odkaz na aplikaci(Instagram)</string>
+    <string name="sharetumblr">Sdílejte odkaz na aplikaci(Tumblr)</string>
+    <string name="shareviber">Sdílejte odkaz na aplikaci(Viber)</string>
+    <string name="sharelinkedin">Sdílejte odkaz na aplikaci(Linkedin)</string>
+    <string name="sharesnapchat">Sdílejte odkaz na aplikaci(Snapchat)</string>
+    <string name="shareskype">Sdílejte odkaz na aplikaci(Skype)</string>
+    <string name="sharetelegram">Sdílejte odkaz na aplikaci(Telegram)</string>
+    <string name="sharereddit">Sdílejte odkaz na aplikaci(Reddit)</string>
+
+    <string name="dialog_title">Nová verze k dispozici</string>
+    <string name="dialog_message">Nová verze aplikace je k dispozici, prosím, klikněte níže pro aktualizaci nejnovější
+        verze.
+    </string>
+    <string name="dialog_positive_button_title">Aktualizace</string>
+    <string name="all_records_deleted">Všechny nahrávky byly úspěšně vymazány</string>
+    <string name="app_settings">Nastavení zvuku:</string>
+    <string name="available_space">Dostupné místo: %s</string>
+    <string name="bookmarks">Referenční signály</string>
+    <string name="btn_cancel">Zrušit</string>
+    <string name="btn_no">Ne</string>
+    <string name="btn_play">Zapněte</string>
+    <string name="btn_save">Uložit</string>
+    <string name="btn_yes">Ano</string>
+    <string name="delete_all">Vymazat všechny záznamy</string>
+    <string name="delete_all_records">Odstranit všechny záznamy nebudou znovu získat?</string>
+    <string name="delete_record">Smazat tento registrace %s?</string>
+    <string name="error_cant_create_file">Nelze vytvořit soubor</string>
+    <string name="error_failed_to_init_player">Nepodařilo se spustit provozní</string>
+    <string name="error_failed_to_init_recorder">Nepodařilo se spustit záznam</string>
+    <string name="error_failed_to_rename">Nepodařilo se přejmenovat registr!</string>
+    <string name="error_file_exists">Soubor s tímto názvem již existuje!</string>
+    <string name="error_invalid_output_file">Výstupní soubor je neplatný</string>
+    <string name="error_permission_denied">Žádost o přístup odepřen</string>
+    <string name="error_player_data_source">Provozovatel nemůže číst soubor</string>
+    <string name="error_unable_to_read_sound_file">Nelze přehrát zvukový soubor</string>
+    <string name="error_unknown">Neznámá chyba</string>
+    <string name="failed_to_delete_all_records">Nepodařilo se odstranit všechny záznamy</string>
+    <string name="fetchs">Připojení k internetu</string>
+    <string name="hold_button_to_record">Spusťte nahrávání</string>
+    <string name="hold_button_to_record2">Při nahrávání, pokračujte prosím na dotek</string>
+    <string name="import_progress">Importovat zvukový soubor&#8230;</string>
+    <string name="keep_screen_on">Nevypne obrazovku během nahrávání</string>
+    <string name="no_bookmarks">Záložky jsou prázdné.</string>
+    <string name="no_records">Záznamy jsou prázdné.</string>
+    <string name="other_settings">Jiné:</string>
+    <string name="playback">Spustit: %s</string>
+    <string name="please_select_record_to_share">Vyberte nebo zaregistrujte zvukový soubor, který chcete sdílet</string>
+    <string name="record_in_stereo">Stereofonní zvuk</string>
+    <string name="record_name">Nové jméno</string>
+    <string name="record_processing">Zpracování souborů&#8230;</string>
+    <string name="recording">Registrace: %s</string>
+    <string name="recording_is_on">záznam je zapnutý</string>
+    <string name="recording_progress">nahrávání&#8230;</string>
+    <string name="recording_paused">pozastaveno</string>
+    <string name="recording_settings">Nastavení registru:</string>
+    <string name="records">Nahrávky</string>
+    <string name="recordtoast">Registrovaný čas je:</string>
+    <string name="settingss">Settings</string>
+    <string name="share_record">Sdílejte registrace: %s</string>
+    <string name="slide_to_cancel">Přetažením zrušit</string>
+    <string name="store_records_public">Uložit záznamy ve veřejné složce</string>
+    <string name="today">Dnes</string>
+    <string name="total_duration">Celkem zaznamenané období: %s</string>
+    <string name="total_record_count">Celkový počet záznamů: %d</string>
+    <string name="warning">Varování!</string>
+    <string name="yesterday">Včera</string>
+    <string name="private_dir_warning">Záznamy budou uloženy v soukromém adresáři aplikace, který není viditelný pro jiné aplikace</string>
+    <string name="public_dir_warning">Záznamy budou uloženy do společného adresáře na vašem zařízení, který je viditelný pro jiné aplikace</string>
+    <string name="error_on_recording">Chyba záznamu!</string>
+
+    <string name="wifion">Wi-Fi</string>
+    <string name="ask_to_rename">Ukázat přejmenování dialog po nahrávce zastavení</string>
+    <string name="btn_allow">dovolit</string>
+    <string name="btn_deny">odmítnout</string>
+    <string name="btn_ok">OK</string>
+    <string name="delete">vymazat</string>
+    <string name="download">stažení</string>
+    <string name="error_process_waveform">Nelze nakreslit průběh</string>
+    <string name="info">informace</string>
+    <string name="naming">Pojmenování:</string>
+    <string name="need_write_permission">Aplikace vyžaduje povolení přístupu k veřejnému úložišti. Pokud to není povoleno, budou záznamy ukládány do soukromého adresáře aplikace</string>
+    <string name="open_record_with">Otevřete %s pomocí</string>
+    <string name="open_with">Otevřít s</string>
+    <string name="rec_duration">Doba trvání:</string>
+    <string name="rec_format">Formát:</string>
+    <string name="rec_location">Umístění souboru:</string>
+    <string name="rec_name">Název:</string>
+    <string name="rec_size">Velikost:</string>
+    <string name="record_deleted_successfully">Záznam byl úspěšně smazán</string>
+    <string name="rename">přejmenovat</string>
+    <string name="share">podíl</string>
+    <string name="delete_all2">Smazat všechny</string>
+    <string name="dont_ask_again_rename">Neptejte přejmenování znovu</string>
+    <string name="error_lost_records">Některé z vašich záznamů byla odstraněna nebo přesunuta</string>
+    <string name="lost_records">Ztracené záznamy</string>
+    <string name="records_was_removed">Některé záznamy soubory nebyl nalezen v adresáři záznamy.Možná byly odstraněny nebo přesunuty.</string>
+    <string name="cancel_rec">Registrace byla zrušena</string>
+    <string name="btn_details">Podrobnosti</string>
+    <string name="delete_record_forever">Smazat tento záznam navždy %s?</string>
+    <string name="empty">Prázdný</string>
+    <string name="error_no_available_space">Není k dispozici prostor!</string>
+    <string name="rec_frequency">Frekvence:</string>
+    <string name="record_moved_into_trash">Záznam byl přesunut do koše</string>
+    <string name="record_restored_successfully">Záznam byl úspěšně obnoven</string>
+    <string name="restore_record">Obnovit tento záznam?</string>
+    <string name="trash">Odpadky</string>
+    <string name="trash_info">Záznamy přesunuté do koše budou navždy odstraněny za 60 dní.</string>
+    <string name="rec_created">Vytvořeno:</string>
+    <string name="error_failed_access_to_storage" >Nepodařilo se získat přístup k úložišti souborů</string>
+    <string name="downloading_cancel" >Stahování bylo zrušeno</string>
+    <string name="downloading_success" >%s stažené do adresáře Stáhnout</string>
+    <string name="downloading_failed" >Stahování se nezdařilo: %s</string>
+    <string name="downloading" >Stahování: %s</string>
+    <string name="by_date" >Podle data (nejnovější)</string>
+    <string name="by_date_desc" >Podle data (nejstarší)</string>
+    <string name="by_name" >Podle jména (A-Z)</string>
+    <string name="by_name_desc" >Podle jména (Z-A)</string>
+    <string name="by_duration" >Podle délky (nejdelší)</string>
+    <string name="by_duration_desc" >Podle délky (nejkratší)</string>
+    <string name="delete_this_record" >Smazat tento záznam?</string>
+    <string name="all_records_deleted_successfully" >Všechny záznamy byly úspěšně odstraněny</string>
+    <string name="refresh">Občerstvit</string>
+    <string name="find">Nalézt</string>
+    <string name="share_via">Sdílet prostřednictvím</string>
+    <string name="copy_link">Kopírovat odkaz</string>
+    <string name="copied_to_clipboard">Zkopírováno do schránky</string>
+    <string name="about">O aplikaci</string>
+    <string name="back">Pro ukončení klikněte znovu</string>
+    <string name="finalback">Dalším kliknutím se vrátíte do hlavní nabídky</string>
+    <string name="btn_savee">Název byl úspěšně upraven</string>
+    <string name="btn_cancell">Změna názvu zrušena</string>
+    <string name="btn_c">Soubor byl smazán</string>
+    <string name="btn_cc">vymazat</string>
+    <string name="btn_ccc">Soubor byl úspěšně smazán</string>
+    <string name="btn_cccc">Soubory byly obnoveny</string>
+    <string name="btn_ccccc">Všechny nahrávky byly úspěšně smazány</string>
+    <string name="btn_cancelll">konec</string>
+    <string name="settings">Nastavení</string>
+    <string name="start_recording">Začít nahrávat</string>
+    <string name="recording_feature_disabled">Funkce nahrávání je vypnuta</string>
+    <string name="selected">%d vybráno</string>
+    <string name="btn_import">Dovážet</string>
+    <string name="processing_canceled">Zpracování je zrušeno</string>
+    <string name="record_calculation">Výpočty tvaru vlny&#8230;</string>
+    <string name="restore">Obnovit</string>
+    <string name="dont_ask_again">Už se neptejte</string>
+    <string name="downloading_success_and_fail_count">%d záznamů bylo úspěšně staženo a %d se nepodařilo stáhnout</string>
+    <string name="moving_records_success_and_fail_count">%d záznamů bylo úspěšně přesunuto a %d se nepodařilo přesunout</string>
+    <string name="move_record_success">%s přesunuto do soukromého adresáře aplikace</string>
+    <string name="move_record_failed">Nepodařilo se přesunout: %s</string>
+    <string name="downloading_failed_file_already_exists">Nepodařilo se stáhnout. Soubor s názvem %s již existuje</string>
+    <string name="selected_records_moved_into_trash">Vybrané záznamy byly přesunuty do koše</string>
+    <string name="record_imported_successfully">Záznam byl úspěšně importován</string>
+    <string name="cant_import_files">Soubory nelze importovat</string>
+    <string name="file_browser">prohlížeč souborů</string>
+    <string name="private_dir">Soukromý adresář</string>
+    <string name="public_dir">Veřejný adresář</string>
+    <string name="found_in_the_app">Nalezeno v aplikaci</string>
+    <string name="not_found_in_the_app">Nenalezeno v aplikaci</string>
+    <string name="in_trash">V popelnici</string>
+    <string name="btn_get_started">Začněte</string>
+    <string name="btn_apply">Aplikovat</string>
+    <string name="btn_reset">Resetovat</string>
+    <string name="btn_next">další</string>
+    <string name="view">Pohled</string>
+    <string name="view_records">Prohlížení záznamů</string>
+    <string name="move_records_needed">Potřebné přesunout záznamy</string>
+    <string name="moving_record">Pohyblivý záznam: %s</string>
+    <string name="moving_record_cancel">Stěhování zrušeno</string>
+    <string name="move_records_info">Některé z vašich záznamů jsou stále uloženy ve veřejném úložišti. Brzy nebude veřejné úložiště pro aplikaci dostupné. Tyto záznamy musíme přesunout do soukromého adresáře aplikace.</string>
+    <string name="recording_format">Záznamový formát:</string>
+    <string name="bitrate">Bitová rychlost:</string>
+    <string name="channels">Počet kanálů:</string>
+    <string name="sample_rate">Vzorkovací frekvence:</string>
+    <string name="size_per_min">%s Mb/min očekávaná velikost</string>
+    <string name="records_location">Místo záznamů: %s</string>
+    <string name="feature_not_available_in_android_10">Tato funkce již není k dispozici v systému Android 10 nebo vyšším.</string>
+    <string name="move_records">Přesunout %d záznamů</string>
+    <string name="error_failed_to_restore">Obnovení záznamu se nezdařilo!</string>
+    <string name="error_failed_to_delete">Záznam se nepodařilo smazat!</string>
+    <string name="move_public_storage_records_message">Je potřeba přesunout záznamy veřejného úložiště</string>
+    <string name="later">Později</string>
+    <string name="move">Přestěhovat se</string>
+    <string name="move_all">Přesunout všechny</string>
+    <string name="info_format"><b>M4a</b> formát je zakódován audio kodekem AAC má dobrou kvalitu a malou velikost. <b>(doporučeno)</b>
+		\n<b>Wav</b> je nekomprimovaný formát audio dat. Zabírá mnohem více místa než jiné formáty. Je to potřeba pro konkrétní případy.
+		\n<b>3gp</b> je formát multimediálního kontejneru vyvinutý pro mobilní telekomunikační služby. Použijte jej, pokud potřebujete ušetřit místo.
+		</string>
+    <string name="info_frequency"><b>Vzorkovací frekvence</b> je počet vzorků zvuku přenášených za sekundu.
+		\n<b>48kHz</b> je vzorkovací frekvence používaná pro disky DVD.
+		\n<b>44,1kHz</b> je vzorkovací frekvence audio CD. <b>(doporučeno)</b>
+		\n<b>22kHz</b> populární vzorkovací frekvence pro nízkou přenosovou rychlost, jako je 64 kbps.
+		\n <b>8kHz</b> vzorkovací frekvence má menší šířku pásma než moderní telefonní systémy. Nehodí se pro žádné vážné nahrávací úlohy.
+		</string>
+    <string name="info_bitrate"><b>Bitrate</b> je velikost dat za sekundu zvuku. Přímo ovlivňuje kvalitu a velikost záznamu.
+		\n<b>256 kbps</b> dobrá kvalitní bitrate.
+		\n<b>192 kbps</b> střední kvality bitrate.
+		\n<b>128 kbps</b> mid-range bitrate quality. Common bitrate for podcasts. <b>(doporučeno)</b>
+		\n<b>96 kbps</b> generally used for speech or low-quality streaming.
+		\n<b>48 kbps</b> generally acceptable only for speech.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> two separate channels are recorded. This means that each stereo speaker has a different sound signal. <b>(doporučeno)</b>
+		\n<b>Mono</b> one signal channel is recorded. It can be reproduced through several speakers, but all speakers are still reproducing the same copy of the signal.
+		</string>
+    <string name="info_3gp"><b>3gp</b> je formát multimediálního kontejneru vyvinutý pro mobilní telekomunikační služby. Použijte jej, pokud potřebujete ušetřit místo.</string>
+    <string name="info_m4a"><b>M4a</b> formát je zakódován audio kodekem AAC má dobrou kvalitu a malou velikost. <b>(doporučeno)</b></string>
+    <string name="info_wav"><b>Wav</b> je nekomprimovaný formát audio dat. Zabírá mnohem více místa než jiné formáty. Je to potřeba pro konkrétní případy.</string>
+    <string name="info_stereo"><b>Stereo</b> jsou zaznamenány dva samostatné kanály. To znamená, že každý stereo reproduktor má jiný zvukový signál. <b>(doporučeno)</b></string>
+    <string name="info_mono"><b>Mono</b> je zaznamenán jeden signálový kanál. Může být reprodukován prostřednictvím několika reproduktorů, ale všechny reproduktory stále reprodukují stejnou kopii signálu.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> obecně přijatelné pouze pro řeč.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> obecně používané pro řeč nebo streamování nízké kvality.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> střední kvalita bitrate. Běžný datový tok pro podcasty. <b>(doporučeno)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> bitrate střední kvality.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> dobrý kvalitní bitrate.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> vzorkovací frekvence má menší šířku pásma než moderní telefonní systémy. Nehodí se pro žádné vážné nahrávací úlohy.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> je lepší než 8 kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> populární vzorkovací frekvence pro nízkou přenosovou rychlost, jako je 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> je o něco lepší než 22 kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> je vzorkovací frekvence audio CD. <b>(doporučeno)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> je vzorkovací frekvence používaná pro disky DVD.</string>
+    <plurals name="delete_selected_records" tools:ignore="MissingQuantity">
+        <item quantity="one">Přesunout do koše %d vybraného záznamu?</item>
+        <item quantity="few">Přesunout do koše %d vybraného záznamu?</item>
+        <item quantity="other">Přesunout do koše %d vybraného záznamu?</item>
+    </plurals>
+    <plurals name="download_selected_records" tools:ignore="MissingQuantity">
+        <item quantity="one">Zkopírovat %d vybraný záznam do složky pro stahování?</item>
+        <item quantity="few">Zkopírovat %d vybraný záznam do složky pro stahování?</item>
+        <item quantity="other">Zkopírovat %d vybraný záznam do složky pro stahování?</item>
+    </plurals>
+    <plurals name="share_records_count" tools:ignore="MissingQuantity">
+        <item quantity="one">Podíl %d záznam</item>
+        <item quantity="few">Podíl %d záznam</item>
+        <item quantity="other">Podíl %d záznam</item>
+    </plurals>
+    <plurals name="downloading_success_count" tools:ignore="MissingQuantity">
+        <item quantity="one">%d záznam byl úspěšně stažen</item>
+        <item quantity="few">%d záznam byl úspěšně stažen</item>
+        <item quantity="other">%d záznam byl úspěšně stažen</item>
+    </plurals>
+    <plurals name="move_records_success_count" tools:ignore="MissingQuantity">
+        <item quantity="one">%d záznam úspěšně přesunut</item>
+        <item quantity="few">%d záznam úspěšně přesunut</item>
+        <item quantity="other">%d záznam úspěšně přesunut</item>
+    </plurals>
+    <plurals name="downloading_failed_count" tools:ignore="MissingQuantity">
+        <item quantity="one">Nepodařilo se stáhnout %d záznam</item>
+        <item quantity="few">Nepodařilo se stáhnout %d záznam</item>
+        <item quantity="other">Nepodařilo se stáhnout %d záznam</item>
+    </plurals>
+    <plurals name="move_records_failed_count" tools:ignore="MissingQuantity">
+        <item quantity="one">Nepodařilo se přesunout %d záznam</item>
+        <item quantity="few">Nepodařilo se přesunout %d záznam</item>
+        <item quantity="other">Nepodařilo se přesunout %d záznam</item>
+    </plurals>
+    <string name="cancel">Zrušit</string>
+    <string name="hold_to_record_audio">Podržením nahrajete, uvolněním uložíte</string>
+    <string name="mal_title_about">O aplikaci</string>
+    <string name="mal_title_licenses">licence</string>
+    <string name="mal_close">Zavřít</string>
+    <string name="mal_send_email">Poslat e-mailem</string>
+    <string name="mal_activity_exception">Žádné aplikace ke zpracování akce</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Verze</string>
+    <string name="Licenses">licence</string>
+    <string name="Author">Autor</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Egypt</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">pohodlí</string>
+    <string name="Rate_app">Ohodnoťte tuto aplikaci</string>
+    <string name="Send">Poslat email</string>
+    <string name="Call">Zavolej mi</string>
+    <string name="Visit">Navštivte Egypt</string>
+    <string name="save_as">Uložit jako&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Záznam bude zkopírován do adresáře \'Downloads\'</string>
+    <string name="app_widget_description">Spusťte widget nahrávání</string>
+    <string name="error_failed_to_start_recording">Nepodařilo se spustit nahrávání</string>
+    <string name="details_file_is_not_available">Bohužel aplikace již nemá přístup k veřejnému úložišti Android. Záznamový soubor naleznete ve svém smartphonu na tomto místě: %s</string>
+    <string name="title_file_is_not_available">Žádný přístup k souboru záznamu!</string>
+    <string name="button_record">Záznam</string>
+    <string name="button_stop">zastavil</string>
+    <string name="button_resume">Životopis</string>
+    <string name="button_finish">Dokončit</string>
+
+</resources>

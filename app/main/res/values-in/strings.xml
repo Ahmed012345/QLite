@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kitab suci Al-Quran</string>
+    <string name="lang">in</string>
+    <string name="turnlang">Ubah bahasanya</string>
+    <string name="sharetwitter">Bagikan tautan aplikasi(Twitter)</string>
+    <string name="sharefacebook">Bagikan tautan aplikasi(Facebook)</string>
+    <string name="sharegmail">Bagikan tautan aplikasi(Gmail)</string>
+    <string name="sharewhatapp">Bagikan tautan aplikasi(What\'s App)</string>
+    <string name="shareinstagram">Bagikan tautan aplikasi(Instagram)</string>
+    <string name="sharetumblr">Bagikan tautan aplikasi(Tumblr)</string>
+    <string name="shareviber">Bagikan tautan aplikasi(Viber)</string>
+    <string name="sharelinkedin">Bagikan tautan aplikasi(Linkedin)</string>
+    <string name="sharesnapchat">Bagikan tautan aplikasi(Snapchat)</string>
+    <string name="shareskype">Bagikan tautan aplikasi(Skype)</string>
+    <string name="sharetelegram">Bagikan tautan aplikasi(Telegram)</string>
+    <string name="sharereddit">Bagikan tautan aplikasi(Reddit)</string>
+    <string name="dialog_title">Versi Baru Tersedia</string>
+    <string name="dialog_message">Versi baru aplikasi tersedia, silakan klik di bawah ini untuk memperbarui versi
+        terbaru.
+    </string>
+    <string name="dialog_positive_button_title">Memperbarui</string>
+    <string name="all_records_deleted">Semua rekaman telah berhasil dihapus</string>
+    <string name="app_settings">Pengaturan Audio:</string>
+    <string name="available_space">Tersedia ruang: %s</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="btn_cancel">Batalkan</string>
+    <string name="btn_no">Tidak</string>
+    <string name="btn_play">Run</string>
+    <string name="btn_save">Simpan</string>
+    <string name="btn_yes">Ya</string>
+    <string name="delete_all">Hapus semua rekaman</string>
+    <string name="delete_all_records">Hapus semua rekaman dan tidak akan bisa diambil?</string>
+    <string name="delete_record">Hapus ini pendaftaran %s?</string>
+    <string name="error_cant_create_file">Tidak dapat membuat file</string>
+    <string name="error_failed_to_init_player">Gagal memulai startup</string>
+    <string name="error_failed_to_init_recorder">Gagal memulai perekaman</string>
+    <string name="error_failed_to_rename">Gagal mengganti nama registri!</string>
+    <string name="error_file_exists">Nama file ini sudah ada!</string>
+    <string name="error_invalid_output_file">File output tidak valid</string>
+    <string name="error_permission_denied">Permintaan izin ditolak</string>
+    <string name="error_player_data_source">operator tidak dapat membaca file</string>
+    <string name="error_unable_to_read_sound_file">Tidak dapat membaca file audio</string>
+    <string name="error_unknown">Kesalahan tidak dikenal</string>
+    <string name="failed_to_delete_all_records">Gagal menghapus semua pendaftaran</string>
+    <string name="fetchs">Koneksi internet</string>
+    <string name="hold_button_to_record">Mulai merekam</string>
+    <string name="hold_button_to_record2">Saat merekam, silakan terus menyentuh</string>
+    <string name="import_progress">Impor file audio …</string>
+    <string name="keep_screen_on">Jangan mematikan layar selama perekaman</string>
+    <string name="no_bookmarks">Bookmark kosong.</string>
+    <string name="no_records">Rekaman kosong.</string>
+    <string name="other_settings">Lainnya:</string>
+    <string name="playback">Jalankan: %s</string>
+    <string name="please_select_record_to_share">Silakan pilih atau daftarkan file audio untuk dibagikan</string>
+    <string name="record_in_stereo">Suara stereo</string>
+    <string name="record_name">Nama baru</string>
+    <string name="record_processing">Pengolahan File …</string>
+    <string name="recording">Pendaftaran: %s</string>
+    <string name="recording_is_on">Rekaman aktif ON</string>
+    <string name="recording_progress">Pendaftaran&#8230;</string>
+    <string name="recording_paused">dijeda</string>
+    <string name="recording_settings">Pengaturan registri:</string>
+    <string name="records">Rekaman</string>
+    <string name="recordtoast">Waktu terdaftar adalah:</string>
+    <string name="settingss">Pengaturan</string>
+    <string name="share_record">Bagikan Pendaftaran: %s</string>
+    <string name="slide_to_cancel">Seret untuk membatalkan</string>
+    <string name="store_records_public">Simpan rekaman di folder publik</string>
+    <string name="today">Hari ini</string>
+    <string name="total_duration">Total periode yang direkam: %s</string>
+    <string name="total_record_count">Total jumlah catatan: %d</string>
+    <string name="warning">Peringatan!</string>
+    <string name="yesterday">Kemarin</string>
+    <string name="private_dir_warning">Catatan akan disimpan di direktori pribadi aplikasi yang tidak terlihat oleh aplikasi lain</string>
+    <string name="public_dir_warning">Catatan akan disimpan di direktori umum di perangkat Anda yang terlihat untuk aplikasi lain</string>
+    <string name="error_on_recording">Kesalahan perekaman!</string>
+
+    <string name="wifion">Wi-Fi</string>
+    <string name="ask_to_rename">Tampilkan mengubah nama dialog setelah perekaman berhenti</string>
+    <string name="btn_allow">mengizinkan</string>
+    <string name="btn_deny">menyangkal</string>
+    <string name="btn_ok">OKE</string>
+    <string name="delete">menghapus</string>
+    <string name="download">diunduh</string>
+    <string name="error_process_waveform">Tidak dapat menggambar bentuk gelombang</string>
+    <string name="info">informasi</string>
+    <string name="naming">Penamaan:</string>
+    <string name="need_write_permission">Aplikasi ini memerlukan izin untuk mengakses penyimpanan publik. Jika tidak diizinkan, catatan akan disimpan di direktori pribadi aplikasi</string>
+    <string name="open_record_with">Buka %s dengan</string>
+    <string name="open_with">Buka dengan</string>
+    <string name="rec_duration">Durasi:</string>
+    <string name="rec_format">Format:</string>
+    <string name="rec_location">Lokasi file:</string>
+    <string name="rec_name">Nama:</string>
+    <string name="rec_size">Ukuran:</string>
+    <string name="record_deleted_successfully">record berhasil dihapus</string>
+    <string name="rename">ganti nama</string>
+    <string name="share">Bagikan</string>
+    <string name="delete_all2">Hapus semua</string>
+    <string name="dont_ask_again_rename">Jangan tanya rename lagi</string>
+    <string name="error_lost_records">Beberapa catatan Anda telah dihapus atau dipindahkan</string>
+    <string name="lost_records">Catatan yang hilang</string>
+    <string name="records_was_removed">Beberapa file catatan tidak ditemukan di direktori catatan.Mungkin mereka dihapus atau dipindahkan.</string>
+    <string name="cancel_rec">Registrasi telah dibatalkan</string>
+    <string name="btn_details">Detail</string>
+    <string name="delete_record_forever">Hapus catatan ini selamanya %s?</string>
+    <string name="empty">Kosong</string>
+    <string name="rec_frequency">Frekuensi:</string>
+    <string name="error_no_available_space">Tidak ada available space!</string>
+    <string name="record_moved_into_trash">Rekam dipindahkan ke sampah</string>
+    <string name="record_restored_successfully">Rekaman berhasil dipulihkan</string>
+    <string name="restore_record">Pulihkan catatan ini?</string>
+    <string name="trash_info">Catatan yang dipindahkan ke tempat sampah akan dihapus selamanya dalam 60 hari.</string>
+    <string name="trash">sampah</string>
+    <string name="rec_created">Dibuat:</string>
+    <string name="error_failed_access_to_storage" >Gagal mengakses penyimpanan file</string>
+    <string name="downloading_cancel" >Pengunduhan dibatalkan</string>
+    <string name="downloading_success" >%s diunduh ke direktori Unduh</string>
+    <string name="downloading_failed" >Gagal mengunduh: %s</string>
+    <string name="downloading" >Mengunduh: %s</string>
+    <string name="by_date" >Menurut tanggal (terbaru)</string>
+    <string name="by_date_desc" >Menurut tanggal (terlama)</string>
+    <string name="by_name" >Berdasarkan nama (A-Z)</string>
+    <string name="by_name_desc" >Berdasarkan nama (Z-A)</string>
+    <string name="by_duration" >Menurut durasi (terlama)</string>
+    <string name="by_duration_desc" >Menurut durasi (terpendek)</string>
+    <string name="delete_this_record" >Hapus catatan ini?</string>
+    <string name="all_records_deleted_successfully" >Semua catatan berhasil dihapus</string>
+    <string name="refresh">Segarkan</string>
+    <string name="find">Temukan</string>
+    <string name="share_via">Bagikan melalui</string>
+    <string name="copy_link">Salin tautan</string>
+    <string name="copied_to_clipboard">Disalin ke papan klip</string>
+    <string name="finalback">Klik lagi untuk kembali ke menu utama</string>
+    <string name="back">Klik lagi untuk keluar</string>
+    <string name="about">Tentang aplikasi</string>
+    <string name="btn_savee">Nama telah berhasil dimodifikasi</string>
+    <string name="btn_cancell">Modifikasi nama dibatalkan</string>
+    <string name="btn_c">File telah dihapus</string>
+    <string name="btn_cc">menghapus</string>
+    <string name="btn_ccc">File telah berhasil dihapus</string>
+    <string name="btn_cccc">File telah dibatalkan penghapusannya</string>
+    <string name="btn_ccccc">Semua rekaman telah berhasil dihapus</string>
+    <string name="btn_cancelll">akhir</string>
+    <string name="settings">Setelan</string>
+    <string name="recording_feature_disabled">Fitur perekaman dinonaktifkan</string>
+    <string name="selected">%d dipilih</string>
+    <string name="processing_canceled">Pemrosesan dibatalkan</string>
+    <string name="record_calculation">Perhitungan bentuk gelombang&#8230;</string>
+    <string name="restore">Memulihkan</string>
+    <string name="dont_ask_again">Jangan tanya lagi</string>
+    <string name="downloading_success_and_fail_count">%d catatan berhasil diunduh dan %d gagal diunduh</string>
+    <string name="moving_records_success_and_fail_count">%d catatan berhasil dipindahkan dan %d gagal dipindahkan</string>
+    <string name="move_record_success">%s dipindahkan ke direktori pribadi aplikasi</string>
+    <string name="move_record_failed">Gagal bergerak: %s</string>
+    <string name="downloading_failed_file_already_exists">Gagal mengunduh. File dengan nama %s sudah ada</string>
+    <string name="selected_records_moved_into_trash">Catatan yang dipilih dipindahkan ke sampah</string>
+    <string name="record_imported_successfully">Rekor berhasil diimpor</string>
+    <string name="cant_import_files">Tidak bisa mengimpor file</string>
+    <string name="file_browser">peramban berkas</string>
+    <string name="private_dir">Direktori pribadi</string>
+    <string name="public_dir">Direktori publik</string>
+    <string name="found_in_the_app">Ditemukan di aplikasi</string>
+    <string name="not_found_in_the_app">Tidak ditemukan di aplikasi</string>
+    <string name="in_trash">Di tempat sampah</string>
+    <string name="btn_get_started">Memulai</string>
+    <string name="btn_apply">Menerapkan</string>
+    <string name="btn_reset">Mengatur ulang</string>
+    <string name="btn_next">Berikutnya</string>
+    <string name="view">Pemandangan</string>
+    <string name="view_records">Lihat rekaman</string>
+    <string name="move_records_needed">Pindahkan Rekor Yang dibutuhkan</string>
+    <string name="moving_record">Rekor bergerak: %s</string>
+    <string name="moving_record_cancel">Pindah dibatalkan</string>
+    <string name="move_records_info">Beberapa catatan Anda masih disimpan di penyimpanan umum. Segera penyimpanan publik akan menjadi tidak tersedia untuk aplikasi. Kita perlu memindahkan catatan itu ke direktori pribadi aplikasi.</string>
+    <string name="recording_format">Format perekaman:</string>
+    <string name="bitrate">Kecepatan bit:</string>
+    <string name="channels">Jumlah saluran:</string>
+    <string name="sample_rate">Tingkat sampel:</string>
+    <string name="size_per_min">%s Mb/mnt ukuran yang diharapkan</string>
+    <string name="records_location">Lokasi rekaman: %s</string>
+    <string name="feature_not_available_in_android_10">Fitur ini tidak lagi tersedia di Android 10 atau lebih tinggi.</string>
+    <string name="move_records">Pindahkan %d record</string>
+    <string name="error_failed_to_restore">Gagal mengembalikan rekaman!</string>
+    <string name="error_failed_to_delete">Gagal menghapus rekaman!</string>
+    <string name="move_public_storage_records_message">Memindahkan catatan penyimpanan publik diperlukan</string>
+    <string name="later">Nanti</string>
+    <string name="move">Pindah</string>
+    <string name="move_all">Pindahkan semua</string>
+    <string name="start_recording">Mulai merekam</string>
+    <string name="btn_import">Impor</string>
+    <string name="info_format"><b>M4a</b> format dikodekan dengan codec audio AAC memiliki kualitas yang baik dan ukuran kecil. <b>(direkomendasikan)</b>
+		\n<b>Wav</b> adalah format data audio yang tidak terkompresi. Dibutuhkan lebih banyak ruang daripada format lain. Ini diperlukan untuk kasus tertentu.
+		\n<b>3gp</b> adalah format wadah multimedia yang dikembangkan untuk layanan telekomunikasi seluler. Gunakan jika Anda perlu menghemat ruang.
+		</string>
+    <string name="info_frequency"><b>Tingkat sampel</b> adalah jumlah sampel audio yang dibawa per detik.
+		\n<b>48kHz</b> adalah laju sampel yang digunakan untuk DVD.
+		\n<b>44,1kHz</b> adalah laju pengambilan sampel CD Audio. <b>(direkomendasikan)</b>
+		\n<b>22kHz</b> sample rate populer untuk bit rate rendah seperti 64 kbps.
+		\n <b>8kHz</b> sample rate memiliki bandwidth lebih sedikit daripada sistem telepon modern. Tidak cocok untuk tugas perekaman yang serius.
+		</string>
+    <string name="info_bitrate"><b>Kecepatan bit</b> adalah ukuran data per detik suara. Secara langsung memengaruhi kualitas dan ukuran perekaman.
+		\n<b>256 kbps</b> bitrate berkualitas baik.
+		\n<b>192 kbps</b> bitrate kualitas menengah.
+		\n<b>128 kbps</b> kualitas bitrate mid-range. Bitrate umum untuk podcast. <b>(direkomendasikan)</b>
+		\n<b>96 kbps</b> umumnya digunakan untuk pidato atau streaming berkualitas rendah.
+		\n<b>48 kbps</b> umumnya hanya dapat diterima untuk pidato.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> dua saluran terpisah direkam. Artinya setiap speaker stereo memiliki sinyal suara yang berbeda. <b>(direkomendasikan)</b>
+		\n<b>Mono</b> satu saluran sinyal direkam. Ini dapat direproduksi melalui beberapa speaker, tetapi semua speaker masih mereproduksi salinan sinyal yang sama.
+		</string>
+    <string name="info_3gp"><b>3gp</b> adalah format wadah multimedia yang dikembangkan untuk layanan telekomunikasi seluler. Gunakan jika Anda perlu menghemat ruang.</string>
+    <string name="info_m4a"><b>M4a</b> format dikodekan dengan codec audio AAC memiliki kualitas yang baik dan ukuran kecil. <b>(direkomendasikan)</b></string>
+    <string name="info_wav"><b>Wav</b> adalah format data audio yang tidak terkompresi. Dibutuhkan lebih banyak ruang daripada format lain. Ini diperlukan untuk kasus tertentu.</string>
+    <string name="info_stereo"><b>Stereo</b> dua saluran terpisah direkam. Artinya setiap speaker stereo memiliki sinyal suara yang berbeda. <b>(direkomendasikan)</b></string>
+    <string name="info_mono"><b>Mono</b> satu saluran sinyal direkam. Ini dapat direproduksi melalui beberapa speaker, tetapi semua speaker masih mereproduksi salinan sinyal yang sama.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> umumnya hanya dapat diterima untuk pidato.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> umumnya digunakan untuk pidato atau streaming berkualitas rendah.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> kualitas bitrate mid-range. Bitrate umum untuk podcast. <b>(direkomendasikan)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> bitrate kualitas menengah.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> bitrate berkualitas baik.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> sample rate memiliki bandwidth lebih sedikit daripada sistem telepon modern. Tidak cocok untuk tugas perekaman yang serius.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> adalah lebih baik dari 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> sample rate populer untuk bit rate rendah seperti 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> sedikit lebih baik dari 22kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> adalah laju pengambilan sampel CD Audio. <b>(direkomendasikan)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> adalah laju sampel yang digunakan untuk DVD.</string>
+    <plurals name="delete_selected_records">
+        <item quantity="other">Pindahkan ke sampah %d rekaman yang dipilih?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="other">Salin %d rekaman yang dipilih ke folder Unduh?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="other">Bagikan %d rekor</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="other">%d rekaman berhasil diunduh</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="other">%d rekaman berhasil dipindahkan</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="other">Gagal mengunduh %d rekaman</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="other">Gagal memindahkan %d rekaman</item>
+    </plurals>
+    <string name="cancel">Membatalkan</string>
+    <string name="hold_to_record_audio">Tahan untuk merekam, lepaskan untuk menyimpan</string>
+    <string name="mal_title_about">Tentang</string>
+    <string name="mal_title_licenses">Lisensi</string>
+    <string name="mal_close">Menutup</string>
+    <string name="mal_send_email">Mengirim email</string>
+    <string name="mal_activity_exception">Tidak ada aplikasi untuk menangani tindakan</string>
+    <string name="auther1">© 2022 Ahmad Saad</string>
+    <string name="version">versi</string>
+    <string name="Licenses">Lisensi</string>
+    <string name="Author">Pengarang</string>
+    <string name="name">Ahmad Saad</string>
+    <string name="egypt">Mesir</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">kenyamanan</string>
+    <string name="Rate_app">Nilai aplikasi ini</string>
+    <string name="Send">Kirim Sebuah email</string>
+    <string name="Call">Panggil saya</string>
+    <string name="Visit">Kunjungi Mesir</string>
+    <string name="save_as">Simpan sebagai&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Catatan akan disalin ke direktori \'Unduhan\'</string>
+    <string name="app_widget_description">Mulai merekam widget</string>
+    <string name="error_failed_to_start_recording">Gagal memulai perekaman</string>
+    <string name="details_file_is_not_available">Sayangnya, aplikasi tersebut tidak lagi memiliki akses ke penyimpanan publik Android. Anda dapat menemukan file rekaman pada ponsel cerdas Anda di lokasi ini: %s</string>
+    <string name="title_file_is_not_available">Tidak ada akses ke file rekaman!</string>
+    <string name="button_record">Catatan</string>
+    <string name="button_stop">Berhenti</string>
+    <string name="button_resume">Melanjutkan</string>
+    <string name="button_finish">Menyelesaikan</string>
+
+</resources>

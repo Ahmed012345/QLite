@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قرآن مقدس</string>
+    <string name="lang">fa</string>
+    <string name="turnlang">تغییر زبان</string>
+    <string name="sharetwitter">به اشتراک گذاری لینک برنامه(Twitter)</string>
+    <string name="sharefacebook">(Facebook)به اشتراک گذاری لینک برنامه</string>
+    <string name="sharegmail">(Gmail)به اشتراک گذاری لینک برنامه</string>
+    <string name="sharewhatapp">به اشتراک گذاری لینک برنامه(What\'s App)</string>
+    <string name="shareinstagram">به اشتراک گذاری لینک برنامه(Instagram)</string>
+    <string name="sharetumblr">به اشتراک گذاری لینک برنامه(Tumblr)</string>
+    <string name="shareviber">(Viber)به اشتراک گذاری لینک برنامه</string>
+    <string name="sharelinkedin">به اشتراک گذاری لینک برنامه(Linkedin)</string>
+    <string name="sharesnapchat">(Snapchat)به اشتراک گذاری لینک برنامه</string>
+    <string name="shareskype">(Skype)به اشتراک گذاری لینک برنامه</string>
+    <string name="sharetelegram">به اشتراک گذاری لینک برنامه(Telegram)</string>
+    <string name="sharereddit">به اشتراک گذاری لینک برنامه(Reddit)</string>
+    <string name="dialog_title">نسخه جدید در دسترس است</string>
+    <string name="dialog_message">نسخه جدیدی از برنامه در دسترس است لطفا برای به روز رسانی آخرین نسخه، زیر را کلیک
+        کنید.
+    </string>
+    <string name="dialog_positive_button_title">به روز رسانی</string>
+    <string name="all_records_deleted">همه ضبط شده اند با موفقیت حذف شده</string>
+    <string name="app_settings">تنظیمات صوتی:</string>
+    <string name="available_space">فضای موجود: %s</string>
+    <string name="bookmarks">سیگنال مرجع</string>
+    <string name="btn_cancel">لغو</string>
+    <string name="btn_no">نه</string>
+    <string name="btn_play">در حال اجرا</string>
+    <string name="btn_save">ذخیره کنید</string>
+    <string name="btn_yes">بله</string>
+    <string name="delete_all">تمام ضبط ها را حذف کنید</string>
+    <string name="delete_all_records">تمام ضبط ها را حذف کنید و قابل بازیابی نخواهید بود؟</string>
+    <string name="delete_record">حذف این ثبت نام %s؟</string>
+    <string name="error_cant_create_file">نمیتوان فایل را ایجاد کرد</string>
+    <string name="error_failed_to_init_player">فشل في بدء التشغيل</string>
+    <string name="error_failed_to_init_recorder">شروع ضبط نشد</string>
+    <string name="error_failed_to_rename">تغییر نام رجیستری ناموفق بود!</string>
+    <string name="error_file_exists">نام این فایل قبل وجود دارد!</string>
+    <string name="error_invalid_output_file">فایل خروجی نامعتبر است</string>
+    <string name="error_permission_denied">درخواست مجوز رد شده است</string>
+    <string name="error_player_data_source">اپراتور نمی توانید فایل به عنوان خوانده شده</string>
+    <string name="error_unable_to_read_sound_file">پخش فایل صوتی امکان پذیر نیست</string>
+    <string name="error_unknown">خطای ناشناخته</string>
+    <string name="failed_to_delete_all_records">حذف همه ثبت نامها نشد</string>
+    <string name="fetchs">اتصال به اینترنت</string>
+    <string name="hold_button_to_record">شروع ضبط</string>
+    <string name="hold_button_to_record2">هنگام ضبط، لطفا به ادامه لمس</string>
+    <string name="import_progress">وارد کردن فایل صوتی …</string>
+    <string name="keep_screen_on">هنگام ضبط صفحه را خاموش نکنید</string>
+    <string name="no_bookmarks">نشانکها خالی هستند</string>
+    <string name="no_records">ضبط خالی.</string>
+    <string name="other_settings">دیگر:</string>
+    <string name="playback">اجرای: %s</string>
+    <string name="please_select_record_to_share">لطفا یک فایل صوتی را برای اشتراک گذاری انتخاب کنید یا ثبت کنید</string>
+    <string name="record_in_stereo">صدای استریو</string>
+    <string name="record_name">نام جدید</string>
+    <string name="record_processing">فایل پردازش …</string>
+    <string name="recording">ضبط: %s</string>
+    <string name="recording_is_on">ضبط روشن است</string>
+    <string name="recording_progress">ضبط&#8230;</string>
+    <string name="recording_paused">مکث کرد</string>
+    <string name="recording_settings">تنظیمات رجیستری:</string>
+    <string name="records">ضبط شده</string>
+    <string name="recordtoast">زمان ثبت شده:</string>
+    <string name="settingss">تنظیمات</string>
+    <string name="share_record">به اشتراک گذاشتن ثبت نام: %s</string>
+    <string name="slide_to_cancel">کشیدن برای لغو</string>
+    <string name="store_records_public">ضبط را در پوشه عمومی ذخیره کنید</string>
+    <string name="today">امروز</string>
+    <string name="total_duration">مجموع دوره ثبت شده: %s</string>
+    <string name="total_record_count">تعداد کل ثبت نام: %d</string>
+    <string name="warning">هشدار!</string>
+    <string name="yesterday">دیروز</string>
+    <string name="private_dir_warning">سوابق در فهرست خصوصی برنامه ذخیره می شوند که برای سایر برنامه ها قابل مشاهده نیست</string>
+    <string name="public_dir_warning">ضبط ها در فهرست مشترک در دستگاه شما ذخیره می شوند که برای سایر برنامه ها قابل مشاهده است</string>
+    <string name="error_on_recording">خطای ضبط!</string>
+
+
+    <string name="wifion">Wi-Fi</string>
+    <string name="btn_c">پرونده حذف نشده است</string>
+    <string name="btn_cancell">نام اصلاح نشده است</string>
+    <string name="btn_cancelll">پایان دادن</string>
+    <string name="btn_cc">حذف</string>
+    <string name="btn_ccc">فایل با موفقیت حذف شد</string>
+    <string name="btn_cccc">بود فایل های پاک شده نیست</string>
+    <string name="btn_ccccc">همه ضبط شده اند با موفقیت حذف شده</string>
+    <string name="btn_savee">نام با موفقیت تغییر کرد</string>
+    <string name="ask_to_rename">نمایش تغییر نام گفت و گو پس توقف ضبط</string>
+    <string name="btn_allow">اجازه</string>
+    <string name="btn_deny">انکار</string>
+    <string name="btn_ok">باشه</string>
+    <string name="delete">حذف</string>
+    <string name="download">دانلود</string>
+    <string name="error_process_waveform">می توانید شکل موج قرعه کشی نیست</string>
+    <string name="info">اطلاعات</string>
+    <string name="naming">نامگذاری:</string>
+    <string name="need_write_permission">این برنامه برای دسترسی به فضای عمومی به مجوز نیاز دارد. در صورت عدم اجازه ، سوابق در فهرست خصوصی برنامه ذخیره می شوند</string>
+    <string name="open_record_with">بازکردن %s با</string>
+    <string name="open_with">بازکردن با</string>
+    <string name="rec_duration">مدت زمان:</string>
+    <string name="rec_format">قالب:</string>
+    <string name="rec_location">محل فایل:</string>
+    <string name="rec_name">نام:</string>
+    <string name="rec_size">اندازه:</string>
+    <string name="record_deleted_successfully">ضبط با موفقیت حذف شد</string>
+    <string name="rename">تغییر نام</string>
+    <string name="share">اشتراک گذاری</string>
+    <string name="delete_all2">همه را حذف کنید</string>
+    <string name="dont_ask_again_rename">دوباره از تغییر نام سؤال نکنید</string>
+    <string name="error_lost_records">برخی از سوابق شما حذف شده یا منتقل شده است</string>
+    <string name="lost_records">سوابق را فراموش کرده اید</string>
+    <string name="records_was_removed">برخی از پرونده های پرونده در فهرست سوابق یافت نشد.احتمالاً آنها حذف شده یا منتقل شده اند.</string>
+    <string name="cancel_rec">ثبت نام لغو شده است</string>
+    <string name="btn_details">جزئیات</string>
+    <string name="delete_record_forever">این رکورد را برای همیشه حذف کنید %s؟</string>
+    <string name="empty">خالی</string>
+    <string name="rec_frequency">فرکانس:</string>
+    <string name="error_no_available_space">هیچ فضای در دسترس است!</string>
+    <string name="record_moved_into_trash">ضبط به سطل زباله منتقل شد</string>
+    <string name="record_restored_successfully">ضبط با موفقیت بازیابی شد</string>
+    <string name="restore_record">بازگرداندن این رکورد؟</string>
+    <string name="trash_info">سوابق منتقل شده به سطل زباله در مدت 60 روز برای همیشه حذف می شوند.</string>
+    <string name="trash">زباله ها</string>
+    <string name="rec_created">ایجاد شده:</string>
+    <string name="error_failed_access_to_storage" >دسترسی به ذخیره سازی پرونده انجام نشد</string>
+    <string name="downloading_cancel" >بارگیری لغو شد</string>
+    <string name="downloading_success" >در فهرست بارگیری بارگیری شد %s</string>
+    <string name="downloading_failed" >دانلود ناموفق بود: %s</string>
+    <string name="downloading" >بارگیری: %s</string>
+    <string name="by_date" >براساس تاریخ (جدیدترین)</string>
+    <string name="by_date_desc" >براساس تاریخ (قدیمی ترین)</string>
+    <string name="by_name" >با نام (ا-ى)</string>
+    <string name="by_name_desc" >با نام (ى-ا)</string>
+    <string name="by_duration" >براساس مدت زمان (طولانی ترین)</string>
+    <string name="by_duration_desc" >براساس مدت زمان (کوتاهترین)</string>
+    <string name="delete_this_record" >این رکورد را حذف کنید؟</string>
+    <string name="all_records_deleted_successfully" >همه سوابق با موفقیت حذف شدند</string>
+    <string name="refresh">تازه کردن</string>
+    <string name="find">یافتن</string>
+    <string name="share_via">اشتراک گذاری از طریق</string>
+    <string name="copy_link">پیوند را کپی کنید</string>
+    <string name="copied_to_clipboard">در کلیپ بورد کپی شد</string>
+    <string name="finalback">دوباره کلیک کنید تا به منوی اصلی برگردید</string>
+    <string name="back">برای خروج دوباره کلیک کنید</string>
+    <string name="about">درباره برنامه</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">انتقال به سطل زباله %d رکورد انتخاب شده؟</item>
+        <item quantity="other">انتقال به سطل زباله %d رکورد انتخاب شده؟</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">کپی %d رکورد انتخاب شده در پوشه دانلود؟</item>
+        <item quantity="other">کپی %d رکورد انتخاب شده در پوشه دانلود؟</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">اشتراک گذاری %d رکورد</item>
+        <item quantity="other">اشتراک گذاری %d رکورد</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">رکورد با موفقیت دانلود شد %d</item>
+        <item quantity="other">رکورد با موفقیت دانلود شد %</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">رکورد با موفقیت جابجا شد %d</item>
+        <item quantity="other">رکورد با موفقیت جابجا شد %d</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">دانلود ناموفق بود %d رکورد</item>
+        <item quantity="other">دانلود ناموفق بود %d رکورد</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">حرکت ناموفق بود %d رکورد</item>
+        <item quantity="other">حرکت ناموفق بود %d رکورد</item>
+    </plurals>
+    <string name="settings">تنظیمات</string>
+    <string name="recording_feature_disabled">قابلیت ضبط غیرفعال است</string>
+    <string name="selected">انتخاب شده است %d</string>
+    <string name="processing_canceled">پردازش لغو شد</string>
+    <string name="record_calculation">محاسبات شکل موج&#8230;</string>
+    <string name="downloading_success_and_fail_count">%d رکوردها با موفقیت دانلود شدند و %d دانلود ناموفق بود</string>
+    <string name="moving_records_success_and_fail_count">%d رکوردها با موفقیت جابجا شدند و %d نتوانست حرکت کند</string>
+    <string name="move_record_success">%s به فهرست خصوصی برنامه منتقل شد</string>
+    <string name="move_record_failed">انتقال انجام نشد: %s</string>
+    <string name="downloading_failed_file_already_exists">دانلود ناموفق بود. فایل با نام %s از قبل وجود دارد</string>
+    <string name="selected_records_moved_into_trash">رکوردهای انتخاب شده به سطل زباله منتقل شدند</string>
+    <string name="record_imported_successfully">رکورد با موفقیت وارد شد</string>
+    <string name="cant_import_files">نمی توان فایل ها را وارد کرد</string>
+    <string name="file_browser">مرورگر فایل</string>
+    <string name="private_dir">راهنمای خصوصی</string>
+    <string name="public_dir">راهنمای کلی</string>
+    <string name="found_in_the_app">در برنامه پیدا شد</string>
+    <string name="not_found_in_the_app">در برنامه یافت نشد</string>
+    <string name="in_trash">در سطل زباله</string>
+    <string name="btn_get_started">شروع کنید</string>
+    <string name="btn_apply">درخواست دادن</string>
+    <string name="btn_reset">تنظیم مجدد</string>
+    <string name="btn_next">بعدی</string>
+    <string name="view">یک پیشنهاد</string>
+    <string name="view_records">مشاهده سیاهههای مربوط</string>
+    <string name="move_records_needed">سوابق باید منتقل شود</string>
+    <string name="moving_record">منتقل کردن. سابقه: %s</string>
+    <string name="moving_record_cancel">انتقال لغو شد</string>
+    <string name="move_records_info">برخی از سوابق شما هنوز در حافظه عمومی ذخیره می شوند. به زودی، حافظه عمومی برنامه دیگر در دسترس نخواهد بود. ما باید این گزارش ها را به دایرکتوری خود برنامه منتقل کنیم.</string>
+    <string name="bitrate">میزان بیت:</string>
+    <string name="channels">تعداد کانال:</string>
+    <string name="sample_rate">نرخ نمونه:</string>
+    <string name="size_per_min">اندازه مورد انتظار مگابایت/دقیقه %s</string>
+    <string name="records_location">محل ضبط: %s</string>
+    <string name="feature_not_available_in_android_10">این ویژگی دیگر در اندروید 10 یا بالاتر موجود نیست.</string>
+    <string name="move_records">انتقال %d سوابق</string>
+    <string name="error_failed_to_restore">بازیابی رجیستری انجام نشد!</string>
+    <string name="error_failed_to_delete">رجیستری حذف نشد!</string>
+    <string name="move_public_storage_records_message">انتقال سوابق ذخیره سازی عمومی الزامی است</string>
+    <string name="later">بعدا</string>
+    <string name="move">منتقل کردن</string>
+    <string name="move_all">حرکت همه</string>
+    <string name="start_recording">شروع به ضبط کنید</string>
+    <string name="btn_import">واردات</string>
+    <string name="restore">بازیابی می کند</string>
+    <string name="dont_ask_again">دیگه نپرس</string>
+    <string name="recording_format">فرمت ضبط:</string>
+    <string name="info_format"> فرمت کدگذاری شده با کدک صوتی AAC دارای کیفیت خوب و اندازه کوچک است.<b>(توصیه شده)</b> <b>M4a</b>
+		\nفرمت داده های صوتی غیرفشرده است. فضای بسیار بیشتری نسبت به فرمت های دیگر می گیرد. برای موارد خاص مورد نیاز است.<b>Wav</b>
+		\nیک قالب کانتینر چند رسانه ای است که برای خدمات مخابراتی سیار توسعه یافته است. اگر نیاز به صرفه جویی در فضا دارید از آن استفاده کنید.<b>3gp</b>
+		</string>
+    <string name="info_frequency"><b>نرخ نمونه</b> تعداد نمونه های صوتی حمل شده در هر ثانیه است.
+		\nنرخ نمونه مورد استفاده برای دی وی دی است.<b>48kHz</b>
+		\nنرخ نمونه برداری از سی دی های صوتی است. <b>(توصیه شده)</b> <b>44,1kHz</b>
+		\nنرخ نمونه محبوب برای نرخ بیت کم مانند 64 کیلوبیت بر ثانیه.<b>22kHz</b>
+		\nنرخ نمونه پهنای باند کمتری نسبت به سیستم های تلفن مدرن دارد. برای هر کار ضبط جدی مناسب نیست.<b>8kHz</b>
+		</string>
+    <string name="info_bitrate"><b>میزان بیت</b> اندازه داده در هر ثانیه صدا است. به طور مستقیم بر کیفیت و اندازه ضبط تأثیر می گذارد.
+		\nنرخ بیت با کیفیت خوب<b>256 kbps</b>
+		\nنرخ بیت با کیفیت متوسط<b>192 kbps</b>
+		\nکیفیت بیت ریت میان رده نرخ بیت رایج برای پادکست ها. <b>(توصیه شده)</b> <b>128 kbps</b>
+		\nبه طور کلی برای گفتار یا پخش جریانی با کیفیت پایین استفاده می شود.<b>96 kbps</b>
+		\nبه طور کلی فقط برای گفتار قابل قبول است.<b>48 kbps</b>
+		</string>
+    <string name="info_channels">
+		 دو کانال جداگانه ضبط می شود. این بدان معناست که هر بلندگوی استریو سیگنال صوتی متفاوتی دارد.<b>(توصیه شده)</b> <b>Stereo</b>
+		\nیک کانال سیگنال ضبط می شود. می توان آن را از طریق چندین بلندگو تکثیر کرد، اما همه بلندگوها همچنان یک کپی از سیگنال را تولید می کنند.<b>Mono</b>
+		</string>
+    <string name="info_3gp"> یک قالب کانتینر چند رسانه ای است که برای خدمات مخابراتی سیار توسعه یافته است. اگر نیاز به صرفه جویی در فضا دارید از آن استفاده کنید.<b>3gp</b></string>
+    <string name="info_m4a"> فرمت کدگذاری شده با کدک صوتی AAC دارای کیفیت خوب و اندازه کوچک است.<b>(توصیه شده)</b> <b>M4a</b></string>
+    <string name="info_wav"> فرمت داده های صوتی غیرفشرده است. فضای بسیار بیشتری نسبت به فرمت های دیگر می گیرد. برای موارد خاص مورد نیاز است.<b>Wav</b></string>
+    <string name="info_stereo"> دو کانال جداگانه ضبط می شود. این بدان معناست که هر بلندگوی استریو سیگنال صوتی متفاوتی دارد.<b>(توصیه شده)</b> <b>Stereo</b></string>
+    <string name="info_mono"> یک کانال سیگنال ضبط می شود. می توان آن را از طریق چندین بلندگو تکثیر کرد، اما همه بلندگوها همچنان یک کپی از سیگنال را تولید می کنند.<b>Mono</b></string>
+    <string name="info_bitrate_48"> به طور کلی فقط برای گفتار قابل قبول است.<b>48 kbps</b></string>
+    <string name="info_bitrate_96"> به طور کلی برای گفتار یا پخش جریانی با کیفیت پایین استفاده می شود.<b>96 kbps</b></string>
+    <string name="info_bitrate_128"> کیفیت بیت ریت میان رده نرخ بیت رایج برای پادکست ها. <b>(توصیه شده)</b> <b>128 kbps</b></string>
+    <string name="info_bitrate_192"> نرخ بیت با کیفیت متوسط<b>192 kbps</b></string>
+    <string name="info_bitrate_256"> نرخ بیت با کیفیت خوب<b>256 kbps</b></string>
+    <string name="info_sample_rate_8k"> نرخ نمونه پهنای باند کمتری نسبت به سیستم های تلفن مدرن دارد. برای هر کار ضبط جدی مناسب نیست.<b>8kHz</b></string>
+    <string name="info_sample_rate_16k"> بهتر از 8 کیلوهرتز است.<b>16kHz</b></string>
+    <string name="info_sample_rate_22k"> نرخ نمونه محبوب برای نرخ بیت کم مانند 64 کیلوبیت بر ثانیه.<b>22kHz</b></string>
+    <string name="info_sample_rate_32k"> کمی بهتر از 22 کیلوهرتز است.<b>32kHz</b></string>
+    <string name="info_sample_rate_44k"> نرخ نمونه برداری از سی دی های صوتی است. <b>(توصیه شده)</b> <b>44,1kHz</b></string>
+    <string name="info_sample_rate_48k"> نرخ نمونه مورد استفاده برای دی وی دی است.<b>48kHz</b></string>
+    <string name="cancel">لغو</string>
+    <string name="hold_to_record_audio">برای ضبط به فشار دادن ادامه دهید، برای ذخیره رها کنید</string>
+    <string name="mal_activity_exception">هیچ اپلیکیشنی برای رسیدگی به کار وجود ندارد</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Version</string>
+    <string name="Licenses">Licenses</string>
+    <string name="Author">Author</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Egypt</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Convenience</string>
+    <string name="Rate_app">Rate this app</string>
+    <string name="Send">Send an email</string>
+    <string name="Call">Call me</string>
+    <string name="Visit">Visit Egypt</string>
+    <string name="mal_title_about">About</string>
+    <string name="mal_title_licenses">Licenses</string>
+    <string name="mal_close">Close</string>
+    <string name="mal_send_email">Send email</string>
+    <string name="save_as">ذخیره به عنوان&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">ضبط در یک دایرکتوری کپی می شود \'Downloads\'</string>
+    <string name="app_widget_description">شروع به ضبط ویجت کنید</string>
+    <string name="error_failed_to_start_recording">شروع ضبط ناموفق بود</string>
+    <string name="details_file_is_not_available">متأسفانه برنامه دیگر به حافظه عمومی اندروید دسترسی ندارد. می توانید فایل رکورد را در تلفن هوشمند خود در این مکان پیدا کنید: %s</string>
+    <string name="title_file_is_not_available">دسترسی به فایل رکورد وجود ندارد!</string>
+    <string name="button_record">رکورد</string>
+    <string name="button_stop">متوقف کردن</string>
+    <string name="button_resume">از سرگیری</string>
+    <string name="button_finish">پایان</string>
+
+</resources>

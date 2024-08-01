@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qurani-Kərim</string>
+    <string name="lang">az</string>
+    <string name="turnlang">Dili dəyişdirin</string>
+    <string name="sharefacebook">Tətbiq bağlantısını Facebook-a paylaşın</string>
+    <string name="sharetwitter">Tətbiq bağlantısını Twitter-də paylaşın</string>
+    <string name="sharegmail">Tətbiq bağlantısını Gmail-ə paylaşın</string>
+    <string name="sharewhatapp">Proqram bağlantısını Whatsapp-da paylaşın</string>
+    <string name="shareinstagram">Proqram bağlantısını (Instagram) paylaşın</string>
+    <string name="sharetumblr">Tətbiq linkini (Tumblr) paylaşın</string>
+    <string name="shareviber">Tətbiq bağlantısını (Viber) paylaşın</string>
+    <string name="sharelinkedin">Tətbiq bağlantısını (Linkedin) bölüşün</string>
+    <string name="sharesnapchat">Tətbiq bağlantısını (Snapchat) paylaşın</string>
+    <string name="shareskype">Tətbiq bağlantısını (Skype) paylaşın</string>
+    <string name="sharetelegram">Tətbiq bağlantısını (Telegram) paylaşın</string>
+    <string name="sharereddit">Tətbiq bağlantısını (Reddit) paylaşın</string>
+    <string name="dialog_title">Yeni versiya mövcuddur</string>
+    <string name="dialog_message">Tətbiqin yeni bir versiyası mövcuddur, son versiyasını yeniləmək üçün aşağıya vurun.</string>
+    <string name="dialog_positive_button_title">Yeniləyin</string>
+    <string name="slide_to_cancel">Ləğv etmək üçün sürükləyin</string>
+    <string name="hold_button_to_record">Start qeyd</string>
+    <string name="hold_button_to_record2">qeydiyyatdan zaman, toxunan saxlamaq edin</string>
+    <string name="fetchs">İnternet bağlantısı</string>
+    <string name="wifion">WIFI</string>
+    <string name="records">Səsyazmalar</string>
+    <string name="settingss">Parametrlər</string>
+    <string name="store_records_public">Səsyazmalar ictimai qovluğunda saxlanılır</string>
+    <string name="record_in_stereo">Stereo səsi</string>
+    <string name="keep_screen_on">Qeyd zamanı ekran sönmür</string>
+    <string name="total_duration">Ümumi qeyd müddəti: %s</string>
+    <string name="total_record_count">Qeydlərin ümumi sayı: %d</string>
+    <string name="available_space">Mövcud kosmik: %s</string>
+    <string name="delete_all">Bütün qeydləri silin</string>
+    <string name="warning">Diqqət!</string>
+    <string name="delete_record">Zibil qutusuna köçürün %s</string>
+    <string name="delete_all_records">Bütün qeydləri silin və bir daha əldə edə bilməyəcəksiniz.</string>
+    <string name="all_records_deleted">Bütün qeydlər uğurla silindi</string>
+    <string name="failed_to_delete_all_records">Bütün qeydləri silə bilmədi</string>
+    <string name="please_select_record_to_share">seçin və ya payı bir audio fayl qeyd edin</string>
+    <string name="record_name">yeni ad</string>
+    <string name="recording">Qeydiyyat: %s</string>
+    <string name="recording_is_on">Qeydiyyat rejimindədir</string>
+    <string name="recording_progress">Abunə olun …</string>
+    <string name="recording_paused">Duraklatılmış</string>
+    <string name="playback">Oyun: %s</string>
+    <string name="no_records">Yazılar boşdur.</string>
+    <string name="no_bookmarks">Əlfəcinlər boşdur.</string>
+    <string name="bookmarks">Əlfəcinlər</string>
+    <string name="share_record">Paylaşma Qeydiyyat: %s</string>
+    <string name="import_progress">Səs faylı idxal edin …</string>
+    <string name="record_processing">Fayl emal …</string>
+    <string name="app_settings">Səs parametrləri:</string>
+    <string name="recording_settings">Registry ayarları:</string>
+    <string name="other_settings">Digər:</string>
+    <string name="today">Bu gün</string>
+    <string name="yesterday">dünən</string>
+    <string name="btn_save">bu saxlamaq</string>
+    <string name="btn_savee">Adı uğurla dəyişdirildi</string>
+    <string name="btn_cancel">Ləğv</string>
+    <string name="btn_cancell">Ad dəyişikliyi ləğv edildi</string>
+    <string name="btn_c">ləğv fayl sil</string>
+    <string name="btn_cc">silmək</string>
+    <string name="btn_ccc">Fayl uğurla silindi</string>
+    <string name="btn_cccc">Fayllar silinməmişdir</string>
+    <string name="btn_ccccc">Bütün qeydlər uğurla silindi</string>
+    <string name="btn_cancelll">bitən</string>
+    <string name="btn_yes">Bəli</string>
+    <string name="btn_no">Yox</string>
+    <string name="btn_play">çalışan</string>
+    <string name="error_unknown">Naməlum səhv</string>
+    <string name="error_cant_create_file">Fayl yarada bilmir</string>
+    <string name="error_invalid_output_file">Çıxış faylı etibarsızdır</string>
+    <string name="error_file_exists">Bu adda olan fayl artıq mövcuddur!</string>
+    <string name="error_failed_to_rename">Reyestrin adını dəyişmək alınmadı!</string>
+    <string name="error_failed_to_init_recorder">Yazmağa başlamaq üçün uğursuz oldu</string>
+    <string name="error_failed_to_init_player">başlamaq üçün uğursuz oldu</string>
+    <string name="error_player_data_source">Pleyer faylı oxuya bilmir</string>
+    <string name="error_unable_to_read_sound_file">audio fayl oxumaq bilmir</string>
+    <string name="error_permission_denied">İcazə tələbi rədd edildi</string>
+    <string name="recordtoast">Yazılan vaxt:</string>
+    <string name="open_record_with">ilə %s açın</string>
+    <string name="delete">silmək</string>
+    <string name="rename">adını dəyişmək</string>
+    <string name="open_with">istifadə edərək açdı</string>
+    <string name="download">Yükləyin</string>
+    <string name="share">Paylaşın</string>
+    <string name="ask_to_rename">Yazmağı dayandırdıqdan sonra yenidən adlandırma informasiya qutusunu göstərin</string>
+    <string name="record_deleted_successfully">Fayl uğurla silindi</string>
+    <string name="need_write_permission">Tətbiq ictimai yaddaşa daxil olmaq üçün icazə tələb edir. İcazə verilmirsə, qeydlər tətbiqin qovluğunda saxlanacaq</string>
+    <string name="rec_name">Isim:</string>
+    <string name="rec_format">format:</string>
+    <string name="rec_duration">Müddət:</string>
+    <string name="rec_size">ölçü:</string>
+    <string name="rec_location">Fayl yeri:</string>
+    <string name="naming">adlandırma:</string>
+    <string name="private_dir_warning">Yazılar tətbiqin qovluğunda saxlanacaq və digər tətbiqlərə görünmür</string>
+    <string name="public_dir_warning">Yazılar digər tətbiqlərə görünən cihazınızdakı paylaşılan qovluqda saxlanacaq</string>
+    <string name="btn_ok">tamam</string>
+    <string name="btn_deny">İmtina</string>
+    <string name="btn_allow">İcazə verin</string>
+    <string name="error_process_waveform">waveform tərtib edilə bilməz</string>
+    <string name="records_was_removed">Bəzi log faylları log kataloq aşkar edilməyib. Silindi və ya köçürüldü.</string>
+    <string name="dont_ask_again_rename">Yenidən adını dəyişməyi xahiş etməyin</string>
+    <string name="error_lost_records">kayıtlarınız bəzi silinmiş və ya köçürülüb</string>
+    <string name="delete_record_forever">Bir qeyd silin %s əbədi?</string>
+    <string name="restore_record">Reyestrinin bərpa %s?</string>
+    <string name="empty">Boş</string>
+    <string name="record_moved_into_trash">Rekord zibil qutusuna daşındı</string>
+    <string name="record_restored_successfully">uğurla rekord bərpa</string>
+    <string name="rec_frequency">tezliyi:</string>
+    <string name="trash">Zibil</string>
+    <string name="trash_info">Zibil qutusuna köçürülən qeydlər 60 gün ərzində əbədi olaraq silinəcəkdir.</string>
+    <string name="error_no_available_space">No kosmik mövcuddur!</string>
+    <string name="rec_created">Yaradılmış:</string>
+    <string name="info">məlumat</string>
+    <string name="cancel_rec">Qeydiyyat ləğv edildi</string>
+    <string name="delete_all2">Sil bütün</string>
+    <string name="lost_records">Records itirilmiş</string>
+    <string name="btn_details">detallar</string>
+    <string name="error_failed_access_to_storage">Fayl storage giriş uğursuz</string>
+    <string name="downloading_cancel">Yükləmə ləğv edildi</string>
+    <string name="downloading_success">Yükləmə kitabçasında yükləndi %s</string>
+    <string name="downloading_failed">Endirilmədi: %s</string>
+    <string name="downloading">Endir: %s</string>
+    <string name="by_date">Tarix üzrə (yeni)</string>
+    <string name="by_date_desc">Tarixə görə (ən qədim)</string>
+    <string name="by_name">Adı ilə (A-Z)</string>
+    <string name="by_name_desc">Adı ilə (Z-A)</string>
+    <string name="by_duration">Müddətə görə (ən uzun)</string>
+    <string name="by_duration_desc">Müddətə görə (ən qısa)</string>
+    <string name="delete_this_record">Bu rekord sil?</string>
+    <string name="all_records_deleted_successfully">Bütün qeydlər uğurla silindi</string>
+    <string name="refresh">təzələmək</string>
+    <string name="find">Tapın</string>
+    <string name="share_via">Vasitəsilə paylaşın</string>
+    <string name="copy_link">Linki kopyalayın</string>
+    <string name="copied_to_clipboard">Panoya kopyalandı</string>
+
+    <string name="about">Proqram haqqında</string>
+    <string name="finalback">Əsas menyuya qayıtmaq üçün yenidən klikləyin</string>
+    <string name="back">Çıxmaq üçün yenidən klikləyin</string>
+    <string name="error_on_recording">Qeydiyyat Xətası!</string>
+    <string name="settings">Parametrlər</string>
+    <string name="start_recording">Qeyd etməyə başlayın</string>
+    <string name="recording_feature_disabled">Səs yazma funksiyası deaktiv edilib</string>
+    <string name="selected">%d seçilmişdir</string>
+    <string name="btn_import">İdxal</string>
+    <string name="processing_canceled">Emal ləğv edilir</string>
+    <string name="record_calculation">Dalğa forması hesablamaları&#8230;</string>
+    <string name="restore">bərpa edin</string>
+    <string name="dont_ask_again">Bir daha soruşma</string>
+    <string name="downloading_success_and_fail_count">%d qeyd müvəffəqiyyətlə endirildi və %d fayl endirilə bilmədi</string>
+    <string name="moving_records_success_and_fail_count">%d qeyd uğurla köçürüldü və %d köçürmə uğursuz oldu</string>
+    <string name="move_record_success">%s tətbiqin şəxsi kataloquna köçürüldü</string>
+    <string name="move_record_failed">Köçürülmədi: %s</string>
+    <string name="downloading_failed_file_already_exists">Endirmək alınmadı. Adı ilə fayl %s artıq mövcuddur</string>
+    <string name="selected_records_moved_into_trash">Seçilmiş Rekord zibil qutusuna köçürüldü</string>
+    <string name="record_imported_successfully">Rekord uğurla idxal edildi</string>
+    <string name="cant_import_files">Faylları idxal etmək mümkün deyil</string>
+    <string name="file_browser">fayl brauzeri</string>
+    <string name="private_dir">"Şəxsi kataloq "</string>
+    <string name="public_dir">İctimai kataloq</string>
+    <string name="found_in_the_app">Tətbiqdə tapıldı</string>
+    <string name="not_found_in_the_app">Tətbiqdə tapılmadı</string>
+    <string name="in_trash">Zibil qutusunda</string>
+    <string name="btn_get_started">Başlamaq</string>
+    <string name="btn_apply">Müraciət edin</string>
+    <string name="btn_reset">Sıfırlayın</string>
+    <string name="btn_next">Sonrakı</string>
+    <string name="view">baxışlar</string>
+    <string name="view_records">Rekord baxın</string>
+    <string name="move_records_needed">Move Rekord tələb olunur</string>
+    <string name="moving_record">Hərəkət edir rekord: %s</string>
+    <string name="moving_record_cancel">Köçürmə ləğv edildi</string>
+    <string name="move_records_info">Bəzi Rekordlar hələ də ictimaiyyətin yaddaşındadır.Tezliklə ictimai yaddaş tətbiq üçün əlçatan olmayacaq. Həmin Rekordlar proqramın şəxsi qovluğuna köçürməliyik.</string>
+    <string name="recording_format">Səsyazma formatı:</string>
+    <string name="bitrate">Bitrate:</string>
+    <string name="channels">Kanal sayı:</string>
+    <string name="sample_rate">Nümunə dərəcəsi:</string>
+    <string name="size_per_min">%s Mb/dəq gözlənilən ölçü</string>
+    <string name="records_location">Rekordlar yerləri: %s</string>
+    <string name="feature_not_available_in_android_10">Bu funksiya artıq Android 10 və ya daha sonrakı versiyalarda mövcud deyil.</string>
+    <string name="move_records">Hərəkət edir %d rekordlar</string>
+    <string name="error_failed_to_restore">Rekordu bərpa etmək alınmadı!</string>
+    <string name="error_failed_to_delete">Silmək uğursuz oldu rekord!</string>
+    <string name="move_public_storage_records_message">İctimai saxlama qeydlərini köçürmək lazımdır</string>
+    <string name="later">sonra</string>
+    <string name="move">Köçür</string>
+    <string name="move_all">Hamısını hərəkət etdirin</string>
+    <string name="info_format"><b>M4a</b> format AAC audio codec ilə kodlanır yaxşı keyfiyyət və kiçik ölçüsü var. <b>(tövsiyə)</b>
+		\n<b>Wav</b> sıxılmamış audio məlumat formatıdır. Digər formatlara nisbətən daha çox yer tutur. Bu, konkret hallar üçün lazımdır.
+		\n<b>3gp</b> mobil telekommunikasiya xidmətləri üçün hazırlanmış multimedia konteyner formatıdır. Yerə qənaət etmək lazımdırsa, ondan istifadə edin.
+		</string>
+    <string name="info_frequency"><b>Nümunə dərəcəsi</b> saniyədə daşınan audio nümunələrinin sayıdır.
+		\n<b>48kHz</b> DVD-lər üçün istifadə olunan nümunə dərəcəsidir.
+		\n<b>44,1kHz</b> Audio CD-lərin seçmə tezliyidir. <b>(tövsiyə)</b>
+		\n<b>22kHz</b> 64 kbps kimi aşağı bit sürəti üçün məşhur nümunə sürəti.
+		\n<b>8kHz</b> nümunə sürəti müasir telefon sistemlərindən daha az ötürmə qabiliyyətinə malikdir. Hər hansı ciddi qeyd tapşırığı üçün uyğun deyil.
+		</string>
+    <string name="info_bitrate"><b>bit sürəti</b> səsin saniyəsi üçün verilənlərin ölçüsüdür. Qeyd keyfiyyətinə və ölçüsünə birbaşa təsir göstərir.
+		\n<b>256 kbps</b> yaxşı keyfiyyətli bit sürəti.
+		\n<b>192 kbps</b> orta keyfiyyətli bit sürəti.
+		\n<b>128 kbps</b> orta diapazonlu bitrate keyfiyyəti. Podkastlar üçün ümumi bit sürəti. <b>(tövsiyə)</b>
+		\n<b>96 kbps</b> ümumiyyətlə nitq və ya aşağı keyfiyyətli yayım üçün istifadə olunur.
+		\n<b>48 kbps</b> ümumiyyətlə yalnız nitq üçün məqbuldur.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> iki ayrı kanal qeydə alınır. Bu o deməkdir ki, hər bir stereo dinamikdə fərqli səs siqnalı var. <b>(tövsiyə)</b>
+		\n<b>Mono</b> bir siqnal kanalı qeydə alınır. O, bir neçə dinamik vasitəsilə çoxalda bilər, lakin bütün dinamiklər hələ də siqnalın eyni surətini çıxarır.
+		</string>
+    <string name="info_3gp"><b>3gp</b> mobil telekommunikasiya xidmətləri üçün hazırlanmış multimedia konteyner formatıdır. Yerə qənaət etmək lazımdırsa, ondan istifadə edin.</string>
+    <string name="info_m4a"><b>M4a</b> format AAC audio codec ilə kodlanır yaxşı keyfiyyət və kiçik ölçüsü var. <b>(tövsiyə)</b></string>
+    <string name="info_wav"><b>Wav</b> sıxılmamış audio məlumat formatıdır. Digər formatlara nisbətən daha çox yer tutur. Bu, konkret hallar üçün lazımdır.</string>
+    <string name="info_stereo"><b>Stereo</b> iki ayrı kanal qeydə alınır. Bu o deməkdir ki, hər bir stereo dinamikdə fərqli səs siqnalı var. <b>(tövsiyə)</b></string>
+    <string name="info_mono"><b>Mono</b> bir siqnal kanalı qeydə alınır. O, bir neçə dinamik vasitəsilə çoxalda bilər, lakin bütün dinamiklər hələ də siqnalın eyni surətini çıxarır.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> ümumiyyətlə yalnız nitq üçün məqbuldur.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> ümumiyyətlə danışma və ya aşağı keyfiyyətli axın üçün istifadə olunur.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> orta diapazonlu bitrate keyfiyyəti. Podkastlar üçün ümumi bitreyt. <b>(tövsiyə)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> orta keyfiyyətli bit sürəti.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> yaxşı keyfiyyətli bit sürəti.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> nümunə sürəti müasir telefon sistemlərindən daha az ötürmə qabiliyyətinə malikdir. Hər hansı ciddi qeyd tapşırığı üçün uyğun deyil.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> 8kHz-dən yaxşıdır.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> 64 kbps kimi aşağı bit sürəti üçün populyar nümunə dərəcəsi.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> 22kHz-dən bir qədər yaxşıdır.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> Audio CD-lərin seçmə tezliyidir. <b>(tövsiyə)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> DVD-lər üçün istifadə olunan nümunə dərəcəsidir.</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Zibil qutusuna köçürün %d rekord seçildi?</item>
+        <item quantity="other">Zibil qutusuna köçürün %d rekord seçildi?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Kopyalayın %d Yükləmə qovluğuna qeyd seçildi?</item>
+        <item quantity="other">Kopyalayın %d Yükləmə qovluğuna qeyd seçildi?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">Paylaşın %d rekord</item>
+        <item quantity="other">Paylaşın %d rekord</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d qeyd uğurla endirildi</item>
+        <item quantity="other">%d qeyd uğurla endirildi</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d rekord uğurla köçürüldü</item>
+        <item quantity="other">%d rekord uğurla köçürüldü</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">Endirmək alınmadı %d rekord</item>
+        <item quantity="other">Endirmək alınmadı %d rekord</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Hərəkət etmək alınmadı %d rekord</item>
+        <item quantity="other">Hərəkət etmək alınmadı %d rekord</item>
+    </plurals>
+    <string name="cancel">Ləğv et</string>
+    <string name="hold_to_record_audio">Yazmaq üçün basıb saxlayın, saxlamaq üçün buraxın</string>
+    <string name="mal_title_about">Haqqında</string>
+    <string name="mal_title_licenses">Lisenziyalar</string>
+    <string name="mal_close">Yaxın</string>
+    <string name="mal_send_email">E-poçt göndər</string>
+    <string name="mal_activity_exception">Fəaliyyəti idarə etmək üçün proqram yoxdur</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Versiya</string>
+    <string name="Licenses">Lisenziyalar</string>
+    <string name="Author">Müəllif</string>
+    <string name="name">Əhməd Saad</string>
+    <string name="egypt">Misir</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Rahatlıq</string>
+    <string name="Rate_app">Bu tətbiqə qiymət verin</string>
+    <string name="Send">E-poçt göndərin</string>
+    <string name="Call">Mənə zəng elə</string>
+    <string name="Visit">Misiri ziyarət edin</string>
+    <string name="save_as">kimi yadda saxlayın&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Qeyd \'Yükləmələr\' kataloquna kopyalanacaq</string>
+    <string name="app_widget_description">Vidceti qeyd etməyə başlayın</string>
+    <string name="error_failed_to_start_recording">Yazmağa başlamaq alınmadı</string>
+    <string name="details_file_is_not_available">Təəssüf ki, tətbiqin daha Android ictimai yaddaşına girişi yoxdur. Siz smartfonunuzda qeyd faylını bu yerdə tapa bilərsiniz: %s</string>
+    <string name="title_file_is_not_available">Qeyd faylına giriş yoxdur!</string>
+    <string name="button_record">Qeyd</string>
+    <string name="button_stop">Dayan</string>
+    <string name="button_resume">Xülasə</string>
+    <string name="button_finish">Bitir</string>
+
+</resources>
