@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sfântul Coran</string>
+    <string name="lang">ro</string>
+    <string name="turnlang">Schimbarea limbii</string>
+    <string name="sharetwitter">participare linkul aplicației(Twitter)</string>
+    <string name="sharefacebook">participare linkul aplicației(Facebook)</string>
+    <string name="sharegmail">participare linkul aplicației(Gmail)</string>
+    <string name="sharewhatapp">participare linkul aplicației(What\'s App)</string>
+    <string name="shareinstagram">participare linkul aplicației(Instagram)</string>
+    <string name="sharetumblr">participare linkul aplicației(Tumblr)</string>
+    <string name="shareviber">participare linkul aplicației(Viber)</string>
+    <string name="sharelinkedin">participare linkul aplicației(Linkedin)</string>
+    <string name="sharesnapchat">participare linkul aplicației(Snapchat)</string>
+    <string name="shareskype">participare linkul aplicației(Skype)</string>
+    <string name="sharetelegram">participare linkul aplicației(Telegram)</string>
+    <string name="sharereddit">participare linkul aplicației(Reddit)</string>
+    <string name="dialog_title">Noua versiune disponibilă</string>
+    <string name="dialog_message">O versiune nouă a aplicației este disponibilă, faceți clic pe mai jos pentru a
+        actualiza cea mai recentă versiune.
+    </string>
+    <string name="dialog_positive_button_title">Actualizați</string>
+    <string name="all_records_deleted">Toate înregistrările au fost șterse cu succes</string>
+    <string name="app_settings">Setări audio:</string>
+    <string name="available_space">Spațiu disponibil: %s</string>
+    <string name="bookmarks">Semnale de referință</string>
+    <string name="btn_cancel">anulare</string>
+    <string name="btn_no">nu</string>
+    <string name="btn_play">Rularea</string>
+    <string name="btn_save">Salvați</string>
+    <string name="btn_yes">da</string>
+    <string name="delete_all">Ștergeți toate înregistrările</string>
+    <string name="delete_all_records">Ștergeți toate înregistrările și nu va putea fi recuperată?</string>
+    <string name="delete_record">Șterge acest lucru de înregistrare %s?</string>
+    <string name="error_cant_create_file">Nu se poate crea fișier</string>
+    <string name="error_failed_to_init_player">Eroare la pornire</string>
+    <string name="error_failed_to_init_recorder">Nu a reușit înregistrarea începe</string>
+    <string name="error_failed_to_rename">Nu sa redenumit registrul!</string>
+    <string name="error_file_exists">Acest nume de fișier există deja!</string>
+    <string name="error_invalid_output_file">Fișierul de ieșire este nevalid</string>
+    <string name="error_permission_denied">Cererea de permisiune este respinsă</string>
+    <string name="error_player_data_source">Operatorul nu poate citi fișierul</string>
+    <string name="error_unable_to_read_sound_file">Nu se poate citi fișierul audio</string>
+    <string name="error_unknown">Eroare necunoscută</string>
+    <string name="failed_to_delete_all_records">Eroare la ștergerea tuturor înregistrărilor</string>
+    <string name="fetchs">Conectare la Internet</string>
+    <string name="hold_button_to_record">Începeți înregistrarea</string>
+    <string name="hold_button_to_record2">La înregistrarea, vă rugăm să continuați atingere</string>
+    <string name="import_progress">Importați fișierul audio …</string>
+    <string name="keep_screen_on">Nu opriți ecranul în timpul înregistrării</string>
+    <string name="no_bookmarks">Marcaje sunt goale.</string>
+    <string name="no_records">Înregistrările sunt goale.</string>
+    <string name="other_settings">Altele:</string>
+    <string name="playback">Run: %s</string>
+    <string name="please_select_record_to_share">Selectați sau înregistrați un fișier audio de trimis</string>
+    <string name="record_in_stereo">Sunet stereo</string>
+    <string name="record_name">Numele nou</string>
+    <string name="record_processing">Procesarea fișierului …</string>
+    <string name="recording">Înregistrare: %s</string>
+    <string name="recording_is_on">Înregistrarea este activată</string>
+    <string name="recording_progress">Înregistrare&#8230;</string>
+    <string name="recording_paused">pauză</string>
+    <string name="recording_settings">Setările registrului:</string>
+    <string name="records">Recordings</string>
+    <string name="recordtoast">Timpul înregistrat este:</string>
+    <string name="settingss">Setări</string>
+    <string name="share_record">Participarea la înregistrare: %s</string>
+    <string name="store_records_public">Depozitați înregistrările în dosarul public</string>
+    <string name="today">azi</string>
+    <string name="total_duration">Perioada totală înregistrată: %s</string>
+    <string name="total_record_count">Numărul total de înregistrări: %d</string>
+    <string name="warning">Atentie!</string>
+    <string name="yesterday">ieri</string>
+    <string name="private_dir_warning">Înregistrările vor fi stocate în directorul privat al aplicației care nu este vizibil pentru alte aplicații</string>
+    <string name="public_dir_warning">Înregistrările vor fi stocate în directorul comun de pe dispozitiv, care este vizibil pentru alte aplicații</string>
+    <string name="error_on_recording">Eroare de înregistrare!</string>
+
+    <string name="wifion">Wi-Fi</string>
+    <string name="ask_to_rename">Afișați dialogul redenumirea după înregistrarea de oprire</string>
+    <string name="btn_allow">permite</string>
+    <string name="btn_deny">nega</string>
+    <string name="btn_ok">O.K</string>
+    <string name="delete">șterge</string>
+    <string name="download">Descarca</string>
+    <string name="error_process_waveform">Nu pot desena forma de undă</string>
+    <string name="info">informație</string>
+    <string name="naming">naming:</string>
+    <string name="need_write_permission">Aplicația necesită permisiunea de acces la spațiul de stocare public. Dacă nu este permis, înregistrările vor fi stocate în directorul privat al aplicației</string>
+    <string name="open_record_with">Deschide %s cu</string>
+    <string name="open_with">deschis cu</string>
+    <string name="rec_duration">Durată:</string>
+    <string name="rec_format">Format:</string>
+    <string name="rec_location">Locația fișierului:</string>
+    <string name="rec_name">Nume:</string>
+    <string name="rec_size">Mărimea:</string>
+    <string name="record_deleted_successfully">înregistrare ștersă cu succes</string>
+    <string name="rename">redenumiți</string>
+    <string name="share">cotă</string>
+    <string name="delete_all2">Ștergeți toate</string>
+    <string name="dont_ask_again_rename">Nu cereți redenumirea</string>
+    <string name="error_lost_records">Unele dintre înregistrările dvs. au fost șterse sau mutate</string>
+    <string name="lost_records">Înregistrări pierdute</string>
+    <string name="records_was_removed">Unele fișiere de înregistrări nu au fost găsite în directorul înregistrărilor.Posibil să fie îndepărtate sau mutate.</string>
+    <string name="btn_details">Detalii</string>
+    <string name="cancel_rec">Înregistrarea a fost anulată</string>
+    <string name="delete_record_forever">Ștergeți această înregistrare pentru totdeauna %s?</string>
+    <string name="empty">Goli</string>
+    <string name="rec_frequency">Frecvență:</string>
+    <string name="error_no_available_space">Nu există spațiu disponibil!</string>
+    <string name="record_moved_into_trash">Înregistrarea sa mutat în coșul de gunoi</string>
+    <string name="record_restored_successfully">Record înregistrat cu succes</string>
+    <string name="restore_record">Restaurați această înregistrare?</string>
+    <string name="trash_info">Înregistrările mutate în coșul de gunoi vor fi eliminate definitiv pentru 60 de zile.</string>
+    <string name="trash">Gunoi</string>
+    <string name="rec_created">Creată:</string>
+    <string name="error_failed_access_to_storage" >Acces eșuat la stocarea fișierelor</string>
+    <string name="downloading_cancel" >Descărcarea a fost anulată</string>
+    <string name="downloading_success" >%s descărcate în directorul Descărcare</string>
+    <string name="downloading_failed" >Eroare la descărcare: %s</string>
+    <string name="downloading" >Descărcarea: %s</string>
+    <string name="by_date" >După data (cea mai nouă)</string>
+    <string name="by_date_desc" >După data (cea mai veche)</string>
+    <string name="by_name" >După nume (A-Z)</string>
+    <string name="by_name_desc" >După nume (Z-A)</string>
+    <string name="by_duration" >După durată (cea mai lungă)</string>
+    <string name="by_duration_desc" >După durată (cea mai scurtă)</string>
+    <string name="delete_this_record" >Ștergeți această înregistrare?</string>
+    <string name="all_records_deleted_successfully" >Toate înregistrările s-au șters cu succes</string>
+    <string name="refresh">Reîmprospăta</string>
+    <string name="find">A gasi</string>
+    <string name="share_via">parts prin</string>
+    <string name="copy_link">Copiază link-ul</string>
+    <string name="copied_to_clipboard">Copiat în clipboard</string>
+    <string name="about">Despre aplicație</string>
+    <string name="back">Faceți clic din nou pentru a ieși</string>
+    <string name="finalback">Faceți clic din nou pentru a reveni la meniul principal</string>
+    <string name="btn_savee">Numele a fost modificat cu succes</string>
+    <string name="btn_cancell">Modificarea numelui a fost anulată</string>
+    <string name="btn_c">Fișierul a fost șters</string>
+    <string name="btn_cc">șterge</string>
+    <string name="btn_ccc">Fișierul a fost șters cu succes</string>
+    <string name="btn_cccc">Fișierele au fost anulate</string>
+    <string name="btn_ccccc">Toate înregistrările au fost șterse cu succes</string>
+    <string name="btn_cancelll">final</string>
+    <string name="slide_to_cancel">glisați pentru a anula</string>
+    <string name="settings">Setări</string>
+    <string name="recording_feature_disabled">Caracteristica de înregistrare a fost dezactivată</string>
+    <string name="selected">%d selectat</string>
+    <string name="processing_canceled">Procesarea este anulată</string>
+    <string name="record_calculation">calcule forme de undă&#8230;</string>
+    <string name="downloading_success_and_fail_count">%d înregistrări au fost descărcate cu succes și %d nu a reușit să descarce</string>
+    <string name="moving_records_success_and_fail_count">%d înregistrări au fost mutate cu succes și %d nu s-au mutat</string>
+    <string name="move_record_success">%s a fost mutat în directorul privat al aplicației</string>
+    <string name="move_record_failed">Mutarea eșuată: %s</string>
+    <string name="downloading_failed_file_already_exists">Descărcarea eșuată. Fișierul cu numele %s există deja</string>
+    <string name="selected_records_moved_into_trash">Înregistrările selectate au fost mutate în coșul de gunoi</string>
+    <string name="record_imported_successfully">Înregistrarea a fost importată cu succes</string>
+    <string name="cant_import_files">Nu se pot importa fișiere</string>
+    <string name="file_browser">browser de fișiere</string>
+    <string name="private_dir">Director privat</string>
+    <string name="public_dir">Director public</string>
+    <string name="found_in_the_app">Găsit în aplicație</string>
+    <string name="not_found_in_the_app">Nu a fost găsit în aplicație</string>
+    <string name="in_trash">In gunoi</string>
+    <string name="btn_get_started">Sa incepem</string>
+    <string name="btn_apply">aplica</string>
+    <string name="btn_reset">Resetați</string>
+    <string name="btn_next">Următorul</string>
+    <string name="view">Vedere</string>
+    <string name="view_records">Vizualizați înregistrările</string>
+    <string name="move_records_needed">Mutați înregistrările necesare</string>
+    <string name="moving_record">Se mută înregistrarea: %s</string>
+    <string name="moving_record_cancel">Mutare anulată</string>
+    <string name="move_records_info">Unele dintre înregistrările dvs. sunt încă stocate în depozitul public. În curând, spațiul de stocare public nu va deveni disponibil pentru aplicație. Trebuie să mutăm acele înregistrări în directorul privat al aplicației.</string>
+    <string name="recording_format">Format de înregistrare:</string>
+    <string name="bitrate">Rata de biți:</string>
+    <string name="channels">Număr de canale:</string>
+    <string name="sample_rate">Rata simpla:</string>
+    <string name="size_per_min">%s Mb/min dimensiunea estimată</string>
+    <string name="records_location">Locația de înregistrare: %s</string>
+    <string name="feature_not_available_in_android_10">Această funcție nu mai este disponibilă în Android 10 sau o versiune ulterioară.</string>
+    <string name="move_records">Mutați %d înregistrări</string>
+    <string name="error_failed_to_restore">Nu s-a putut restaura înregistrarea!</string>
+    <string name="error_failed_to_delete">Nu s-a șters înregistrarea!</string>
+    <string name="move_public_storage_records_message">Este necesară mutarea înregistrărilor publice de stocare</string>
+    <string name="later">mai tarziu</string>
+    <string name="move">Mutare</string>
+    <string name="move_all">mutați toate</string>
+    <string name="start_recording">Începeți înregistrarea</string>
+    <string name="btn_import">Import</string>
+    <string name="restore">Restabili</string>
+    <string name="dont_ask_again">Nu întreba din nou</string>
+    <string name="info_format"><b>M4a</b> formatul este codificat cu codec audio AAC are o calitate bună și dimensiuni reduse. <b>(recomandat)</b>
+		\n<b>Wav</b> este formatul de date audio necomprimat. Ocupă mult mai mult spațiu decât alte formate. Este necesar pentru cazuri specifice.
+		\n<b>3gp</b> este un format container multimedia dezvoltat pentru serviciile de telecomunicații mobile. Folosiți-l dacă aveți nevoie să economisiți spațiu.
+		</string>
+    <string name="info_frequency"><b>Rata simpla</b> este numărul de mostre de audio transportate pe secundă.
+		\n<b>48kHz</b> este rata de eșantionare utilizată pentru DVD-uri.
+		\n<b>44,1kHz</b> este rata de eșantionare a CD-urilor audio. <b>(recomandat)</b>
+		\n<b>22kHz</b> rata de eșantionare populară pentru o rată de biți scăzută, cum ar fi 64 kbps.
+		\n <b>8kHz</b> rata de eșantionare are o lățime de bandă mai mică decât sistemele de telefonie moderne. Nu este potrivit pentru nicio sarcină serioasă de înregistrare.
+		</string>
+    <string name="info_bitrate"><b>Rata de biți</b> este dimensiunea datelor pe secundă de sunet. Afectează direct calitatea și dimensiunea înregistrării.
+		\n<b>256 kbps</b> rata de biți de bună calitate.
+		\n<b>192 kbps</b> rata de biți de calitate medie.
+		\n<b>128 kbps</b> gama medie calitate bitrate. Rata de biți comună pentru podcasturi. <b>(recomandat)</b>
+		\n<b>96 kbps</b> folosit în general pentru vorbire sau streaming de calitate scăzută.
+		\n<b>48 kbps</b> în general acceptabil numai pentru vorbire.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> sunt înregistrate două canale separate. Aceasta înseamnă că fiecare difuzor stereo are un alt difuzor semnal sonor. <b>(recomandat)</b>
+		\n<b>Mono</b> este înregistrat un canal de semnal. Poate fi reprodus prin mai multe difuzoare, dar toate difuzoarele reproduc în continuare aceeași copie a semnalului.
+		</string>
+    <string name="info_3gp"><b>3gp</b> este un format container multimedia dezvoltat pentru serviciile de telecomunicații mobile. Folosiți-l dacă aveți nevoie să economisiți spațiu.</string>
+    <string name="info_m4a"><b>M4a</b> formatul este codificat cu codec audio AAC are o calitate bună și dimensiuni reduse. <b>(recomandat)</b></string>
+    <string name="info_wav"><b>Wav</b> este formatul de date audio necomprimat. Ocupă mult mai mult spațiu decât alte formate. Este necesar pentru cazuri specifice.</string>
+    <string name="info_stereo"><b>Stereo</b> sunt înregistrate două canale separate.Aceasta înseamnă că fiecare difuzor stereo are un alt difuzor semnal sonor. <b>(recomandat)</b></string>
+    <string name="info_mono"><b>Mono</b> este înregistrat un canal de semnal. Poate fi reprodus prin mai multe difuzoare, dar toate difuzoarele reproduc în continuare aceeași copie a semnalului.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> în general acceptabil numai pentru vorbire.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> folosit în general pentru vorbire sau streaming de calitate scăzută.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> gama medie calitate bitrate. Rata de biți comună pentru podcasturi. <b>(recomandat)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> rata de biți de calitate medie.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> rata de biți de bună calitate.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> rata de eșantionare are o lățime de bandă mai mică decât sistemele de telefonie moderne. Nu este potrivit pentru nicio sarcină serioasă de înregistrare.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> este mai bun decât 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> rata de eșantionare populară pentru o rată de biți scăzută, cum ar fi 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> este puțin mai bună decât 22kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> este rata de eșantionare a CD-urilor audio. <b>(recomandat)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> este rata de eșantionare utilizată pentru DVD-uri.</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Muți în coșul de gunoi %d înregistrare selectată?</item>
+        <item quantity="few">Muți în coșul de gunoi %d înregistrare selectată?</item>
+        <item quantity="other">Muți în coșul de gunoi %d înregistrare selectată?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Copie %d înregistrarea selectată în folderul Descărcare?</item>
+        <item quantity="few">Copie %d înregistrarea selectată în folderul Descărcare?</item>
+        <item quantity="other">Copie %d înregistrarea selectată în folderul Descărcare?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">Partajați %d înregistrare</item>
+        <item quantity="few">Partajați %d înregistrare</item>
+        <item quantity="other">Partajați %d înregistrare</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d înregistrarea a fost descărcată cu succes</item>
+        <item quantity="few">%d înregistrarea a fost descărcată cu succes</item>
+        <item quantity="other">%d înregistrarea a fost descărcată cu succes</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d înregistrarea a fost mutată cu succes</item>
+        <item quantity="few">%d înregistrarea a fost mutată cu succes</item>
+        <item quantity="other">%d înregistrarea a fost mutată cu succes</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">Nu s-a putut descărca %d înregistrare</item>
+        <item quantity="few">Nu s-a putut descărca %d înregistrare</item>
+        <item quantity="other">Nu s-a putut descărca %d înregistrare</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Nu s-a putut muta %d înregistrare</item>
+        <item quantity="few">Nu s-a putut muta %d înregistrare</item>
+        <item quantity="other">Nu s-a putut muta %d înregistrare</item>
+    </plurals>
+    <string name="cancel">Anula</string>
+    <string name="hold_to_record_audio">Țineți apăsat pentru a înregistra, eliberați pentru a salva</string>
+    <string name="mal_title_about">Despre</string>
+    <string name="mal_title_licenses">Licențe</string>
+    <string name="mal_close">Aproape</string>
+    <string name="mal_send_email">Trimite email</string>
+    <string name="mal_activity_exception">Nu există aplicații care să gestioneze acțiunile</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Versiune</string>
+    <string name="Licenses">Licențe</string>
+    <string name="Author">Autor</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Egipt</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Comoditate</string>
+    <string name="Rate_app">Evalueaza aceasta aplicatie</string>
+    <string name="Send">Trimite un email</string>
+    <string name="Call">Sună-mă</string>
+    <string name="Visit">Vizitează Egiptul</string>
+    <string name="save_as">Salvați ca&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Înregistrarea va fi copiată în directorul „Descărcări”.</string>
+    <string name="app_widget_description">Începeți înregistrarea widget-ului</string>
+    <string name="error_failed_to_start_recording">Nu s-a putut începe înregistrarea</string>
+    <string name="details_file_is_not_available">Din păcate, aplicația nu mai are acces la spațiul de stocare public Android. Puteți găsi fișierul de înregistrare pe smartphone-ul dvs. la această locație: %s</string>
+    <string name="title_file_is_not_available">Fără acces la fișierul de înregistrare!</string>
+    <string name="button_record">Record</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_resume">Relua</string>
+    <string name="button_finish">finalizarea</string>
+
+</resources>

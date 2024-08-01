@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">heilige Koran</string>
+    <string name="lang">nl</string>
+    <string name="turnlang">Verander de taal</string>
+    <string name="sharetwitter">Deel de link van de app(Twitter)</string>
+    <string name="sharefacebook">Deel de link van de app(Facebook)</string>
+    <string name="sharegmail">Deel de link van de app(Gmail)</string>
+    <string name="sharewhatapp">Deel de link van de app(What\'s App)</string>
+    <string name="shareinstagram">Deel de link van de app(Instagram)</string>
+    <string name="sharetumblr">Deel de link van de app(Tumblr)</string>
+    <string name="shareviber">Deel de link van de app(Viber)</string>
+    <string name="sharelinkedin">Deel de link van de app(Linkedin)</string>
+    <string name="sharesnapchat">Deel de link van de app(Snapchat)</string>
+    <string name="shareskype">Deel de link van de app(Skype)</string>
+    <string name="sharetelegram">Deel de link van de app(Telegram)</string>
+    <string name="sharereddit">Deel de link van de app(Reddit)</string>
+    <string name="dialog_title">Nieuwe versie beschikbaar</string>
+    <string name="dialog_message">Er is een nieuwe versie van de applicatie beschikbaar. Klik hieronder om de nieuwste
+        versie bij te werken.
+    </string>
+    <string name="dialog_positive_button_title">Bijwerken</string>
+    <string name="all_records_deleted">Alle opnames zijn succesvol verwijderd</string>
+    <string name="app_settings">Audio-instellingen:</string>
+    <string name="available_space">Beschikbare ruimte: %s</string>
+    <string name="bookmarks">Referentiesignalen</string>
+    <string name="btn_cancel">annulering</string>
+    <string name="btn_no">geen</string>
+    <string name="btn_play">Running</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_yes">ja</string>
+    <string name="delete_all">Verwijder alle records</string>
+    <string name="delete_all_records">Verwijder alle opnames en kan niet worden opgehaald?</string>
+    <string name="delete_record">Verwijder dit registratie %s?</string>
+    <string name="error_cant_create_file">Kan geen bestand maken</string>
+    <string name="error_failed_to_init_player">Kan niet worden gestart</string>
+    <string name="error_failed_to_init_recorder">Mislukt de opname te starten</string>
+    <string name="error_failed_to_rename">Kan het register niet hernoemen!</string>
+    <string name="error_file_exists">Het bestand met deze naam bestaat al!</string>
+    <string name="error_invalid_output_file">Het uitvoerbestand is ongeldig</string>
+    <string name="error_permission_denied">Vraag toestemming geweigerd</string>
+    <string name="error_player_data_source">De operator kan het bestand niet lezen</string>
+    <string name="error_unable_to_read_sound_file">Kan audiobestand niet afspelen</string>
+    <string name="error_unknown">Onbekende fout</string>
+    <string name="failed_to_delete_all_records">Verwijderen van alle registraties mislukt</string>
+    <string name="fetchs">Internetverbinding</string>
+    <string name="hold_button_to_record">Begin met opnemen</string>
+    <string name="hold_button_to_record2">Bij het opnemen, gaat u verder aan te raken</string>
+    <string name="import_progress">Audiobestand importeren …</string>
+    <string name="keep_screen_on">Schakel het scherm niet uit tijdens het opnemen</string>
+    <string name="no_bookmarks">Bladwijzers zijn leeg.</string>
+    <string name="no_records">De opnames zijn leeg.</string>
+    <string name="other_settings">andere:</string>
+    <string name="playback">Uitvoeren: %s</string>
+    <string name="please_select_record_to_share">Gelieve te specificeren of een audiobestand op te nemen om te delen</string>
+    <string name="record_in_stereo">Stereogeluid</string>
+    <string name="record_name">Nieuwe naam</string>
+    <string name="record_processing">Verwerkingsbestand …</string>
+    <string name="recording">Registratie: %s</string>
+    <string name="recording_is_on">De opname is ingeschakeld</string>
+    <string name="recording_progress">Registratie&#8230;</string>
+    <string name="recording_paused">gepauzeerd</string>
+    <string name="recording_settings">Register instellingen:</string>
+    <string name="records">Recordings</string>
+    <string name="recordtoast">Geregistreerde tijd is:</string>
+    <string name="settingss">instellingen</string>
+    <string name="share_record">Delen registratie: %s</string>
+    <string name="slide_to_cancel">Sleep om te annuleren</string>
+    <string name="store_records_public">Store records in de openbare map</string>
+    <string name="today">vandaag</string>
+    <string name="total_duration">Totale opnameperiode: %s</string>
+    <string name="total_record_count">Totaal aantal records: %d</string>
+    <string name="warning">Waarschuwing!</string>
+    <string name="yesterday">gisteren</string>
+    <string name="private_dir_warning">Records worden opgeslagen in de privédirectory van de app, die niet zichtbaar is voor andere apps</string>
+    <string name="public_dir_warning">Records worden opgeslagen in de gemeenschappelijke map op uw apparaat die zichtbaar is voor andere apps</string>
+    <string name="error_on_recording">Opnamefout!</string>
+
+    <string name="wifion">Wi-Fi</string>
+    <string name="ask_to_rename">Dialoogvenster voor hernoemen weergeven na opname stoppen</string>
+    <string name="btn_allow">toestaan</string>
+    <string name="btn_deny">ontkennen</string>
+    <string name="btn_ok">OK</string>
+    <string name="delete">verwijderen</string>
+    <string name="download">downloaden</string>
+    <string name="error_process_waveform">Kan golfvorm niet tekenen</string>
+    <string name="info">Informatie</string>
+    <string name="naming">Naming:</string>
+    <string name="need_write_permission">De app vereist toestemming voor toegang tot de openbare opslag. Als dit niet is toegestaan, worden records opgeslagen in de privédirectory van de app</string>
+    <string name="open_record_with">Open %s met</string>
+    <string name="open_with">Openen met</string>
+    <string name="rec_duration">Looptijd:</string>
+    <string name="rec_format">Formaat:</string>
+    <string name="rec_location">Bestandslocatie:</string>
+    <string name="rec_name">Naam:</string>
+    <string name="rec_size">Grootte:</string>
+    <string name="record_deleted_successfully">record succesvol verwijderd</string>
+    <string name="rename">andere naam geven</string>
+    <string name="delete_all2">Verwijder alles</string>
+    <string name="dont_ask_again_rename">Laat rename niet opnieuw vragen</string>
+    <string name="error_lost_records">Sommige van uw records zijn verwijderd of verplaatst</string>
+    <string name="lost_records">Records verloren</string>
+    <string name="records_was_removed">Sommige records zijn niet gevonden in de directory met records.Mogelijk zijn ze verwijderd of verplaatst.</string>
+    <string name="btn_details">Details</string>
+    <string name="cancel_rec">Registratie is geannuleerd</string>
+    <string name="delete_record_forever">Dit record voor altijd verwijderen %s?</string>
+    <string name="empty">Leeg</string>
+    <string name="error_no_available_space">Geen beschikbare ruimte!</string>
+    <string name="rec_frequency">Frequentie:</string>
+    <string name="record_moved_into_trash">Record verplaatst naar prullenbak</string>
+    <string name="record_restored_successfully">Record succesvol hersteld</string>
+    <string name="restore_record">Dit record herstellen?</string>
+    <string name="trash">trash</string>
+    <string name="trash_info">De records die naar de prullenbak zijn verplaatst, worden voor altijd binnen 60 dagen verwijderd.</string>
+    <string name="rec_created">gecreëerd:</string>
+    <string name="error_failed_access_to_storage" >Toegang tot bestandsopslag mislukt</string>
+    <string name="downloading_cancel" >Downloaden geannuleerd</string>
+    <string name="downloading_success" >%s gedownload naar de downloadmap</string>
+    <string name="downloading_failed" >Download mislukt: %s</string>
+    <string name="downloading" >Downloaden: %s</string>
+    <string name="by_date" >Op datum (nieuwste)</string>
+    <string name="by_date_desc" >Op datum (oudste)</string>
+    <string name="by_name" >Op naam (A-Z)</string>
+    <string name="by_name_desc" >Op naam (Z-A)</string>
+    <string name="by_duration" >Op duur (langste)</string>
+    <string name="by_duration_desc" >Op duur (kortste)</string>
+    <string name="delete_this_record" >Dit record verwijderen?</string>
+    <string name="all_records_deleted_successfully" >Alle records zijn succesvol verwijderd</string>
+    <string name="refresh">Vernieuwen</string>
+    <string name="find">Vind</string>
+    <string name="share_via">Deel via</string>
+    <string name="copy_link">Kopieer link</string>
+    <string name="copied_to_clipboard">Gekopieerd naar het klembord</string>
+    <string name="finalback">Klik nogmaals om terug te gaan naar het hoofdmenu</string>
+    <string name="back">Klik nogmaals om af te sluiten</string>
+    <string name="about">Over de app</string>
+    <string name="btn_savee">De naam is succesvol gewijzigd</string>
+    <string name="btn_cancell">Naamswijziging geannuleerd</string>
+    <string name="btn_c">Het bestand is verwijderd</string>
+    <string name="btn_cc">verwijderen</string>
+    <string name="btn_ccc">Het bestand is succesvol verwijderd</string>
+    <string name="btn_cccc">Het verwijderen van bestanden is ongedaan gemaakt</string>
+    <string name="btn_ccccc">Alle opnames zijn succesvol verwijderd</string>
+    <string name="btn_cancelll">einde</string>
+    <string name="settings">Instellingen</string>
+    <string name="start_recording">Beginnen met opnemen</string>
+    <string name="recording_feature_disabled">Opnamefunctie uitgeschakeld</string>
+    <string name="selected">%d geselecteerd</string>
+    <string name="btn_import">Importeren</string>
+    <string name="processing_canceled">Verwerking wordt geannuleerd</string>
+    <string name="record_calculation">Golfvormberekeningen&#8230;</string>
+    <string name="restore">herstellen</string>
+    <string name="dont_ask_again">Niet meer vragen</string>
+    <string name="downloading_success_and_fail_count">%d records succesvol gedownload en %d kan niet worden gedownload</string>
+    <string name="moving_records_success_and_fail_count">%d records zijn succesvol verplaatst en %d kan niet worden verplaatst</string>
+    <string name="move_record_success">%s moved to the app\'s private directory</string>
+    <string name="move_record_failed">Verplaatsen mislukt: %s</string>
+    <string name="downloading_failed_file_already_exists">Download mislukt. Bestand met naam %s bestaat al</string>
+    <string name="selected_records_moved_into_trash">Geselecteerde records verplaatst naar prullenbak</string>
+    <string name="record_imported_successfully">Het record is succesvol geïmporteerd</string>
+    <string name="cant_import_files">Kan geen bestanden importeren</string>
+    <string name="file_browser">bestandsverkenner</string>
+    <string name="private_dir">Privé directory</string>
+    <string name="public_dir">Openbare directory</string>
+    <string name="found_in_the_app">Gevonden in de app</string>
+    <string name="not_found_in_the_app">Niet gevonden in de app</string>
+    <string name="in_trash">In de vuilnisbak.</string>
+    <string name="btn_get_started">Begin</string>
+    <string name="btn_apply">Nu toepassen</string>
+    <string name="btn_reset">Resetten</string>
+    <string name="btn_next">Volgende</string>
+    <string name="view">Uitzicht</string>
+    <string name="view_records">Bekijk records</string>
+    <string name="move_records_needed">Verplaats records nodig</string>
+    <string name="moving_record">Bewegend record: %s</string>
+    <string name="moving_record_cancel">verhuizen geannuleerd</string>
+    <string name="move_records_info">Sommige van uw records zijn nog steeds opgeslagen in de openbare opslag. Binnenkort is de openbare opslag niet meer beschikbaar voor de app. We moeten die records naar de privédirectory van de app verplaatsen.</string>
+    <string name="recording_format">Opname formaat:</string>
+    <string name="bitrate">Bitsnelheid:</string>
+    <string name="channels">Kanaaltelling:</string>
+    <string name="sample_rate">Sample tarief:</string>
+    <string name="size_per_min">%s Mb/min verwachte grootte</string>
+    <string name="records_location">Records locatie: %s</string>
+    <string name="feature_not_available_in_android_10">Deze functie is niet langer beschikbaar in Android 10 of hoger.</string>
+    <string name="move_records">%d records verplaatsen</string>
+    <string name="error_failed_to_restore">Het record herstellen is mislukt!</string>
+    <string name="error_failed_to_delete">Kan de record niet verwijderen!</string>
+    <string name="move_public_storage_records_message">Verplaats openbare opslagrecords nodig</string>
+    <string name="later">Later</string>
+    <string name="move">Bewegen</string>
+    <string name="move_all">Alles verplaatsen</string>
+    <string name="info_format"><b>M4a</b> formaat is gecodeerd met AAC-audiocodec heeft een goede kwaliteit en een klein formaat. <b>(aanbevolen)</b>
+		\n<b>Wav</b> is een niet-gecomprimeerd audiogegevensformaat. Het neemt veel meer ruimte in beslag dan andere formaten. Het is nodig voor specifieke gevallen.
+		\n<b>3gp</b> is een multimedia containerformaat ontwikkeld voor mobiele telecommunicatiediensten. Gebruik het als u ruimte wilt besparen.
+		</string>
+    <string name="info_frequency"><b>steekproeffrequentie:</b> is het aantal samples van audio dat per seconde wordt vervoerd.
+		\n<b>48kHz</b> is de samplefrequentie die voor dvd\'s wordt gebruikt.
+		\n<b>44,1kHz</b> is de bemonsteringsfrequentie van audio-cd\'s. <b>(aanbevolen)</b>
+		\n<b>22kHz</b> populaire samplefrequentie voor lage bitsnelheden zoals 64 kbps.
+		\n<b>8kHz</b> sample rate heeft minder bandbreedte dan moderne telefoonsystemen. Niet geschikt voor serieuze opnametaken.
+		</string>
+    <string name="info_bitrate"><b>bitsnelheid</b> is de grootte van de gegevens per seconde geluid. Heeft rechtstreeks invloed op de opnamekwaliteit en -grootte.
+		\n<b>256 kbps</b> van goede kwaliteit bitsnelheid.
+		\n<b>192 kbps</b> gemiddelde kwaliteit bitsnelheid.
+		\n<b>128 kbps</b> middenklasse bitrate kwaliteit. Gemeenschappelijke bitrate voor podcasts. <b>(aanbevolen)</b>
+		\n<b>96 kbps</b> over het algemeen gebruikt voor spraak of streaming van lage kwaliteit.
+		\n<b>48 kbps</b> algemeen alleen acceptabel voor spraak.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> twee afzonderlijke kanalen worden opgenomen. Dit betekent dat elke stereoluidspreker een ander geluidssignaal heeft. <b>(aanbevolen)</b>
+		\n<b>Mono</b> één signaalkanaal wordt opgenomen. Het kan via meerdere luidsprekers worden weergegeven, maar alle luidsprekers geven nog steeds dezelfde kopie van het signaal weer.
+		</string>
+    <string name="info_3gp"><b>3gp</b> is een multimedia containerformaat ontwikkeld voor mobiele telecommunicatiediensten. Gebruik het als u ruimte wilt besparen.</string>
+    <string name="info_m4a"><b>M4a</b> formaat is gecodeerd met AAC-audiocodec heeft een goede kwaliteit en een klein formaat. <b>(aanbevolen)</b></string>
+    <string name="info_wav"><b>Wav</b> is een niet-gecomprimeerd audiogegevensformaat. Het neemt veel meer ruimte in beslag dan andere formaten. Het is nodig voor specifieke gevallen.</string>
+    <string name="info_stereo"><b>Stereo</b> twee afzonderlijke kanalen worden opgenomen. Dit betekent dat elke stereoluidspreker een ander geluidssignaal heeft. <b>(aanbevolen)</b></string>
+    <string name="info_mono"><b>Mono</b> één signaalkanaal wordt opgenomen. Het kan via meerdere luidsprekers worden weergegeven, maar alle luidsprekers geven nog steeds dezelfde kopie van het signaal weer.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> algemeen alleen acceptabel voor spraak.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> over het algemeen gebruikt voor spraak of streaming van lage kwaliteit.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> middenklasse bitrate kwaliteit. Gemeenschappelijke bitrate voor podcasts. <b>(aanbevolen)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> bitrate van gemiddelde kwaliteit.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> van goede kwaliteit bitsnelheid.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> sample rate heeft minder bandbreedte dan moderne telefoonsystemen. Niet geschikt voor serieuze opnametaken.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> is beter dan 8 kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> populaire samplefrequentie voor lage bitsnelheden zoals 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> is iets beter dan 22 kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> is de bemonsteringsfrequentie van audio-cd\'s. <b>(aanbevolen)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> is de samplefrequentie die voor dvd\'s wordt gebruikt.</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Verplaatsen naar prullenbak %d geselecteerde record?</item>
+        <item quantity="other">Verplaatsen naar prullenbak %d geselecteerde record?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Kopieer %d geselecteerde record naar de downloadmap?</item>
+        <item quantity="other">Kopieer %d geselecteerde record naar de downloadmap?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">Deel %d record</item>
+        <item quantity="other">Deel %d record</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d record succesvol gedownload</item>
+        <item quantity="other">%d record succesvol gedownload</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d record succesvol verplaatst</item>
+        <item quantity="other">%d record succesvol verplaatst</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">Download mislukt %d record</item>
+        <item quantity="other">Download mislukt %d record</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Verplaatsen van %d record mislukt</item>
+        <item quantity="other">Verplaatsen van %d record mislukt</item>
+    </plurals>
+    <string name="share">partner</string>
+    <string name="cancel">Annuleren</string>
+    <string name="hold_to_record_audio">Houd ingedrukt om op te nemen, laat los om op te slaan</string>
+    <string name="mal_title_about">Over</string>
+    <string name="mal_title_licenses">Licenties</string>
+    <string name="mal_close">Sluiten</string>
+    <string name="mal_send_email">e-mail verzenden</string>
+    <string name="mal_activity_exception">Geen apps om actie af te handelen</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Versie</string>
+    <string name="Licenses">Licenties</string>
+    <string name="Author">Auteur</string>
+    <string name="name">Ahmed Saadi</string>
+    <string name="egypt">Egypte</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">gemakken</string>
+    <string name="Rate_app">Beoordeel deze app</string>
+    <string name="Send">Stuur een email</string>
+    <string name="Call">Bel mij</string>
+    <string name="Visit">Bezoek Egypte</string>
+    <string name="save_as">Opslaan als&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Het record wordt gekopieerd naar de map \'Downloads\'</string>
+    <string name="app_widget_description">Start de opnamewidget</string>
+    <string name="error_failed_to_start_recording">Kan de opname niet starten</string>
+    <string name="details_file_is_not_available">Helaas heeft de app geen toegang meer tot de openbare Android-opslag. U kunt het opnamebestand op uw smartphone vinden op deze locatie: %s</string>
+    <string name="title_file_is_not_available">Geen toegang tot het opnamebestand!</string>
+    <string name="button_record">Dossier</string>
+    <string name="button_stop">gestopt</string>
+    <string name="button_resume">Hervatten</string>
+    <string name="button_finish">Finish</string>
+
+</resources>

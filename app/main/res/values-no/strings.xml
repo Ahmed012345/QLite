@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Den hellige Koranen</string>
+    <string name="lang">no</string>
+    <string name="turnlang">Endre språk</string>
+    <string name="sharefacebook">Del applenken på (Facebook)</string>
+    <string name="sharetwitter">Del applenken på (Twitter)</string>
+    <string name="sharegmail">Del applenken på (Gmail)</string>
+    <string name="sharewhatapp">Del applenken på (What\'s App)</string>
+    <string name="shareinstagram">Del applenken på (Instagram)</string>
+    <string name="sharetumblr">Del applenken på (Tumblr)</string>
+    <string name="shareviber">Del applenken på (Viber)</string>
+    <string name="sharelinkedin">Del applenken på (Linkedin)</string>
+    <string name="sharesnapchat">Del applenken på (Snapchat)</string>
+    <string name="shareskype">Del applenken på (Skype)</string>
+    <string name="sharetelegram">Del applenken på (Telegram)</string>
+    <string name="sharereddit">Del applenken på (Reddit)</string>
+    <string name="dialog_title">En ny versjon er tilgjengelig</string>
+    <string name="dialog_message">En ny versjon av appen er tilgjengelig. Klikk nedenfor for å oppdatere den nyeste versjonen.</string>
+    <string name="dialog_positive_button_title">Oppdater</string>
+    <string name="slide_to_cancel">Dra for å avbryte</string>
+    <string name="hold_button_to_record">Start opptak</string>
+    <string name="hold_button_to_record2">Fortsett å ta på når du registrerer deg</string>
+    <string name="fetchs">Internett-tilkobling</string>
+    <string name="wifion">WIFI</string>
+    <string name="records">Innspillinger</string>
+    <string name="settingss">Innstillinger</string>
+    <string name="store_records_public">Lagre poster i den offentlige mappen</string>
+    <string name="record_in_stereo">Stereolyd</string>
+    <string name="keep_screen_on">Ikke slå av skjermen under innspillingen</string>
+    <string name="total_duration">Total registrert varighet: %s</string>
+    <string name="total_record_count">Totalt antall poster: %d</string>
+    <string name="available_space">Ledig plass: %s</string>
+    <string name="delete_all">Slett alle opptakene</string>
+    <string name="warning">Advarsel!</string>
+    <string name="delete_record">Flytt til papirkurven %s</string>
+    <string name="delete_all_records">Vil du slette alle poster, og vil ikke kunne få dem igjen?</string>
+    <string name="all_records_deleted">Alle poster er blitt slettet</string>
+    <string name="failed_to_delete_all_records">Klarte ikke å slette alle rekorder</string>
+    <string name="please_select_record_to_share">Velg eller spill inn en lydfil du vil dele</string>
+    <string name="record_name">nytt navn</string>
+    <string name="recording">Registrert: %s</string>
+    <string name="recording_is_on">Innspillingen er på</string>
+    <string name="recording_progress">Registrer deg…</string>
+    <string name="recording_paused">Satt på pause</string>
+    <string name="playback">avspilling: %s</string>
+    <string name="no_records">Postene er blanke.</string>
+    <string name="no_bookmarks">Bokmerkene er tomme.</string>
+    <string name="bookmarks">Bokmerker</string>
+    <string name="share_record">Deling Registrering: %s</string>
+    <string name="import_progress">Importerer lydfilen …</string>
+    <string name="record_processing">Behandler filen …</string>
+    <string name="app_settings">Lydinnstillinger:</string>
+    <string name="recording_settings">Innspillingsinnstillinger:</string>
+    <string name="other_settings">Andre:</string>
+    <string name="today">I dag</string>
+    <string name="yesterday">i går</string>
+    <string name="btn_save">lagre</string>
+    <string name="btn_savee">Navnet har blitt endret med hell</string>
+    <string name="btn_cancel">Kansellering</string>
+    <string name="btn_cancell">Navneendring avbrutt</string>
+    <string name="btn_c">Sletting av filen er kansellert</string>
+    <string name="btn_cc">slette</string>
+    <string name="btn_ccc">Filen ble slettet</string>
+    <string name="btn_cccc">Sletting av filer er kansellert</string>
+    <string name="btn_ccccc">Alle poster er blitt slettet</string>
+    <string name="btn_cancelll">slutt</string>
+    <string name="btn_yes">Yeah</string>
+    <string name="btn_no">Nei</string>
+    <string name="btn_play">løping</string>
+    <string name="error_unknown">Ukjent feil</string>
+    <string name="error_cant_create_file">Kan ikke opprette fil</string>
+    <string name="error_invalid_output_file">Utdatafilen er ugyldig</string>
+    <string name="error_file_exists">Fil med dette navnet eksisterer allerede!</string>
+    <string name="error_failed_to_rename">Kunne ikke gi nytt navn til registeret!</string>
+    <string name="error_failed_to_init_recorder">Kunne ikke starte innspillingen</string>
+    <string name="error_failed_to_init_player">Kunne ikke starte</string>
+    <string name="error_player_data_source">Spilleren kan ikke lese filen</string>
+    <string name="error_unable_to_read_sound_file">Kan ikke spille av lydfilen</string>
+    <string name="error_permission_denied">Forespørselen om tillatelse blir avslått</string>
+    <string name="recordtoast">Den innspilte tiden er:</string>
+    <string name="open_record_with">Åpne %s med</string>
+    <string name="delete">slette</string>
+    <string name="rename">gi nytt navn</string>
+    <string name="open_with">åpnes ved hjelp</string>
+    <string name="download">nedlasting</string>
+    <string name="share">Dele</string>
+    <string name="ask_to_rename">Vis omdøpsdialogen etter å ha stoppet innspillingen</string>
+    <string name="record_deleted_successfully">Filen ble slettet</string>
+    <string name="need_write_permission">Appen krever tillatelse til å få tilgang til offentlig lagring. Hvis ikke tillatt, lagres logger i katalogen for applikasjonen.</string>
+    <string name="rec_name">Substantiv:</string>
+    <string name="rec_format">format:</string>
+    <string name="rec_duration">Varighet:</string>
+    <string name="rec_size">størrelsen:</string>
+    <string name="rec_location">Filplassering:</string>
+    <string name="naming">navngiving:</string>
+    <string name="private_dir_warning">Loggene vil bli lagret i katalogen for applikasjonen, og de er ikke synlige for andre applikasjoner</string>
+    <string name="public_dir_warning">Loggene vil bli lagret i den delte katalogen på enheten din, som er synlig for andre applikasjoner</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_deny">Avslag</string>
+    <string name="btn_allow">Tillate</string>
+    <string name="error_process_waveform">Bølgeformen kan ikke tegnes</string>
+    <string name="records_was_removed">Noen loggfiler ble ikke funnet i loggkatalogen. Det kan ha blitt fjernet eller flyttet.</string>
+    <string name="dont_ask_again_rename">Ikke be om å gi nytt navn</string>
+    <string name="error_lost_records">Noen av postene dine er slettet eller flyttet</string>
+    <string name="delete_record_forever">Slette et opptak %s for alltid?</string>
+    <string name="restore_record">Gjenopprette register %s?</string>
+    <string name="empty">Tømme</string>
+    <string name="record_moved_into_trash">Posten er flyttet til papirkurven</string>
+    <string name="record_restored_successfully">Innspillingen ble gjenopprettet</string>
+    <string name="rec_frequency">Frekvens:</string>
+    <string name="trash">Søppel</string>
+    <string name="trash_info">Oppføringer som blir flyttet til papirkurven vil bli fjernet for alltid i løpet av 60 dager.</string>
+    <string name="error_no_available_space">Ingen plass tilgjengelig!</string>
+    <string name="rec_created">Opprettet:</string>
+    <string name="info">informasjon</string>
+    <string name="cancel_rec">Påmelding kansellert</string>
+    <string name="delete_all2">Slette alle</string>
+    <string name="lost_records">Records tapt</string>
+    <string name="btn_details">detaljene</string>
+    <string name="error_failed_access_to_storage">Kunne ikke få tilgang til fillagring</string>
+    <string name="downloading_cancel">Nedlasting kansellert</string>
+    <string name="downloading_success">Lastet ned til nedlastningskatalogen %s</string>
+    <string name="downloading_failed">Nedlastingen mislyktes: %s</string>
+    <string name="downloading">Last ned: %s</string>
+    <string name="by_date">Etter dato (nyeste)</string>
+    <string name="by_date_desc">Etter dato (eldst)</string>
+    <string name="by_name">Etter navn (A-Z)</string>
+    <string name="by_name_desc">Etter navn (Z-A)</string>
+    <string name="by_duration">Etter varighet (lengst)</string>
+    <string name="by_duration_desc">Etter varighet (kortest)</string>
+    <string name="delete_this_record">Slett denne posten?</string>
+    <string name="all_records_deleted_successfully">Alle poster er blitt slettet</string>
+
+    <string name="refresh">Forfriske</string>
+    <string name="find">Finne</string>
+    <string name="share_via">Del via</string>
+    <string name="copy_link">Kopier link</string>
+    <string name="copied_to_clipboard">Kopiert til utklippstavlen</string>
+    <string name="about">Om appen</string>
+    <string name="back">Klikk igjen for å avslutte</string>
+    <string name="finalback">Klikk igjen for å gå tilbake til hovedmenyen</string>
+    <string name="error_on_recording">Registreringsfeil!</string>
+    <string name="settings">Innstillinger</string>
+    <string name="recording_feature_disabled">Opptaksfunksjonen er deaktivert</string>
+    <string name="selected">%d valgt</string>
+    <string name="processing_canceled">Behandlingen er kansellert</string>
+    <string name="record_calculation">Bølgeformberegninger&#8230;</string>
+    <string name="restore">Restaurere</string>
+    <string name="dont_ask_again">Ikke spør igjen</string>
+    <string name="downloading_success_and_fail_count">%d poster ble lastet ned og %d kunne ikke lastes ned</string>
+    <string name="moving_records_success_and_fail_count">%d poster ble flyttet og %d kunne ikke flyttes</string>
+    <string name="move_record_success">%s flyttet til appens private katalog</string>
+    <string name="move_record_failed">Kunne ikke flytte: %s</string>
+    <string name="downloading_failed_file_already_exists">Kunne ikke laste ned. Filen med navnet %s eksisterer allerede</string>
+    <string name="selected_records_moved_into_trash">Utvalgte poster flyttet til papirkurven</string>
+    <string name="record_imported_successfully">Posten er importert</string>
+    <string name="cant_import_files">Får ikke importert filer</string>
+    <string name="file_browser">fil utforsker</string>
+    <string name="private_dir">Privat katalog</string>
+    <string name="public_dir">Offentlig katalog</string>
+    <string name="found_in_the_app">Fant i appen</string>
+    <string name="not_found_in_the_app">Ikke funnet i appen</string>
+    <string name="in_trash">I søpla</string>
+    <string name="btn_get_started">Kom i gang</string>
+    <string name="btn_apply">Søke om</string>
+    <string name="btn_reset">Nullstille</string>
+    <string name="btn_next">Neste</string>
+    <string name="view">Utsikt</string>
+    <string name="view_records">Se opptegnelser</string>
+    <string name="move_records_needed">Flytt poster er nødvendig</string>
+    <string name="moving_record">Flytter posten: %s</string>
+    <string name="moving_record_cancel">Flytting avbrutt</string>
+    <string name="move_records_info">Noen av postene dine er fortsatt lagret i det offentlige lageret. Snart blir ikke den offentlige lagringen tilgjengelig for appen. Vi må flytte postene til appens private katalog.</string>
+    <string name="recording_format">Opptaksformat:</string>
+    <string name="bitrate">Bithastighet:</string>
+    <string name="channels">Kanalantall:</string>
+    <string name="sample_rate">Samplingsfrekvens:</string>
+    <string name="size_per_min">%s Mb/min forventet størrelse</string>
+    <string name="records_location">Rekorder plassering: %s</string>
+    <string name="feature_not_available_in_android_10">Denne funksjonen er ikke lenger tilgjengelig i Android 10 eller nyere.</string>
+    <string name="move_records">Flytt %d poster</string>
+    <string name="error_failed_to_restore">Kunne ikke gjenopprette posten!</string>
+    <string name="error_failed_to_delete">Kunne ikke slette posten!</string>
+    <string name="move_public_storage_records_message">Flytt offentlige lagringsposter er nødvendig</string>
+    <string name="later">Seinere</string>
+    <string name="move">Bevege seg</string>
+    <string name="move_all">Flytt alle</string>
+    <string name="start_recording">Start opptak</string>
+    <string name="btn_import">Import</string>
+    <string name="info_format"><b>M4a</b> formatet er kodet med AAC-lydkodeken har god kvalitet og liten størrelse. <b>(anbefales)</b>
+		\n<b>Wav</b> er ukomprimert lyddataformat. Det tar mye mer plass enn andre formater. Det er nødvendig for spesifikke tilfeller.
+		\n<b>3gp</b> er et multimediebeholderformat utviklet for mobile telekommunikasjonstjenester. Bruk den hvis du trenger å spare plass.
+		</string>
+    <string name="info_frequency"><b>prøvefrekvens</b> er antall prøver av lyd som bæres per sekund.
+		\n<b>48kHz</b> er samplingsfrekvensen som brukes for DVDer.
+		\n<b>44,1kHz</b> er samplingsfrekvensen til lyd-CDer. <b>(anbefales)</b>
+		\n<b>22kHz</b> populær samplingshastighet for lav bithastighet som 64 kbps.
+		\n <b>8kHz</b> Samplingsfrekvens har mindre båndbredde enn moderne telefonsystemer. Ikke egnet for noen seriøse opptaksoppgaver.
+		</string>
+    <string name="info_bitrate"><b>Bithastighet</b> er størrelsen på data per sekund av lyd. Påvirker direkte opptakskvalitet og størrelse.
+		\n<b>256 kbps</b> god kvalitet Bithastighet.
+		\n<b>192 kbps</b> medium kvalitet Bithastighet.
+		\n<b>128 kbps</b> mellomklasse bithastighetskvalitet. Felles bithastighet for podcaster. <b>(anbefales)</b>
+		\n<b>96 kbps</b> brukes vanligvis til tale eller strømming av lav kvalitet.
+		\n<b>48 kbps</b> generelt akseptert bare for tale.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> to separate kanaler tas opp. Dette betyr at hver stereohøyttaler har et annet lydsignal. <b>(anbefales)</b>
+		\n<b>Mono</b> én signalkanal er tatt opp. Det kan reproduseres gjennom flere høyttalere, men alle høyttalerne gjengir fortsatt den samme kopien av signalet.
+		</string>
+    <string name="info_3gp"><b>3gp</b> er et multimediebeholderformat utviklet for mobile telekommunikasjonstjenester. Bruk den hvis du trenger å spare plass.</string>
+    <string name="info_m4a"><b>M4a</b> formatet er kodet med AAC-lydkodeken har god kvalitet og liten størrelse. <b>(anbefales)</b></string>
+    <string name="info_wav"><b>Wav</b> er ukomprimert lyddataformat. Det tar mye mer plass enn andre formater. Det er nødvendig for spesifikke tilfeller.</string>
+    <string name="info_stereo"><b>Stereo</b> to separate kanaler tas opp. Dette betyr at hver stereohøyttaler har et annet lydsignal. <b>(anbefales)</b></string>
+    <string name="info_mono"><b>Mono</b> én signalkanal er tatt opp. Det kan reproduseres gjennom flere høyttalere, men alle høyttalerne gjengir fortsatt den samme kopien av signalet.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> generelt akseptert bare for tale.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> brukes vanligvis til tale eller strømming av lav kvalitet.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> mellomklasse bithastighetskvalitet. Felles bithastighet for podcaster. <b>(anbefales)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> medium kvalitet Bithastighet.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> god kvalitet Bithastighet.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> Samplingsfrekvens har mindre båndbredde enn moderne telefonsystemer. Ikke egnet for noen seriøse opptaksoppgaver.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> er bedre enn 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> populær samplingshastighet for lav bithastighet som 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> er litt bedre enn 22kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> er samplingsfrekvensen til lyd-CDer. <b>(anbefales)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> er samplingsfrekvensen som brukes for DVDer.</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Flytt til søppel %d valgt rekord?</item>
+        <item quantity="other">Flytt til søppel %d valgt rekord?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Kopier %d valgt rekord til nedlastingsmappen?</item>
+        <item quantity="other">Kopier %d valgt rekord til nedlastingsmappen?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">Del %d rekord</item>
+        <item quantity="other">Del %d rekord</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d rekord ble lastet ned</item>
+        <item quantity="other">%d rekord ble lastet ned</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d rekord ble flyttet</item>
+        <item quantity="other">%d rekord ble flyttet</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">Kunne ikke laste ned %d rekord</item>
+        <item quantity="other">Kunne ikke laste ned %d rekord</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Kunne ikke flytte %d rekord</item>
+        <item quantity="other">Kunne ikke flytte %d rekord</item>
+    </plurals>
+    <string name="cancel">Avbryt</string>
+    <string name="hold_to_record_audio">Hold inne for å ta opp, slipp for å lagre</string>
+    <string name="mal_title_about">Om</string>
+    <string name="mal_title_licenses">Lisenser</string>
+    <string name="mal_close">Lukk</string>
+    <string name="mal_send_email">Send e-post</string>
+    <string name="mal_activity_exception">Ingen apper til å håndtere handling</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Versjon</string>
+    <string name="Licenses">Lisenser</string>
+    <string name="Author">Forfatter</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Egypt</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Bekvemmelighet</string>
+    <string name="Rate_app">Ranger denne appen</string>
+    <string name="Send">Send en epost</string>
+    <string name="Call">Ring meg</string>
+    <string name="Visit">Besøk Egypt</string>
+    <string name="save_as">Lagre som&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Oppføringen vil bli kopiert til \'Nedlastinger\'-katalogen</string>
+    <string name="app_widget_description">Begynn å ta opp widget</string>
+    <string name="error_failed_to_start_recording">Kunne ikke starte opptaket</string>
+    <string name="details_file_is_not_available">Dessverre har ikke appen lenger tilgang til Androids offentlige lagring. Du kan finne postfilen på smarttelefonen din på dette stedet: %s</string>
+    <string name="title_file_is_not_available">Ingen tilgang til journalfilen!</string>
+    <string name="button_record">innspill</string>
+    <string name="button_stop">Stoppe</string>
+    <string name="button_resume">Gjenoppta</string>
+    <string name="button_finish">Bli ferdig</string>
+
+</resources>

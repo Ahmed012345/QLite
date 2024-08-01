@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">O Alcorão Sagrado</string>
+    <string name="lang">pt</string>
+    <string name="turnlang">Alterar o idioma</string>
+    <string name="sharetwitter">Compartilhar link do aplicativo(Twitter)</string>
+    <string name="sharefacebook">Compartilhar link do aplicativo(Facebook)</string>
+    <string name="sharegmail">Compartilhar link do aplicativo(Gmail)</string>
+    <string name="sharewhatapp">Compartilhar link do aplicativo(What\'s App)</string>
+    <string name="shareinstagram">Compartilhar link do aplicativo(Instagram)</string>
+    <string name="sharetumblr">Compartilhar link do aplicativo(Tumblr)</string>
+    <string name="shareviber">Compartilhar link do aplicativo(Viber)</string>
+    <string name="sharelinkedin">Compartilhar link do aplicativo(Linkedin)</string>
+    <string name="sharesnapchat">Compartilhar link do aplicativo(Snapchat)</string>
+    <string name="shareskype">Compartilhar link do aplicativo(Skype)</string>
+    <string name="sharetelegram">Compartilhar link do aplicativo(Telegram)</string>
+    <string name="sharereddit">Compartilhar link do aplicativo(Reddit)</string>
+
+    <string name="dialog_positive_button_title">Atualizar</string>
+    <string name="dialog_message">Uma nova versão do aplicativo está disponível, por favor clique abaixo para atualizar
+        a versão mais recente.
+    </string>
+    <string name="dialog_title">Nova versão disponível</string>
+    <string name="all_records_deleted">Todas as gravações foram apagadas com sucesso</string>
+    <string name="app_settings">Configurações de áudio:</string>
+    <string name="available_space">Espaço disponível: %s</string>
+    <string name="bookmarks">sinais de referência</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_no">Não</string>
+    <string name="btn_play">correndo</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_yes">Sim</string>
+    <string name="delete_all">Excluir todas as gravações</string>
+    <string name="delete_all_records">Excluir todas as gravações e não será recuperável?</string>
+    <string name="delete_record">Excluir este registro %s?</string>
+    <string name="error_cant_create_file">Não é possível criar arquivo</string>
+    <string name="error_failed_to_init_player">Falha ao iniciar</string>
+    <string name="error_failed_to_init_recorder">Falha ao iniciar a gravação</string>
+    <string name="error_failed_to_rename">Falha ao renomear o registro!</string>
+    <string name="error_file_exists">Este nome de arquivo já existe!</string>
+    <string name="error_invalid_output_file">O arquivo de saída é inválido</string>
+    <string name="error_permission_denied">Pedido de permissão negada</string>
+    <string name="error_player_data_source">O operador não pode ler o arquivo</string>
+    <string name="error_unable_to_read_sound_file">Não é possível ler o arquivo de áudio</string>
+    <string name="error_unknown">Erro desconhecido</string>
+    <string name="failed_to_delete_all_records">Falha ao apagar todas as gravações</string>
+    <string name="fetchs">Conexão com a internet</string>
+    <string name="hold_button_to_record">Iniciar a gravação</string>
+    <string name="hold_button_to_record2">Ao se registrar, por favor, continue (toque)</string>
+    <string name="import_progress">Importar ficheiro áudio …</string>
+    <string name="keep_screen_on">Não desligue a tela durante a gravação</string>
+    <string name="no_bookmarks">Marcadores estão vazios.</string>
+    <string name="no_records">gravações vazio.</string>
+    <string name="other_settings">Outro:</string>
+    <string name="playback">Executar: %s</string>
+    <string name="please_select_record_to_share">Por favor, selecione ou registre um arquivo de áudio para
+        compartilhar
+    </string>
+    <string name="record_in_stereo">Som estéreo</string>
+    <string name="record_name">Novo nome</string>
+    <string name="record_processing">Processando arquivo …</string>
+    <string name="recording">Gravação: %s</string>
+    <string name="recording_is_on">A gravação está ativada</string>
+    <string name="recording_progress">Gravação&#8230;</string>
+    <string name="recording_paused">pausa</string>
+    <string name="recording_settings">Configurações do registro:</string>
+    <string name="records">Gravações</string>
+    <string name="recordtoast">O tempo registrado é:</string>
+    <string name="settingss">Configurações</string>
+    <string name="share_record">Compartilhar inscrição: %s</string>
+    <string name="store_records_public">As gravações são armazenadas na pasta pública</string>
+    <string name="today">Hoje</string>
+    <string name="total_duration">Período total registrado: %s</string>
+    <string name="total_record_count">Número total de registros: %d</string>
+    <string name="warning">Aviso!</string>
+    <string name="yesterday">Ontem</string>
+    <string name="private_dir_warning">Os registros serão armazenados no diretório privado do aplicativo, que não é visível para outros aplicativos</string>
+    <string name="public_dir_warning">Os registros serão armazenados no diretório comum do seu dispositivo, visível para outros aplicativos</string>
+    <string name="error_on_recording">Erro de gravação!</string>
+
+    <string name="wifion">Wi-Fi</string>
+    <string name="ask_to_rename">Mostrar a renomeação de diálogo depois de parar a gravação</string>
+    <string name="btn_allow">permitir</string>
+    <string name="btn_deny">negar</string>
+    <string name="btn_ok">Está bem</string>
+    <string name="delete">excluir</string>
+    <string name="download">baixar</string>
+    <string name="error_process_waveform">Não é possível desenhar forma de onda</string>
+    <string name="info">em formação</string>
+    <string name="naming">Naming:</string>
+    <string name="need_write_permission">O aplicativo requer permissão para acessar o armazenamento público. Se não for permitido, os registros serão armazenados no diretório privado do aplicativo</string>
+    <string name="open_record_with">Abra %s com</string>
+    <string name="open_with">Abrir com</string>
+    <string name="rec_duration">Duração:</string>
+    <string name="rec_format">Formato:</string>
+    <string name="rec_location">Localização de arquivo:</string>
+    <string name="rec_name">Nome:</string>
+    <string name="rec_size">Tamanho:</string>
+    <string name="record_deleted_successfully">registro excluído com sucesso</string>
+    <string name="rename">renomear</string>
+    <string name="share">compartilhar</string>
+    <string name="delete_all2">Excluir tudo</string>
+    <string name="dont_ask_again_rename">Não peça renomear novamente</string>
+    <string name="error_lost_records">Alguns de seus registros foram excluídos ou movidos</string>
+    <string name="lost_records">Registros perdidos</string>
+    <string name="records_was_removed">Alguns arquivos de registros não foram encontrados no diretório de registros.Possivelmente eles foram removidos ou movidos.</string>
+    <string name="cancel_rec">O registro foi cancelado</string>
+    <string name="btn_details">Detalhes</string>
+    <string name="delete_record_forever">Excluir este registro para sempre %s?</string>
+    <string name="empty">Vazio</string>
+    <string name="rec_frequency">Frequência:</string>
+    <string name="error_no_available_space">Não há espaço disponível!</string>
+    <string name="record_moved_into_trash">Registro movido para a lixeira</string>
+    <string name="record_restored_successfully">Registro restaurado com sucesso</string>
+    <string name="restore_record">Restaure isso registro?</string>
+    <string name="trash_info">Os registros movidos para o lixo serão removidos para sempre em 60 dias.</string>
+    <string name="trash">Lixo</string>
+    <string name="rec_created">Criado:</string>
+    <string name="error_failed_access_to_storage" >Falha no acesso ao armazenamento de arquivos</string>
+    <string name="downloading_cancel" >Download cancelado</string>
+    <string name="downloading_success" >%s baixado para o diretório Download</string>
+    <string name="downloading_failed" >Falhou o download: %s</string>
+    <string name="downloading" >Baixando: %s</string>
+    <string name="by_date" >Por data (mais recente)</string>
+    <string name="by_date_desc" >Por data (mais antiga)</string>
+    <string name="by_name" >Por nome (A-Z)</string>
+    <string name="by_name_desc" >Por nome (Z-A)</string>
+    <string name="by_duration" >Por duração (mais longa)</string>
+    <string name="by_duration_desc" >Por duração (mais curta)</string>
+    <string name="delete_this_record" >Excluir este registro?</string>
+    <string name="all_records_deleted_successfully" >Todos os registros excluídos com sucesso</string>
+    <string name="refresh">refrescar</string>
+    <string name="find">Achar</string>
+    <string name="share_via">Compartilhar via</string>
+    <string name="copy_link">Link de cópia</string>
+    <string name="copied_to_clipboard">Copiado para a área de transferência</string>
+    <string name="finalback">Clique novamente para voltar ao menu principal</string>
+    <string name="back">Clique novamente para sair</string>
+    <string name="about">Sobre o app</string>
+    <string name="slide_to_cancel">deslize para cancelar</string>
+    <string name="btn_cancelll">final</string>
+    <string name="btn_ccccc">Todas as gravações foram apagadas com sucesso</string>
+    <string name="btn_cccc">Os arquivos foram recuperados</string>
+    <string name="btn_ccc">O arquivo foi excluído com sucesso</string>
+    <string name="btn_cc">excluir</string>
+    <string name="btn_c">O arquivo foi deletado</string>
+    <string name="btn_cancell">Modificação de nome cancelada</string>
+    <string name="btn_savee">O nome foi modificado com sucesso</string>
+    <string name="settings">Configurações</string>
+    <string name="recording_feature_disabled">Recurso de gravação desabilitado</string>
+    <string name="selected">%d selecionado</string>
+    <string name="processing_canceled">Processamento cancelado</string>
+    <string name="record_calculation">Cálculos de forma de onda&#8230;</string>
+    <string name="downloading_success_and_fail_count">%d registros baixados com sucesso e %d falhou ao baixar</string>
+    <string name="moving_records_success_and_fail_count">% d registros movidos com sucesso e% d falhou ao mover</string>
+    <string name="move_record_success">%s movido para o diretório privado do aplicativo</string>
+    <string name="move_record_failed">Falha ao mover: %s</string>
+    <string name="downloading_failed_file_already_exists">Falha ao baixar. Arquivo com nome %s já existe</string>
+    <string name="selected_records_moved_into_trash">Os registros selecionados foram movidos para a lixeira</string>
+    <string name="record_imported_successfully">O registro importado com sucesso</string>
+    <string name="cant_import_files">Não é possível importar arquivos</string>
+    <string name="file_browser">navegador de arquivos</string>
+    <string name="private_dir">Diretório privado</string>
+    <string name="public_dir">Diretório público</string>
+    <string name="found_in_the_app">Encontrado no aplicativo</string>
+    <string name="not_found_in_the_app">Não encontrado no aplicativo</string>
+    <string name="in_trash">No lixo</string>
+    <string name="btn_get_started">iniciar</string>
+    <string name="btn_apply">Aplique</string>
+    <string name="btn_reset">Redefinir</string>
+    <string name="btn_next">próximo</string>
+    <string name="view">Vista</string>
+    <string name="view_records">Ver registros</string>
+    <string name="move_records_needed">Mover registros necessários</string>
+    <string name="moving_record">Movendo registro: %s</string>
+    <string name="moving_record_cancel">Movimentação cancelada</string>
+    <string name="move_records_info">Alguns de seus registros ainda estão armazenados no armazenamento público. Em breve, o armazenamento público ficará indisponível para o aplicativo. Precisamos mover esses registros para o diretório privado do aplicativo.</string>
+    <string name="recording_format">Formato de gravação:</string>
+    <string name="bitrate">Taxa de bits:</string>
+    <string name="channels">Contagem de canais:</string>
+    <string name="sample_rate">Taxa de amostragem:</string>
+    <string name="size_per_min">%s Mb/min de tamanho esperado</string>
+    <string name="records_location">Localização dos registros: %s</string>
+    <string name="feature_not_available_in_android_10">Este recurso não está mais disponível no Android 10 ou superior.</string>
+    <string name="move_records">Mover %d registros</string>
+    <string name="error_failed_to_restore">Falha ao recuperar o registro!</string>
+    <string name="error_failed_to_delete">Falha ao excluir o registro!</string>
+    <string name="move_public_storage_records_message">É necessário mover registros de armazenamento público</string>
+    <string name="later">Mais tarde</string>
+    <string name="move">Se mover</string>
+    <string name="move_all">mova tudo</string>
+    <string name="start_recording">Comece a gravar</string>
+    <string name="btn_import">Importar</string>
+    <string name="restore">Restaurar</string>
+    <string name="dont_ask_again">Não pergunte de novo</string>
+    <string name="info_format"><b>M4a</b> formato é codificado com codec de áudio AAC tem boa qualidade e tamanho pequeno. <b>(recomendado)</b>
+		\n<b>Wav</b> é o formato de dados de áudio não compactado. Ocupa muito mais espaço do que outros formatos. É necessário para casos específicos.
+		\n<b>3gp</b> é um formato de contêiner multimídia desenvolvido para serviços de telecomunicações móveis. Use-o se precisar economizar espaço.
+		</string>
+    <string name="info_frequency"><b>Taxa de amostragem</b> é o número de amostras de áudio transportadas por segundo.
+		\n<b>48kHz</b> é a taxa de amostragem usada para DVDs.
+		\n<b>44,1kHz</b> é a taxa de amostragem de CDs de áudio. <b>(recomendado)</b>
+		\n<b>22kHz</b> taxa de amostragem popular para baixa taxa de bits, como 64 kbps.
+		\n <b>8kHz</b> a taxa de amostragem tem menos largura de banda do que os sistemas de telefonia modernos. Não é adequado para nenhuma tarefa de gravação séria.
+		</string>
+    <string name="info_bitrate"><b>taxa de bits</b> é o tamanho dos dados por segundo de som. Afeta diretamente a qualidade e o tamanho da gravação.
+		\n<b>256 kbps</b> taxa de bits de boa qualidade .
+		\n<b>192 kbps</b> taxa de bits de qualidade média.
+		\n<b>128 kbps</b> qualidade de taxa de bits de médio alcance. Taxa de bits comum para podcasts. <b>(recomendado)</b>
+		\n<b>96 kbps</b> geralmente usado para voz ou streaming de baixa qualidade.
+		\n<b>48 kbps</b> geralmente aceitável apenas para fala.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> dois canais separados são gravados. Isso significa que cada alto-falante estéreo possui um sinal de som diferente. <b>(recomendado)</b>
+		\n<b>Mono</b> um canal de sinal é gravado. Ele pode ser reproduzido por vários alto-falantes, mas todos os alto-falantes ainda estão reproduzindo a mesma cópia do sinal.
+		</string>
+    <string name="info_3gp"><b>3gp</b> é um formato de contêiner multimídia desenvolvido para serviços de telecomunicações móveis. Use-o se precisar economizar espaço.</string>
+    <string name="info_m4a"><b>M4a</b> formato é codificado com codec de áudio AAC tem boa qualidade e tamanho pequeno. <b>(recomendado)</b></string>
+    <string name="info_wav"><b>Wav</b> é o formato de dados de áudio não compactado. Ocupa muito mais espaço do que outros formatos. É necessário para casos específicos.</string>
+    <string name="info_stereo"><b>Stereo</b> dois canais separados são gravados. Isso significa que cada alto-falante estéreo possui um sinal de som diferente. <b>(recomendado)</b></string>
+    <string name="info_mono"><b>Mono</b> um canal de sinal é gravado. Ele pode ser reproduzido por vários alto-falantes, mas todos os alto-falantes ainda estão reproduzindo a mesma cópia do sinal.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> geralmente aceitável apenas para fala.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> geralmente usado para voz ou streaming de baixa qualidade.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> qualidade de taxa de bits de médio alcance. Taxa de bits comum para podcasts. <b>(recomendado)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> taxa de bits de qualidade média.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> taxa de bits de boa qualidade.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> a taxa de amostragem tem menos largura de banda do que os sistemas de telefonia modernos. Não é adequado para nenhuma tarefa de gravação séria.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> é melhor do que 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> taxa de amostragem popular para baixa taxa de bits, como 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> é um pouco melhor do que 22kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> é a taxa de amostragem de CDs de áudio. <b>(recomendado)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> é a taxa de amostragem usada para DVDs.</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Mover para lixeira %d registro selecionado?</item>
+        <item quantity="other">Mover para lixeira %d registro selecionado?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Copiar %d registro selecionado para a registro Download?</item>
+        <item quantity="other">Copiar %d registro selecionado para a registro Download?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">Compartilhe %d registro</item>
+        <item quantity="other">Compartilhe %d registro</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d registro baixado com sucesso</item>
+        <item quantity="other">%d registro baixado com sucesso</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d registro movido com sucesso</item>
+        <item quantity="other">%d registro movido com sucesso</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">Falha ao baixar %d registro</item>
+        <item quantity="other">Falha ao baixar %d registro</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Falha ao mover %d registro</item>
+        <item quantity="other">Falha ao mover %d registro</item>
+    </plurals>
+    <string name="cancel">Cancelar</string>
+    <string name="hold_to_record_audio">Segure para gravar, solte para salvar</string>
+    <string name="mal_title_about">Cerca de</string>
+    <string name="mal_title_licenses">Licenças</string>
+    <string name="mal_close">Fechar</string>
+    <string name="mal_send_email">Enviar email</string>
+    <string name="mal_activity_exception">Nenhum aplicativo para controlar a ação</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Versão</string>
+    <string name="Licenses">Licenças</string>
+    <string name="Author">Autor</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Egito</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Conveniência</string>
+    <string name="Rate_app">Avalie este aplicativo</string>
+    <string name="Send">Enviar um email</string>
+    <string name="Call">Liga para mim</string>
+    <string name="Visit">Visitar o egito</string>
+    <string name="save_as">Salvar como&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">O registro será copiado para o diretório \'Downloads\'</string>
+    <string name="app_widget_description">Iniciar widget de gravação</string>
+    <string name="error_failed_to_start_recording">Falha ao iniciar a gravação</string>
+    <string name="details_file_is_not_available">Infelizmente, a aplicação já não tem acesso ao armazenamento público do Android. Pode encontrar o ficheiro de gravação no seu smartphone neste local: %s</string>
+    <string name="title_file_is_not_available">Sem acesso ao ficheiro de gravação!</string>
+    <string name="button_record">Registo</string>
+    <string name="button_stop">Parar</string>
+    <string name="button_resume">Retomar</string>
+    <string name="button_finish">Terminar</string>
+
+</resources>

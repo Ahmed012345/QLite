@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Al-Quran yang suci</string>
+    <string name="lang">ms</string>
+    <string name="turnlang">Tukar bahasa</string>
+    <string name="sharetwitter">Kongsi pautan aplikasi di (Twitter)</string>
+    <string name="sharefacebook">Kongsi pautan aplikasi di (Facebook)</string>
+    <string name="sharegmail">Kongsi pautan aplikasi di (Gmail)</string>
+    <string name="sharewhatapp">Kongsi pautan aplikasi di (What\'s App)</string>
+    <string name="shareinstagram">Kongsi pautan aplikasi di (Instagram)</string>
+    <string name="sharetumblr">Kongsi pautan aplikasi di (Tumblr)</string>
+    <string name="shareviber">Kongsi pautan aplikasi di (Viber)</string>
+    <string name="sharelinkedin">Kongsi pautan aplikasi di (Linkedin)</string>
+    <string name="sharesnapchat">Kongsi pautan aplikasi di (Snapchat)</string>
+    <string name="shareskype">Kongsi pautan aplikasi di (Skype)</string>
+    <string name="sharetelegram">Kongsi pautan aplikasi di (Telegram)</string>
+    <string name="sharereddit">Kongsi pautan aplikasi di (Reddit)</string>
+    <string name="dialog_title">Versi baru boleh didapati</string>
+    <string name="dialog_message">Versi baru aplikasi tersedia, sila klik di bawah untuk mengemas kini versi terkini.</string>
+    <string name="dialog_positive_button_title">Kemas kini</string>
+    <string name="slide_to_cancel">Tarik untuk membatalkan</string>
+    <string name="hold_button_to_record">Mula rakaman</string>
+    <string name="hold_button_to_record2">Apabila mendaftar, sila terus menyentuh</string>
+    <string name="fetchs">Sambungan internet</string>
+    <string name="wifion">Wi-Fi</string>
+    <string name="records">Rakaman</string>
+    <string name="settingss">Tetapan</string>
+    <string name="store_records_public">Rakaman disimpan dalam folder awam</string>
+    <string name="record_in_stereo">Bunyi stereo</string>
+    <string name="keep_screen_on">Jangan matikan skrin semasa rakaman</string>
+    <string name="total_duration">Jumlah tempoh tercatat: %s</string>
+    <string name="total_record_count">Jumlah bilangan rekod: %d</string>
+    <string name="available_space">Ruang yang tersedia: %s</string>
+    <string name="delete_all">Padam semua rekod</string>
+    <string name="warning">Amaran!</string>
+    <string name="delete_record">Pindah ke kitar semula %s</string>
+    <string name="delete_all_records">Padam semua rekod dan tidak akan dapat memperolehnya lagi.</string>
+    <string name="all_records_deleted">Semua rekod berjaya dipadamkan</string>
+    <string name="failed_to_delete_all_records">Gagal memadamkan semua rekod</string>
+    <string name="please_select_record_to_share">Sila pilih atau rekod fail audio untuk dikongsi</string>
+    <string name="record_name">Nama baru</string>
+    <string name="recording">Rakaman: %s</string>
+    <string name="recording_is_on">Rakaman sedang aktif</string>
+    <string name="recording_progress">Rakaman …</string>
+    <string name="recording_paused">Dijeda</string>
+    <string name="playback">Dijalankan: %s</string>
+    <string name="no_records">Rakaman kosong.</string>
+    <string name="no_bookmarks">Bookmarks kosong.</string>
+    <string name="bookmarks">Penanda buku</string>
+    <string name="share_record">Mengambil bahagian Pendaftaran: %s</string>
+    <string name="import_progress">Mengimport fail audio …</string>
+    <string name="record_processing">Pemprosesan fail …</string>
+    <string name="app_settings">Tetapan bunyi:</string>
+    <string name="recording_settings">Tetapan pendaftaran:</string>
+    <string name="other_settings">tetapan lain:</string>
+    <string name="today">Hari ini</string>
+    <string name="yesterday">Semalam</string>
+    <string name="btn_save">simpan</string>
+    <string name="btn_savee">Nama itu berjaya diubahsuai</string>
+    <string name="btn_cancel">pembatalan</string>
+    <string name="btn_cancell">Pengubahsuaian nama telah dibatalkan</string>
+    <string name="btn_c">Memadam fail yang telah dibatalkan</string>
+    <string name="btn_cc">padam</string>
+    <string name="btn_ccc">Fail berjaya dipadam</string>
+    <string name="btn_cccc">Telah dibatalkan Padam fail</string>
+    <string name="btn_ccccc">Semua rekod berjaya dipadamkan</string>
+    <string name="btn_cancelll">Selesai</string>
+    <string name="btn_yes">Ya</string>
+    <string name="btn_no">Tidak!</string>
+    <string name="btn_play">hidupkan</string>
+    <string name="error_unknown">Kesilapan tidak diketahui</string>
+    <string name="error_cant_create_file">Tidak dapat membuat fail</string>
+    <string name="error_invalid_output_file">Fail output tidak sah</string>
+    <string name="error_file_exists">Fail dengan nama ini sudah wujud!</string>
+    <string name="error_failed_to_rename">Gagal menamakan semula pendaftaran!</string>
+    <string name="error_failed_to_init_recorder">Gagal memulakan rakaman</string>
+    <string name="error_failed_to_init_player">Gagal bermula</string>
+    <string name="error_player_data_source">Pengendali tidak boleh membaca fail</string>
+    <string name="error_unable_to_read_sound_file">Tidak dapat membaca fail audio</string>
+    <string name="error_permission_denied">Permintaan kebenaran ditolak</string>
+    <string name="recordtoast">Masa yang direkodkan ialah:</string>
+    <string name="open_record_with">Buka %s menggunakan</string>
+    <string name="delete">Padam</string>
+    <string name="rename">Namakan semula</string>
+    <string name="open_with">Buka dengan</string>
+    <string name="download">Muat turun</string>
+    <string name="share">penyertaan</string>
+    <string name="ask_to_rename">Tunjukkan dialog menamakan semula selepas menghentikan rakaman</string>
+    <string name="record_deleted_successfully">Fail berjaya dipadam</string>
+    <string name="need_write_permission">Apl ini memerlukan kebenaran untuk mengakses storan awam. Jika tidak dibenarkan, rekod akan disimpan dalam direktori aplikasi</string>
+    <string name="rec_name">Nama:</string>
+    <string name="rec_format">Formula:</string>
+    <string name="rec_duration">Tempoh:</string>
+    <string name="rec_size">Saiz:</string>
+    <string name="rec_location">Lokasi fail:</string>
+    <string name="naming">Label:</string>
+    <string name="private_dir_warning">Rekod akan disimpan dalam direktori aplikasi dan tidak dapat dilihat oleh aplikasi lain</string>
+    <string name="public_dir_warning">Rekod akan disimpan dalam direktori kongsi pada peranti anda yang dapat dilihat oleh aplikasi lain</string>
+    <string name="btn_ok">Baiklah</string>
+    <string name="btn_deny">Dia menolak</string>
+    <string name="btn_allow">membolehkan</string>
+    <string name="error_process_waveform">Bentuk gelombang tidak dapat ditarik</string>
+    <string name="records_was_removed">Beberapa fail log tidak ditemui dalam direktori log. Ia mungkin telah dikeluarkan atau dipindahkan.</string>
+    <string name="dont_ask_again_rename">Jangan tanya untuk menamakan semula lagi</string>
+    <string name="error_lost_records">Beberapa rekod anda telah dipadam atau dipindahkan</string>
+    <string name="delete_record_forever">Padamkan rakaman %s Selama-lamanya?</string>
+    <string name="restore_record">Memulihkan log %s?</string>
+    <string name="empty">kosong</string>
+    <string name="record_moved_into_trash">rekod yang dipindahkan ke tong sampah</string>
+    <string name="record_restored_successfully">Kembalikan rekod dengan jayanya</string>
+    <string name="rec_frequency">Kekerapan:</string>
+    <string name="trash">Sampah</string>
+    <string name="trash_info">Rekod yang dipindahkan ke sampah akan dikeluarkan selama-lamanya Dalam tempoh 60 hari.</string>
+    <string name="error_no_available_space">Tiada ruang tersedia!</string>
+    <string name="rec_created">Dicipta:</string>
+    <string name="info">Maklumat</string>
+    <string name="cancel_rec">Pendaftaran telah dibatalkan</string>
+    <string name="delete_all2">Padam semua</string>
+    <string name="lost_records">rekod yang hilang</string>
+    <string name="btn_details">butiran</string>
+    <string name="error_on_recording">Rakaman rakaman!</string>
+    <string name="error_failed_access_to_storage" >Gagal mengakses penyimpanan fail</string>
+    <string name="downloading_cancel" >Muat turun dibatalkan</string>
+    <string name="downloading_success" >%s dimuat turun ke direktori Muat turun</string>
+    <string name="downloading_failed" >Gagal memuat turun: %s</string>
+    <string name="downloading" >Memuat turun: %s</string>
+    <string name="by_date" >Mengikut tarikh (terbaru)</string>
+    <string name="by_date_desc" >Mengikut tarikh (tertua)</string>
+    <string name="by_name" >Dengan nama (A-Z)</string>
+    <string name="by_name_desc" >Dengan nama (Z-A)</string>
+    <string name="by_duration" >Mengikut tempoh (paling lama)</string>
+    <string name="by_duration_desc" >Mengikut tempoh (terpendek)</string>
+    <string name="delete_this_record" >Padamkan rekod ini?</string>
+    <string name="all_records_deleted_successfully" >Semua rekod berjaya dipadamkan</string>
+
+    <string name="refresh">Segarkan</string>
+    <string name="find">Cari</string>
+    <string name="share_via">Kongsi melalui</string>
+    <string name="copy_link">Salin pautan</string>
+    <string name="copied_to_clipboard">Disalin ke papan keratan</string>
+    <string name="finalback">Klik sekali lagi untuk kembali ke menu utama</string>
+    <string name="back">Klik sekali lagi untuk keluar</string>
+    <string name="about">Mengenai apl</string>
+    <string name="settings">tetapan</string>
+    <string name="recording_feature_disabled">Ciri rakaman dilumpuhkan</string>
+    <string name="selected">%d dipilih</string>
+    <string name="processing_canceled">Pemprosesan dibatalkan</string>
+    <string name="record_calculation">Pengiraan bentuk gelombang&#8230;</string>
+    <string name="restore">Pulihkan</string>
+    <string name="dont_ask_again">Jangan tanya lagi</string>
+    <string name="downloading_success_and_fail_count">%d rekod berjaya dimuat turun dan %d gagal dimuat turun</string>
+    <string name="moving_records_success_and_fail_count">%d rekod berjaya dialihkan dan %d gagal dialihkan</string>
+    <string name="move_record_success">%s dialihkan ke direktori peribadi apl</string>
+    <string name="move_record_failed">Gagal dialihkan: %s</string>
+    <string name="downloading_failed_file_already_exists">Gagal untuk memuat turun. Fail dengan nama %s sudah wujud</string>
+    <string name="selected_records_moved_into_trash">Rekod yang dipilih dialihkan ke sampah</string>
+    <string name="record_imported_successfully">Rekod berjaya diimport</string>
+    <string name="cant_import_files">Tidak boleh mengimport fail</string>
+    <string name="file_browser">pelayar fail</string>
+    <string name="private_dir">Direktori persendirian</string>
+    <string name="public_dir">Direktori awam</string>
+    <string name="found_in_the_app">Ditemui dalam apl</string>
+    <string name="not_found_in_the_app">Tidak ditemui dalam apl</string>
+    <string name="in_trash">Dalam tong sampah</string>
+    <string name="btn_get_started">Mulakan</string>
+    <string name="btn_apply">memohon</string>
+    <string name="btn_reset">set semula</string>
+    <string name="btn_next">Seterusnya</string>
+    <string name="view">pandangan</string>
+    <string name="view_records">melihat rekod</string>
+    <string name="move_records_needed">Memindahkan rekod yang diperlukan</string>
+    <string name="moving_record">Rekod bergerak: %s</string>
+    <string name="moving_record_cancel">Bergerak dibatalkan</string>
+    <string name="move_records_info">Beberapa rekod anda masih disimpan dalam storan awam. Tidak lama lagi storan awam akan menjadi tidak tersedia untuk apl itu. Kami perlu mengalihkan rekod itu ke direktori peribadi apl.</string>
+    <string name="recording_format">Format rakaman:</string>
+    <string name="bitrate">Kadar bit:</string>
+    <string name="channels">Kiraan saluran:</string>
+    <string name="sample_rate">Kadar sampel:</string>
+    <string name="size_per_min">%s Mb/min saiz yang dijangkakan</string>
+    <string name="records_location">Records location: %s</string>
+    <string name="feature_not_available_in_android_10">Ciri ini tidak lagi tersedia dalam Android 10 atau lebih tinggi.</string>
+    <string name="move_records">Alihkan %d rekod</string>
+    <string name="error_failed_to_restore">Gagal memulihkan rekod!</string>
+    <string name="error_failed_to_delete">Gagal memadam rekod!</string>
+    <string name="move_public_storage_records_message">Pindahkan rekod storan awam diperlukan</string>
+    <string name="later">Nanti</string>
+    <string name="move">Bergerak</string>
+    <string name="move_all">Pindah semua</string>
+    <string name="start_recording">Mulakan Rakaman</string>
+    <string name="btn_import">Import</string>
+    <string name="info_format"><b>M4a</b> format dikodkan dengan codec audio AAC mempunyai kualiti yang baik dan saiz yang kecil. <b>(disyorkan)</b>
+		\n<b>Wav</b> ialah format data audio yang tidak dimampatkan. Ia memerlukan lebih banyak ruang daripada format lain. Ia diperlukan untuk kes khusus.
+		\n<b>3gp</b> ialah format kontena multimedia yang dibangunkan untuk perkhidmatan telekomunikasi mudah alih. Gunakannya jika anda perlu menjimatkan ruang.
+		</string>
+    <string name="info_frequency"><b>Kadar sampel</b> ialah bilangan sampel audio yang dibawa sesaat.
+		\n<b>48kHz</b> ialah kadar sampel yang digunakan untuk DVD.
+		\n<b>44,1kHz</b> ialah kadar pensampelan bagi CD Audio. <b>(disyorkan)</b>
+		\n<b>22kHz</b> kadar sampel yang popular untuk kadar bit rendah seperti 64 kbps.
+		\n <b>8kHz</b> kadar sampel mempunyai lebar jalur yang kurang daripada sistem telefon moden. Tidak sesuai untuk sebarang tugas rakaman yang serius.
+		</string>
+    <string name="info_bitrate"><b>Kadar bit</b> ialah saiz data sesaat bunyi. Secara langsung menjejaskan kualiti dan saiz rakaman.
+		\n<b>256 kbps</b> kadar bit yang berkualiti.
+		\n<b>192 kbps</b> kadar bit kualiti sederhana.
+		\n<b>128 kbps</b> kualiti kadar bit julat pertengahan. Kadar bit biasa untuk podcast. <b>(disyorkan)</b>
+		\n<b>96 kbps</b> umumnya digunakan untuk pertuturan atau penstriman berkualiti rendah.
+		\n<b>48 kbps</b> umumnya diterima hanya untuk ucapan.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> dua saluran berasingan direkodkan. Ini bermakna setiap pembesar suara stereo mempunyai isyarat bunyi yang berbeza. <b>(disyorkan)</b>
+		\n<b>Mono</b> satu saluran isyarat direkodkan. Ia boleh diterbitkan semula melalui beberapa pembesar suara, tetapi semua pembesar suara masih mengeluarkan semula salinan isyarat yang sama.
+		</string>
+    <string name="info_3gp"><b>3gp</b> ialah format kontena multimedia yang dibangunkan untuk perkhidmatan telekomunikasi mudah alih. Gunakannya jika anda perlu menjimatkan ruang.</string>
+    <string name="info_m4a"><b>M4a</b> format dikodkan dengan codec audio AAC mempunyai kualiti yang baik dan saiz yang kecil. <b>(disyorkan)</b></string>
+    <string name="info_wav"><b>Wav</b> ialah format data audio yang tidak dimampatkan. Ia memerlukan lebih banyak ruang daripada format lain. Ia diperlukan untuk kes khusus.</string>
+    <string name="info_stereo"><b>Stereo</b> dua saluran berasingan direkodkan. Ini bermakna setiap pembesar suara stereo mempunyai isyarat bunyi yang berbeza. <b>(disyorkan)</b></string>
+    <string name="info_mono"><b>Mono</b> satu saluran isyarat direkodkan. Ia boleh diterbitkan semula melalui beberapa pembesar suara, tetapi semua pembesar suara masih mengeluarkan semula salinan isyarat yang sama.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> umumnya diterima hanya untuk ucapan.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> biasanya digunakan untuk pertuturan atau penstriman berkualiti rendah.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> kualiti kadar bit julat pertengahan. Kadar bit biasa untuk podcast. <b>(disyorkan)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> kadar bit kualiti sederhana.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> kadar bit kualiti yang baik.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> kadar sampel mempunyai lebar jalur yang kurang daripada sistem telefon moden. Tidak sesuai untuk sebarang tugas rakaman yang serius.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> adalah lebih baik daripada 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> kadar sampel yang popular untuk kadar bit rendah seperti 64 kbps.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> adalah lebih baik sedikit daripada 22kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> ialah kadar pensampelan bagi CD Audio. <b>(disyorkan)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> ialah kadar sampel yang digunakan untuk DVD.</string>
+    <plurals name="delete_selected_records">
+        <item quantity="other">Alihkan ke sampah %d rekod yang dipilih?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="other">Salin %d rekod yang dipilih ke folder Muat turun?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="other">Kongsi %d rekod</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="other">%d rekod berjaya dimuat turun</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="other">%d rekod dialihkan dengan jayanya</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="other">Gagal memuat turun %d rekod</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="other">Gagal mengalihkan %d rekod</item>
+    </plurals>
+    <string name="cancel">Batal</string>
+    <string name="hold_to_record_audio">Tahan untuk merakam, lepaskan untuk menyimpan</string>
+    <string name="mal_title_about">Tentang</string>
+    <string name="mal_title_licenses">lesen</string>
+    <string name="mal_close">tutup</string>
+    <string name="mal_send_email">Hantar e-mel</string>
+    <string name="mal_activity_exception">Tiada apl untuk mengendalikan tindakan</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">versi</string>
+    <string name="Licenses">Lesen</string>
+    <string name="Author">Pengarang</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Mesir</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">kemudahan</string>
+    <string name="Rate_app">Nilaikan apl ini</string>
+    <string name="Send">Hantar email</string>
+    <string name="Call">Hubungi saya</string>
+    <string name="Visit">Lawati Mesir</string>
+    <string name="save_as">Simpan sebagai&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Rekod akan disalin ke direktori \'Muat Turun\'</string>
+    <string name="app_widget_description">Mula merakam widget</string>
+    <string name="error_failed_to_start_recording">Gagal memulakan rakaman</string>
+    <string name="details_file_is_not_available">Malangnya, apl itu tidak lagi mempunyai akses kepada storan awam Android. Anda boleh menemui fail rekod pada telefon pintar anda di lokasi ini: %s</string>
+    <string name="title_file_is_not_available">Tiada akses kepada fail rekod!</string>
+    <string name="button_record">Rekod</string>
+    <string name="button_stop">Berhenti</string>
+    <string name="button_resume">Sambung semula</string>
+    <string name="button_finish">Selesai</string>
+
+</resources>

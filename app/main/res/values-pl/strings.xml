@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Święty Koran</string>
+    <string name="lang">pl</string>
+    <string name="turnlang">Zmień język</string>
+    <string name="sharetwitter">Udostępnij link do aplikacji(Twitter)</string>
+    <string name="sharefacebook">Udostępnij link do aplikacji(Facebook)</string>
+    <string name="sharegmail">Udostępnij link do aplikacji(Gmail)</string>
+    <string name="sharewhatapp">Udostępnij link do aplikacji(What\'s App)</string>
+    <string name="shareinstagram">Udostępnij link do aplikacji(Instagram)</string>
+    <string name="sharetumblr">Udostępnij link do aplikacji(Tumblr)</string>
+    <string name="shareviber">Udostępnij link do aplikacji(Viber)</string>
+    <string name="sharelinkedin">Udostępnij link do aplikacji(Linkedin)</string>
+    <string name="sharesnapchat">Udostępnij link do aplikacji(Snapchat)</string>
+    <string name="shareskype">Udostępnij link do aplikacji(Skype)</string>
+    <string name="sharetelegram">Udostępnij link do aplikacji(Telegram)</string>
+    <string name="sharereddit">Udostępnij link do aplikacji(Reddit)</string>
+    <string name="dialog_title">Nowa wersja dostępna</string>
+    <string name="dialog_message">Nowa wersja aplikacji jest dostępna, kliknij poniżej, aby zaktualizować najnowszą
+        wersję.
+    </string>
+    <string name="dialog_positive_button_title">Aktualizacja</string>
+    <string name="all_records_deleted">Wszystkie nagrania zostały pomyślnie usunięte</string>
+    <string name="app_settings">Ustawienia audio:</string>
+    <string name="available_space">Dostępne miejsce: %s</string>
+    <string name="bookmarks">sygnały odniesienia</string>
+    <string name="btn_cancel">Anuluj</string>
+    <string name="btn_no">Nie</string>
+    <string name="btn_play">Bieganie</string>
+    <string name="btn_save">Zapisz</string>
+    <string name="btn_yes">Tak</string>
+    <string name="delete_all">Usuń wszystkie nagrania</string>
+    <string name="delete_all_records">Usuń wszystkie nagrania i nie będzie można ich odzyskać?</string>
+    <string name="delete_record">Usuń to rejestracja %s?</string>
+    <string name="error_cant_create_file">Nie można utworzyć pliku</string>
+    <string name="error_failed_to_init_player">To nie uruchamia</string>
+    <string name="error_failed_to_init_recorder">Nie udało się rozpocząć nagrywania</string>
+    <string name="error_failed_to_rename">Nie można zmienić nazwy rejestru!</string>
+    <string name="error_file_exists">Ta nazwa pliku już istnieje!</string>
+    <string name="error_invalid_output_file">Plik wyjściowy jest nieprawidłowy</string>
+    <string name="error_permission_denied">Odmowa zgody żądanie</string>
+    <string name="error_player_data_source">Operator nie może odczytać pliku</string>
+    <string name="error_unable_to_read_sound_file">Nie można odtworzyć pliku audio</string>
+    <string name="error_unknown">Nieznany błąd</string>
+    <string name="failed_to_delete_all_records">Nie udało się usunąć wszystkich rejestracji</string>
+    <string name="fetchs">Połączenie internetowe</string>
+    <string name="hold_button_to_record">Rozpocznij nagrywanie</string>
+    <string name="hold_button_to_record2">Podczas nagrywania nadal dotykaj</string>
+    <string name="import_progress">Importuj plik audio …</string>
+    <string name="keep_screen_on">Nie wyłączaj ekranu podczas nagrywania</string>
+    <string name="no_bookmarks">Zakładki są puste.</string>
+    <string name="no_records">Nagrania są puste.</string>
+    <string name="other_settings">Inne:</string>
+    <string name="playback">Uruchom: %s</string>
+    <string name="please_select_record_to_share">Wybierz lub zarejestruj plik audio, który chcesz udostępnić</string>
+    <string name="record_in_stereo">Dźwięk stereo</string>
+    <string name="record_name">Nowa nazwa</string>
+    <string name="record_processing">Przetwarzanie pliku …</string>
+    <string name="recording">Rejestracja: %s</string>
+    <string name="recording_is_on">Nagrywanie jest włączone</string>
+    <string name="recording_progress">Rejestracja&#8230;</string>
+    <string name="recording_paused">zatrzymał się</string>
+    <string name="recording_settings">Ustawienia rejestru:</string>
+    <string name="records">Nagrania</string>
+    <string name="recordtoast">Zarejestrowany czas to:</string>
+    <string name="settingss">Ustawienia</string>
+    <string name="share_record">Udostępnij Rejestracja: %s</string>
+    <string name="slide_to_cancel">Przeciągnij, aby anulować</string>
+    <string name="store_records_public">Przechowuj nagrania w folderze publicznym</string>
+    <string name="today">Dzisiaj</string>
+    <string name="total_duration">Całkowity zarejestrowany okres: %s</string>
+    <string name="total_record_count">Całkowita liczba rekordów: %d</string>
+    <string name="warning">Ostrzeżenie!</string>
+    <string name="yesterday">Wczoraj</string>
+    <string name="private_dir_warning">Rekordy będą przechowywane w prywatnym katalogu aplikacji, który nie jest widoczny dla innych aplikacji</string>
+    <string name="public_dir_warning">Zapisy będą przechowywane we wspólnym katalogu na twoim urządzeniu, który jest widoczny dla innych aplikacji</string>
+    <string name="error_on_recording">Błąd nagrywania!</string>
+
+    <string name="wifion">Wi-Fi</string>
+    <string name="ask_to_rename">Wyświetl okno dialogowe zmiany nazwy po nagraniu zatrzymania</string>
+    <string name="btn_allow">dopuszczać</string>
+    <string name="btn_deny">zaprzeczać</string>
+    <string name="btn_ok">dobrze</string>
+    <string name="delete">usunąć</string>
+    <string name="download">Ściągnij</string>
+    <string name="error_process_waveform">Nie można narysować fali</string>
+    <string name="info">Informacja</string>
+    <string name="naming">Nazewnictwo:</string>
+    <string name="need_write_permission">Aplikacja wymaga pozwolenia na dostęp do publicznej pamięci. Jeśli nie jest to dozwolone, rekordy będą przechowywane w prywatnym katalogu aplikacji</string>
+    <string name="open_record_with">Otwórz %s za pomocą</string>
+    <string name="open_with">otwierać z</string>
+    <string name="rec_duration">Trwanie:</string>
+    <string name="rec_format">Format:</string>
+    <string name="rec_location">Lokalizacja pliku:</string>
+    <string name="rec_name">Imię:</string>
+    <string name="rec_size">Rozmiar:</string>
+    <string name="record_deleted_successfully">rekord został pomyślnie usunięty</string>
+    <string name="rename">Przemianować</string>
+    <string name="share">dzielić</string>
+    <string name="delete_all2">Usuń wszystko</string>
+    <string name="dont_ask_again_rename">Nie pytaj ponownie o zmianę nazwy</string>
+    <string name="error_lost_records">Niektóre twoje rekordy zostały usunięte lub przeniesione</string>
+    <string name="lost_records">Utracone rekordy</string>
+    <string name="records_was_removed">Niektóre pliki akt nie zostały znalezione w katalogu akt.Być może zostały usunięte lub przeniesione.</string>
+    <string name="btn_details">Szczegóły</string>
+    <string name="cancel_rec">Rejestracja została anulowana</string>
+    <string name="delete_record_forever">Usunąć ten rekord na zawsze %s?</string>
+    <string name="empty">Pusty</string>
+    <string name="rec_frequency">Częstotliwość:</string>
+    <string name="error_no_available_space">Brak dostępnego miejsca!</string>
+    <string name="record_moved_into_trash">Rekord został przeniesiony do kosza</string>
+    <string name="record_restored_successfully">Rekord został pomyślnie przywrócony</string>
+    <string name="restore_record">Przywrócić ten rekord?</string>
+    <string name="trash_info">Rekordy przeniesione do kosza zostaną usunięte na zawsze za 60 dni.</string>
+    <string name="trash">Tandeta</string>
+    <string name="rec_created">Utworzony:</string>
+    <string name="error_failed_access_to_storage" >Nieudany dostęp do pamięci plików</string>
+    <string name="downloading_cancel" >Pobieranie anulowane</string>
+    <string name="downloading_success" >%s pobrane do katalogu Pobierz</string>
+    <string name="downloading_failed" >Nie udało się pobrać: %s</string>
+    <string name="downloading" >Ściąganie: %s</string>
+    <string name="by_date" >Według daty (najnowsza)</string>
+    <string name="by_date_desc" >Według daty (najstarsze)</string>
+    <string name="by_name" >Według nazwy (A-Z)</string>
+    <string name="by_name_desc" >Według nazwy (Z-A)</string>
+    <string name="by_duration" >Według czasu trwania (najdłuższy)</string>
+    <string name="by_duration_desc" >Według czasu trwania (najkrótszy)</string>
+    <string name="delete_this_record" >Usunąć ten rekord?</string>
+    <string name="all_records_deleted_successfully" >Wszystkie rekordy zostały pomyślnie usunięte</string>
+    <string name="refresh">Odświeżać</string>
+    <string name="find">Odnaleźć</string>
+    <string name="share_via">Podziel się przez</string>
+    <string name="copy_link">Kopiuj link</string>
+    <string name="copied_to_clipboard">Skopiowane do schowka</string>
+    <string name="about">O aplikacji</string>
+    <string name="back">Kliknij ponownie, aby wyjść</string>
+    <string name="finalback">Kliknij ponownie, aby wrócić do menu głównego</string>
+    <string name="btn_savee">Nazwa została pomyślnie zmodyfikowana</string>
+    <string name="btn_cancell">Zmiana nazwy anulowana</string>
+    <string name="btn_c">Plik został usunięty</string>
+    <string name="btn_cc">kasować</string>
+    <string name="btn_ccc">Plik został pomyślnie usunięty</string>
+    <string name="btn_cccc">Pliki zostały cofnięte</string>
+    <string name="btn_ccccc">Wszystkie nagrania zostały pomyślnie usunięte</string>
+    <string name="btn_cancelll">kończący się</string>
+    <string name="settings">Ustawienia</string>
+    <string name="recording_feature_disabled">Funkcja nagrywania wyłączona</string>
+    <string name="selected">%d wybrane</string>
+    <string name="processing_canceled">Przetwarzanie jest anulowane</string>
+    <string name="record_calculation">Obliczenia kształtu fali&#8230;</string>
+    <string name="restore">Przywrócić</string>
+    <string name="dont_ask_again">Nie pytaj ponownie</string>
+    <string name="downloading_success_and_fail_count">%d rekordów pobrano pomyślnie, a %d nie udało się pobrać</string>
+    <string name="moving_records_success_and_fail_count">%d rekordów zostało przeniesionych pomyślnie, a %d nie udało się przenieść</string>
+    <string name="move_record_success">%s przeniesiono do prywatnego katalogu aplikacji</string>
+    <string name="move_record_failed">Nie udało się przenieść: %s</string>
+    <string name="downloading_failed_file_already_exists">Nie udało się pobrać. Plik o nazwie %s już istnieje</string>
+    <string name="selected_records_moved_into_trash">Wybrane rekordy przeniesiono do kosza</string>
+    <string name="record_imported_successfully">Rekord został pomyślnie zaimportowany</string>
+    <string name="cant_import_files">Nie można zaimportować plików</string>
+    <string name="file_browser">przeglądarka plików</string>
+    <string name="private_dir">Katalog prywatny</string>
+    <string name="public_dir">Katalog publiczny</string>
+    <string name="found_in_the_app">Znalezione w aplikacji</string>
+    <string name="not_found_in_the_app">Nie znaleziono w aplikacji</string>
+    <string name="in_trash">w śmieciach</string>
+    <string name="btn_get_started">Zaczynaj</string>
+    <string name="btn_apply">Zastosować</string>
+    <string name="btn_reset">Resetowanie</string>
+    <string name="btn_next">Następny</string>
+    <string name="view">Pogląd</string>
+    <string name="view_records">Zobacz rekordy</string>
+    <string name="move_records_needed">Przenieś potrzebne rekordy</string>
+    <string name="moving_record">Przenoszenie rekordu: %s</string>
+    <string name="moving_record_cancel">Anulowano przeprowadzkę</string>
+    <string name="move_records_info">Niektóre z Twoich danych są nadal przechowywane w magazynie publicznym. Wkrótce pamięć publiczna przestanie być dostępna dla aplikacji. Musimy przenieść te rekordy do prywatnego katalogu aplikacji.</string>
+    <string name="recording_format">Format nagrywania:</string>
+    <string name="bitrate">szybkość transmisji:</string>
+    <string name="channels">Liczba kanałów:</string>
+    <string name="sample_rate">częstotliwość próbkowania:</string>
+    <string name="size_per_min">%s Mb/min spodziewany rozmiar</string>
+    <string name="records_location">Lokalizacja rekordów: %s</string>
+    <string name="feature_not_available_in_android_10">Ta funkcja nie jest już dostępna w systemie Android 10 lub nowszym.</string>
+    <string name="move_records">Przenieś %d rekordów</string>
+    <string name="error_failed_to_restore">Nie udało się przywrócić rekordu!</string>
+    <string name="error_failed_to_delete">Nie udało się usunąć rekordu!</string>
+    <string name="move_public_storage_records_message">Przenieś rekordy pamięci publicznej jest potrzebne</string>
+    <string name="later">Później</string>
+    <string name="move">Ruszaj się</string>
+    <string name="move_all">Przesuń wszystkie</string>
+    <string name="start_recording">Rozpocznij nagrywanie</string>
+    <string name="btn_import">Import</string>
+    <string name="info_format"><b>M4a</b> format jest zakodowany za pomocą kodeka audio AAC ma dobrą jakość i mały rozmiar. <b>(Zalecana)</b>
+		\n<b>Wav</b> to nieskompresowany format danych audio. Zajmuje znacznie więcej miejsca niż inne formaty. Jest potrzebny w szczególnych przypadkach.
+		\n<b>3gp</b> to multimedialny format kontenera opracowany z myślą o usługach telefonii komórkowej. Użyj go, jeśli potrzebujesz zaoszczędzić miejsce.
+		</string>
+    <string name="info_frequency"><b>Częstotliwość próbkowania</b> to liczba próbek audio przenoszonych na sekundę.
+		\n<b>48kHz</b> to częstotliwość próbkowania używana dla płyt DVD.
+		\n<b>44,1kHz</b> to częstotliwość próbkowania płyt Audio CD. <b>(Zalecana)</b>
+		\n<b>22kHz</b> popularna częstotliwość próbkowania dla niskiej przepływności, na przykład 64 kb/s.
+		\n <b>8kHz</b> częstotliwość próbkowania ma mniejszą przepustowość niż nowoczesne systemy telefoniczne. Nie nadaje się do żadnych poważnych zadań związanych z nagrywaniem.
+		</string>
+    <string name="info_bitrate"><b>szybkość transmisji</b> to rozmiar danych na sekundę dźwięku. Bezpośrednio wpływa na jakość i rozmiar nagrania.
+		\n<b>256 kbps</b> dobrej jakości szybkość transmisji.
+		\n<b>192 kbps</b> średniej jakości szybkość transmisji.
+		\n<b>128 kbps</b> jakość bitrate o średnim zakresie. Wspólna szybkość transmisji bitów dla podcastów. <b>(Zalecana)</b>
+		\n<b>96 kbps</b> zwykle używany do przesyłania mowy lub niskiej jakości.
+		\n<b>48 kbps</b> ogólnie akceptowany tylko dla mowy.
+		</string>
+    <string name="info_channels">
+		<b>Stereo</b> nagrywane są dwa oddzielne kanały. Oznacza to, że każdy głośnik stereo ma inny sygnał dźwiękowy. <b>(Zalecana)</b>
+		\n<b>Mono</b> rejestrowany jest jeden kanał sygnału. Można go odtworzyć przez kilka głośników, ale wszystkie głośniki nadal odtwarzają tę samą kopię sygnału.
+		</string>
+    <string name="info_3gp"><b>3gp</b> to multimedialny format kontenera opracowany z myślą o usługach telefonii komórkowej. Użyj go, jeśli potrzebujesz zaoszczędzić miejsce.</string>
+    <string name="info_m4a"><b>M4a</b> format jest zakodowany za pomocą kodeka audio AAC ma dobrą jakość i mały rozmiar. <b>(Zalecana)</b></string>
+    <string name="info_wav"><b>Wav</b> to nieskompresowany format danych audio. Zajmuje znacznie więcej miejsca niż inne formaty. Jest potrzebny w szczególnych przypadkach.</string>
+    <string name="info_stereo"><b>Stereo</b> nagrywane są dwa oddzielne kanały. Oznacza to, że każdy głośnik stereo ma inny sygnał dźwiękowy. <b>(Zalecana)</b></string>
+    <string name="info_mono"><b>Mono</b> rejestrowany jest jeden kanał sygnału. Można go odtworzyć przez kilka głośników, ale wszystkie głośniki nadal odtwarzają tę samą kopię sygnału.</string>
+    <string name="info_bitrate_48"><b>48 kbps</b> ogólnie akceptowany tylko dla mowy.</string>
+    <string name="info_bitrate_96"><b>96 kbps</b> zwykle używany do przesyłania mowy lub niskiej jakości.</string>
+    <string name="info_bitrate_128"><b>128 kbps</b> jakość bitrate o średnim zakresie. Wspólna szybkość transmisji bitów dla podcastów. <b>(Zalecana)</b></string>
+    <string name="info_bitrate_192"><b>192 kbps</b> średniej jakości szybkość transmisji.</string>
+    <string name="info_bitrate_256"><b>256 kbps</b> dobrej jakości szybkość transmisji.</string>
+    <string name="info_sample_rate_8k"><b>8kHz</b> częstotliwość próbkowania ma mniejszą przepustowość niż nowoczesne systemy telefoniczne. Nie nadaje się do żadnych poważnych zadań związanych z nagrywaniem.</string>
+    <string name="info_sample_rate_16k"><b>16kHz</b> jest lepszy niż 8kHz.</string>
+    <string name="info_sample_rate_22k"><b>22kHz</b> popularna częstotliwość próbkowania dla niskiej przepływności, na przykład 64 kb/s.</string>
+    <string name="info_sample_rate_32k"><b>32kHz</b> jest nieco lepszy niż 22kHz.</string>
+    <string name="info_sample_rate_44k"><b>44,1kHz</b> to częstotliwość próbkowania płyt Audio CD. <b>(Zalecana)</b></string>
+    <string name="info_sample_rate_48k"><b>48kHz</b> to częstotliwość próbkowania używana dla płyt DVD.</string>
+    <plurals name="delete_selected_records">
+        <item quantity="one">Przenieść do kosza %d wybrany rekordu?</item>
+        <item quantity="few">Przenieść do kosza %d wybrany rekordu?</item>
+        <item quantity="many">Przenieść do kosza %d wybrany rekordu?</item>
+        <item quantity="other">Przenieść do kosza %d wybrany rekordu?</item>
+    </plurals>
+    <plurals name="download_selected_records">
+        <item quantity="one">Skopiować %d wybrany rekordu do folderu pobierania?</item>
+        <item quantity="few">Skopiować %d wybrany rekordu do folderu pobierania?</item>
+        <item quantity="many">Skopiować %d wybrany rekordu do folderu pobierania?</item>
+        <item quantity="other">Skopiować %d wybrany rekordu do folderu pobierania?</item>
+    </plurals>
+    <plurals name="share_records_count">
+        <item quantity="one">Udostępnij %d rekordu</item>
+        <item quantity="few">Udostępnij %d rekordu</item>
+        <item quantity="many">Udostępnij %d rekordu</item>
+        <item quantity="other">Udostępnij %d rekordu</item>
+    </plurals>
+    <plurals name="downloading_success_count">
+        <item quantity="one">%d rekordu został pomyślnie pobrany</item>
+        <item quantity="few">%d rekordu został pomyślnie pobrany</item>
+        <item quantity="many">%d rekordu został pomyślnie pobrany</item>
+        <item quantity="other">%d rekordu został pomyślnie pobrany</item>
+    </plurals>
+    <plurals name="move_records_success_count">
+        <item quantity="one">%d rekordu został przeniesiony pomyślnie</item>
+        <item quantity="few">%d rekordu został przeniesiony pomyślnie</item>
+        <item quantity="many">%d rekordu został przeniesiony pomyślnie</item>
+        <item quantity="other">%d rekordu został przeniesiony pomyślnie</item>
+    </plurals>
+    <plurals name="downloading_failed_count">
+        <item quantity="one">Nie udało się pobrać %d rekordu</item>
+        <item quantity="few">Nie udało się pobrać %d rekordu</item>
+        <item quantity="many">Nie udało się pobrać %d rekordu</item>
+        <item quantity="other">Nie udało się pobrać %d rekordu</item>
+    </plurals>
+    <plurals name="move_records_failed_count">
+        <item quantity="one">Nie można przenieść %d rekordu</item>
+        <item quantity="few">Nie można przenieść %d rekordu</item>
+        <item quantity="many">Nie można przenieść %d rekordu</item>
+        <item quantity="other">Nie można przenieść %d rekordu</item>
+    </plurals>
+    <string name="cancel">Anuluj</string>
+    <string name="hold_to_record_audio">Przytrzymaj, aby nagrać, zwolnij, aby zapisać</string>
+    <string name="mal_title_about">O aplikacji</string>
+    <string name="mal_title_licenses">Licencje</string>
+    <string name="mal_close">Zamknąć</string>
+    <string name="mal_send_email">Wyślij e-mail</string>
+    <string name="mal_activity_exception">Brak aplikacji do obsługi akcji</string>
+    <string name="auther1">© 2022 Ahmed Saad</string>
+    <string name="version">Wersja</string>
+    <string name="Licenses">Licencje</string>
+    <string name="Author">Autor</string>
+    <string name="name">Ahmed Saad</string>
+    <string name="egypt">Egipt</string>
+    <string name="github">GitHub</string>
+    <string name="Convenience">Wygoda</string>
+    <string name="Rate_app">Oceń tę aplikację</string>
+    <string name="Send">Wyślij e-mail</string>
+    <string name="Call">Zadzwoń</string>
+    <string name="Visit">Odwiedź Egipt</string>
+    <string name="save_as">Zapisz jako&#8230;</string>
+    <string name="record_will_be_copied_into_downloads">Rekord zostanie skopiowany do katalogu „Pobrane”</string>
+    <string name="app_widget_description">Rozpocznij nagrywanie widżetu</string>
+    <string name="error_failed_to_start_recording">Nie udało się rozpocząć nagrywania</string>
+    <string name="details_file_is_not_available">Niestety aplikacja nie ma już dostępu do pamięci publicznej Androida. Plik nagrania możesz znaleźć na swoim smartfonie w tej lokalizacji: %s</string>
+    <string name="title_file_is_not_available">Brak dostępu do pliku nagrania!</string>
+    <string name="button_record">Nagrywać</string>
+    <string name="button_stop">Zatrzymywać się</string>
+    <string name="button_resume">Wznawiać</string>
+    <string name="button_finish">Skończyć</string>
+
+</resources>
