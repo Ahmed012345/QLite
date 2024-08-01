@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layoutDirection="ltr"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        style="@style/Toolbar"
+        app:contentInsetStart="@dimen/_1mdp">
+
+        <ImageButton
+            android:id="@+id/book"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:background="?android:selectableItemBackgroundBorderless"
+            android:padding="@dimen/_8mdp"
+            android:src="@drawable/book"
+            tools:ignore="ContentDescription" />
+
+        <com.finallite.app.main.LightTextView
+            android:id="@+id/q"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_vertical"
+            android:text="@string/app_name"
+            android:textColor="@color/white"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:textSize="@dimen/menu" />
+
+        <ImageButton
+            android:id="@+id/btn_rec"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:background="?android:selectableItemBackgroundBorderless"
+            android:padding="@dimen/_8mdp"
+            android:src="@drawable/rec"
+            tools:ignore="ContentDescription" />
+    </androidx.appcompat.widget.Toolbar>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/ll"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <com.airbnb.lottie.LottieAnimationView
+                    android:id="@+id/animation_view"
+                    android:layout_width="@dimen/_300mdp"
+                    android:layout_height="@dimen/_300mdp"
+                    android:layout_centerInParent="true" />
+            </RelativeLayout>
+
+            <com.cleveroad.sy.cyclemenuwidget.CycleMenuWidget
+                android:id="@+id/itemCycleMenuWidget1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                app:cm_autoMaxRadius="@dimen/_220mdp"
+                app:cm_autoMinRadius="@dimen/_10mdp"
+                app:cm_corner="left_top"
+                app:cm_fixedRadius="@dimen/_200mdp"
+                app:cm_radius_scale_type="fixed"
+                app:cm_scroll_type="endless"
+                app:cm_item_background_tint="#ffffff"
+                app:cm_ripple_color="@color/grey_400"/>
+
+            <com.cleveroad.sy.cyclemenuwidget.CycleMenuWidget
+                android:id="@+id/itemCycleMenuWidget2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                app:cm_autoMaxRadius="@dimen/_220mdp"
+                app:cm_autoMinRadius="@dimen/_10mdp"
+                app:cm_corner="right_top"
+                app:cm_fixedRadius="@dimen/_200mdp"
+                app:cm_item_background_tint="#ffffff"
+                app:cm_ripple_color="@color/grey_400"
+                app:cm_radius_scale_type="fixed"
+                app:cm_scroll_type="endless" />
+
+            <com.nightonke.boommenu.BoomMenuButton
+                android:id="@+id/bmb1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="@dimen/_15mdp"
+                android:layout_marginTop="@dimen/_15mdp"
+                android:layout_marginEnd="@dimen/_15mdp"
+                android:layout_marginBottom="@dimen/_15mdp"
+                app:bmb_buttonEnum="textOutsideCircle"
+                app:bmb_buttonPlaceEnum="buttonPlace_custom"
+                app:bmb_draggable="true"
+                app:bmb_hideMoveEaseEnum="outBounce"
+                app:bmb_hideRotateEaseEnum="outBounce"
+                app:bmb_hideScaleEaseEnum="outBounce"
+                app:bmb_highlightedColor="@color/bmbhalight"
+                app:bmb_normalColor="@color/white"
+                app:bmb_piecePlaceEnum="piecePlace_share"
+                app:bmb_rippleEffect="true"
+                app:bmb_showMoveEaseEnum="outBounce"
+                app:bmb_showRotateEaseEnum="outBounce"
+                app:bmb_showScaleEaseEnum="outBounce" />
+
+            <com.finallite.MovableFloatingActionButton
+                android:id="@+id/fab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:bmb_draggable="true"
+                app:bmb_rippleEffect="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                app:bmb_highlightedColor="@color/bmbhalight"
+                app:bmb_normalColor="@color/white"
+                android:layout_marginStart="@dimen/_15mdp"
+                android:layout_marginTop="@dimen/_15mdp"
+                android:layout_marginEnd="@dimen/_15mdp"
+                android:layout_marginBottom="@dimen/_15mdp" >
+
+
+                <ImageView
+                    android:layout_width="@dimen/_40mdp"
+                    android:layout_height="@dimen/_40mdp"
+                    android:src="@drawable/about"
+                    android:layout_gravity="center" />
+
+            </com.finallite.MovableFloatingActionButton>
+
+
+            </RelativeLayout>
+        </LinearLayout>
+    </FrameLayout>
